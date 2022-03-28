@@ -107,7 +107,7 @@ function ForestfireReasonPage() {
                     </Form.Select>
                   </Col>
                   <Col>
-                    <Form.Label>Feature</Form.Label>
+                    <Form.Label>Wild Fire Reason</Form.Label>
                     <Form.Select
                       defaultValue={reason}
                       onChange={handleReasonChange}
