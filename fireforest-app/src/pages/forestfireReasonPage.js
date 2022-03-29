@@ -1,6 +1,5 @@
 import React, { useState } from "react";
 import Tab from "react-bootstrap/Tab";
-import Card from "react-bootstrap/Card";
 import Row from "react-bootstrap/Row";
 import Col from "react-bootstrap/Col";
 import Nav from "react-bootstrap/Nav";
@@ -66,13 +65,13 @@ function ForestfireReasonPage() {
         <Col sm={3}>
           <Nav variant="pills" className="flex-column">
             <Nav.Item>
-              <Nav.Link eventKey="first">Causes of fires</Nav.Link>
+              <Nav.Link eventKey="first" className="clickable">Causes of fires</Nav.Link>
             </Nav.Item>
             <Nav.Item>
-              <Nav.Link eventKey="second">Wild fire reasons heat map</Nav.Link>
+              <Nav.Link eventKey="second" className="clickable">Wild fire reasons heat map</Nav.Link>
             </Nav.Item>
             <Nav.Item>
-              <Nav.Link eventKey="third">
+              <Nav.Link eventKey="third" className="clickable">
                 Wild fire reason predict plot
               </Nav.Link>
             </Nav.Item>
@@ -81,18 +80,12 @@ function ForestfireReasonPage() {
         <Col sm={9}>
           <Tab.Content>
             <Tab.Pane eventKey="first">
-              <Card>
-                <img
-                  className="d-block img-format"
-                  src={images.fire_reason}
-                  width="50"
-                />
-                <Card.Body>
-                  <Card.Title style={{ textAlign: "center" }}>
-                    Wild fire reasons
-                  </Card.Title>
-                </Card.Body>
-              </Card>
+              <img
+                className="d-block img-format"
+                src={images.fire_reason}
+                alt="fire reason plot"
+                width="50"
+              />
             </Tab.Pane>
             <Tab.Pane eventKey="second">
               <div>
@@ -120,44 +113,42 @@ function ForestfireReasonPage() {
               </div>
             </Tab.Pane>
             <Tab.Pane eventKey="third">
-              <Card>
-                <img
-                  className="d-block img-format"
-                  src={images.correlation_plot_one}
-                  width="50"
-                />
-              </Card>
-              <Card>
-                <img
-                  className="d-block img-format"
-                  src={images.correlation_plot_two}
-                  width="50"
-                />
-                <Card.Body>
-                  <Card.Title style={{ textAlign: "center" }}>
-                    Correlation plots
-                  </Card.Title>
-                </Card.Body>
-              </Card>
-              <Card>
-                <img
-                  className="d-block img-format"
-                  src={images.feature_importance}
-                  width="50"
-                />
-                <Card.Body>
-                  <Card.Title style={{ textAlign: "center" }}>
-                    Feature Importance
-                  </Card.Title>
-                </Card.Body>
-              </Card>
-              <Card>
-                <img
-                  className="d-block img-format"
-                  src={images.info}
-                  width="50"
-                />
-              </Card>
+              <Row>
+                <Col>
+                  <img
+                    className="d-block img-format"
+                    src={images.correlation_plot_one}
+                    alt="correlation plot"
+                    width="50"
+                  />
+                </Col>
+                <Col>
+                  <img
+                    className="d-block img-format"
+                    src={images.correlation_plot_two}
+                    alt="correlation plot"
+                    width="50"
+                  />
+                </Col>
+              </Row>
+              <Row>
+                <Col>
+                  <img
+                    className="d-block img-format"
+                    src={images.feature_importance}
+                    alt="feature importance"
+                    width="50"
+                  />
+                </Col>
+                <Col>
+                  <img
+                    className="d-block img-format"
+                    src={images.info}
+                    alt="other information plot"
+                    width="50"
+                  />
+                </Col>
+              </Row>
             </Tab.Pane>
           </Tab.Content>
         </Col>

@@ -1,38 +1,47 @@
 import React, { useState } from "react";
 import Row from "react-bootstrap/Row";
 import Col from "react-bootstrap/Col";
-import Form from "react-bootstrap/Form";
+import Card from "react-bootstrap/Card";
+import Button from "react-bootstrap/Button";
 
-import MapChartFireSizeByState from "../components/MapChartFireSizeByState";
+import "./firesizePage.css";
+import SizeModal from "../components/size_modal";
+
+const images = {
+  wildfire_size_locations: "/images/wildfire_size/wildfire_size_locations.png",
+};
 
 function FiresizePage() {
-  const [month, setMonth] = useState("1");
+  const [sizeModalShow, setSizeModalShow] = useState(false);
 
-  let months = [];
-  for (let i = 1; i < 13; i++) {
-    months.push(
-      <option key={i} value={i}>
-        {i}
-      </option>
-    );
-  }
-
-  const handleMonthChange = (e) => {
-    setMonth(e.target.value);
-  };
+  const handleSizeModalClose = () => setSizeModalShow(false);
+  const handleSizeModalShow = () => setSizeModalShow(true);
 
   return (
-    <div>
-      <Row style={{ width: "500px" }}>
-        <Col>
-          <Form.Label>Month</Form.Label>
-          <Form.Select defaultValue={month} onChange={handleMonthChange}>
-            {months}
-          </Form.Select>
-        </Col>
-      </Row>
-      <MapChartFireSizeByState month={month} />
-    </div>
+    <Card className="text-center">
+      <Card.Body>
+        <Row>
+          <Col>
+            <img
+              className="d-block img-format"
+              src={images.wildfire_size_locations}
+              alt="correlation plot"
+              // width="40"
+            />
+          </Col>
+          <Col>
+            <img
+              className="d-block img-format"
+              src={images.wildfire_size_locations}
+              alt="correlation plot"
+              width="50"
+            />
+          </Col>
+        </Row>
+        <Button variant="primary" onClick={handleSizeModalShow}>Fire Size Heat Map</Button>
+        <SizeModal show={sizeModalShow} onHandleClose={handleSizeModalClose}/>
+      </Card.Body>
+    </Card>
   );
 }
 
