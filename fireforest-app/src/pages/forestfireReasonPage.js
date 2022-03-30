@@ -7,6 +7,7 @@ import Form from "react-bootstrap/Form";
 
 import "./forestfireReasonPage.css";
 import MapChartByState from "../components/MapChartByState";
+import FireReasonDemo from "../components/fireReasonDemo";
 
 const images = {
   fire_reason: "/images/wildfire_reason/fire_reason.png",
@@ -65,14 +66,28 @@ function ForestfireReasonPage() {
         <Col sm={3}>
           <Nav variant="pills" className="flex-column">
             <Nav.Item>
-              <Nav.Link eventKey="first" className="clickable">Causes of fires</Nav.Link>
+              <Nav.Link eventKey="first" className="clickable">
+                Causes of fires
+              </Nav.Link>
             </Nav.Item>
             <Nav.Item>
-              <Nav.Link eventKey="second" className="clickable">Wild fire reasons heat map</Nav.Link>
+              <Nav.Link eventKey="second" className="clickable">
+                Wild fire reasons heat map
+              </Nav.Link>
             </Nav.Item>
             <Nav.Item>
               <Nav.Link eventKey="third" className="clickable">
                 Wild fire reason predict plot
+              </Nav.Link>
+            </Nav.Item>
+            <Nav.Item>
+              <Nav.Link eventKey="fourth" className="clickable">
+                Wild fire reason predict Demo with group
+              </Nav.Link>
+            </Nav.Item>
+            <Nav.Item>
+              <Nav.Link eventKey="fifth" className="clickable">
+                Wild fire reason predict Demo without group
               </Nav.Link>
             </Nav.Item>
           </Nav>
@@ -149,6 +164,12 @@ function ForestfireReasonPage() {
                   />
                 </Col>
               </Row>
+            </Tab.Pane>
+            <Tab.Pane eventKey="fourth">
+              <FireReasonDemo isGrouped={false}/>
+            </Tab.Pane>
+            <Tab.Pane eventKey="fifth">
+              <FireReasonDemo isGrouped={true}/>
             </Tab.Pane>
           </Tab.Content>
         </Col>
