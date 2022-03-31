@@ -1,10 +1,10 @@
 import { Route, Routes } from "react-router-dom";
 import NavigationBar from "./components/navigationBar";
 
-import HomePage from "./pages/homePage";
-import FiresizePage from "./pages/firesizePage";
-import ForestfireHeatmapPage from "./pages/forestfireHeatmapPage";
-import ForestfireReasonPage from "./pages/forestfireReasonPage";
+import HomePage from "./pages/homePage/homePage.js";
+import FiresizePage from "./pages/firesizePage/firesizePage";
+import ForestfireHeatmapPage from "./pages/forestfireHeatmapPage/forestfireHeatmapPage";
+import ForestfireReasonPage from "./pages/forestfireReasonPage/forestfireReasonPage.js";
 
 function App() {
   return (

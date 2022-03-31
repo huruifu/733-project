@@ -6,8 +6,9 @@ import Nav from "react-bootstrap/Nav";
 import Form from "react-bootstrap/Form";
 
 import "./forestfireReasonPage.css";
-import MapChartByState from "../components/MapChartByState";
-import FireReasonDemo from "../components/fireReasonDemo";
+
+import MapChartByState from "../../components/MapChartByState";
+import FireReasonDemo from "../../components/fireReasonDemo";
 
 const images = {
   fire_reason: "/images/wildfire_reason/fire_reason.png",
@@ -82,12 +83,12 @@ function ForestfireReasonPage() {
             </Nav.Item>
             <Nav.Item>
               <Nav.Link eventKey="fourth" className="clickable">
-                Wild fire reason predict Demo with group
+                Prediction Demo with group
               </Nav.Link>
             </Nav.Item>
             <Nav.Item>
               <Nav.Link eventKey="fifth" className="clickable">
-                Wild fire reason predict Demo without group
+                Prediction Demo without group
               </Nav.Link>
             </Nav.Item>
           </Nav>

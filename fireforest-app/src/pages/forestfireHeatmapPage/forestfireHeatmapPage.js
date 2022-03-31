@@ -3,7 +3,7 @@ import Form from "react-bootstrap/Form";
 import Row from "react-bootstrap/Row";
 import Col from "react-bootstrap/Col";
 
-import MapChart from "../components/MapChart";
+import MapChart from "../../components/MapChart";
 
 function ForestfireHeatmapPage() {
   const [month, setMonth] = useState("1");

@@ -5,7 +5,7 @@ import Card from "react-bootstrap/Card";
 import Button from "react-bootstrap/Button";
 
 import "./firesizePage.css";
-import SizeModal from "../components/size_modal";
+import SizeModal from "../../components/size_modal"
 
 const images = {
   wildfire_size_locations: "/images/wildfire_size/wildfire_size_locations.png",
@@ -23,7 +23,7 @@ function FiresizePage() {
         <Row>
           <Col>
             <img
-              className="d-block img-format"
+              className="d-block img-format-v3"
               src={images.wildfire_size_locations}
               alt="correlation plot"
               // width="40"
@@ -31,7 +31,7 @@ function FiresizePage() {
           </Col>
           <Col>
             <img
-              className="d-block img-format"
+              className="d-block img-format-v3"
               src={images.wildfire_size_locations}
               alt="correlation plot"
               width="50"
