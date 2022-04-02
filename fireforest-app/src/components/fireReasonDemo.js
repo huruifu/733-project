@@ -359,15 +359,15 @@ const FireReasonDemo = (props) => {
 
   const isButtonDisabled = () => {
     return (
-      discoveryDoy === null &&
-      fireContinueDays === null &&
-      fireSize === null &&
-      latitude === null &&
-      longtitude === null &&
-      populationDensity === null &&
-      elevation === null &&
-      awnd === null &&
-      prcp === null &&
+      discoveryDoy === null ||
+      fireContinueDays === null ||
+      fireSize === null ||
+      latitude === null ||
+      longtitude === null ||
+      populationDensity === null ||
+      elevation === null ||
+      awnd === null ||
+      prcp === null ||
       tavg === null
     );
   };
@@ -487,7 +487,7 @@ const FireReasonDemo = (props) => {
               defaultValue={state}
               onChange={(e) => setState(e.target.value)}
             >
-              <option value={1}>AK</option>
+              <option value={0}>AK</option>
               <option value={1}>AL</option>
               <option value={2}>AR</option>
               <option value={3}>AZ</option>
