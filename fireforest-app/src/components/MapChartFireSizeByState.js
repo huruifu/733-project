@@ -26,21 +26,19 @@ const offsets = {
   DC: [49, 21],
 };
 
-const MapChartFireSizeByState = ({ month }) => {
+const MapChartFireSizeByState = ({ year, month }) => {
   const [data, setData] = useState([]);
 
   useEffect(() => {
     // https://www.bls.gov/lau/
-    console.log(month);
-    csv("/data/fire_size.csv").then((states) => {
-      console.log(states);
+    let filepath = (year) => `/data/fire_occurrence_by_state/${year}.csv`
+    csv(filepath(year)).then((states) => {
       setData(states);
-      console.log(data);
     });
-  }, []);
+  }, [year]);
 
   const colorScale = scaleQuantile()
-    .domain(data.map((d) => d.size))
+    .domain(data.map((d) => d.counts))
     .range([
       "#ffedea",
       "#ffcec5",
@@ -60,15 +58,13 @@ const MapChartFireSizeByState = ({ month }) => {
           <>
             {geographies.map((geo) => {
               const cur = data.find(
-                (s) => parseInt(s.val) === parseInt(geo.id) && s.month === month
+                (s) => allStates.find(a => s.STATE === a.id && a.val === geo.id && s.month === month)
               );
               return (
                 <Geography
                   key={geo.rsmKey}
-                  //   stroke="#FFF"
                   geography={geo}
-                  // fill="#DDD"
-                  fill={cur ? colorScale(cur.size) : "#ffedea"}
+                  fill={cur ? colorScale(cur.counts) : "#ffedea"}
                 />
               );
             })}
