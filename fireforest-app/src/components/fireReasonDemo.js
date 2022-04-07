@@ -1,10 +1,12 @@
 import React, { useState } from "react";
+import axios from "axios";
 
 import Button from "react-bootstrap/Button";
 import Form from "react-bootstrap/Form";
 import Alert from "react-bootstrap/Alert";
 import Row from "react-bootstrap/Row";
 import Col from "react-bootstrap/Col";
+import Spinner from "react-bootstrap/Spinner";
 
 import "./fireReasonDemo.css";
 
@@ -24,6 +26,7 @@ const FireReasonDemo = (props) => {
   const [tavg, setTavg] = useState(null); //12
 
   const [prediction, setPrediction] = useState(null);
+  const [inProgress, setInProgress] = useState(false);
 
   //   {'Debris Burning': 3,
   //  'Arson': 0,
@@ -37,314 +40,318 @@ const FireReasonDemo = (props) => {
   //  'Powerline': 8,
   //  'Structure': 11,
   //  'Fireworks': 5}
-  const predictTwo = () => {
-    if (longtitude <= -100.91) {
-      if (elevation <= 1009.95) {
-        if (ownerDescr <= 14.5) {
-          if (fireContinueDays <= 16.31) {
-            if (prcp <= 0.04) {
-              if (longtitude <= -123.63) {
-                if (fireSize <= 4.95) {
-                  if (fireSize <= 0.08) {
-                    if (populationDensity <= 0.28) {
-                      if (latitude <= 41.31) {
-                        return "Arson";
-                      } else return "Debris Burning";
-                    } else {
-                      return "Railroad";
-                    }
-                  } else {
-                    if (longtitude <= -123.72) {
-                      if (fireContinueDays <= 0.06) {
-                        if (latitude <= 59.15) {
-                          return "Equipment Use";
-                        } else return "Smoking";
-                      } else {
-                        if (longtitude <= -153.32) {
-                          return "Debris Burning";
-                        } else return "Powerline";
-                      }
-                    } else {
-                      if (prcp <= 0.03) {
-                        if (longtitude <= -123.65) {
-                          return "Children";
-                        } else return "Fireworks";
-                      } else {
-                        if (latitude <= 40.57) {
-                          return "Railroad";
-                        } else return "Structure";
-                      }
-                    }
-                  }
-                } else {
-                  if (latitude <= 59.33) {
-                    if (tavg <= 63.57) {
-                      if (populationDensity <= 1.81) {
-                        if (elevation <= 67.15) {
-                          return "Equipment Use";
-                        } else return "Fireworks";
-                      } else {
-                        if (latitude <= 44.04) {
-                          return "Fireworks";
-                        } else return "Miscellaneous";
-                      }
-                    } else {
-                      if (ownerDescr <= 11.5) {
-                        if (elevation <= 287.15) {
-                          return "Fireworks";
-                        } else return "Campfire";
-                      } else return "Arson";
-                    }
-                  } else {
-                    if (discoveryDoy <= 142.0) {
-                      if (discoveryDoy <= 140.5) {
-                        return "Arson";
-                      } else return "Miscellaneous";
-                    } else {
-                      if (prcp <= 0.02) {
-                        if (awnd <= 7.9) {
-                          return "Campfire";
-                        } else return "Lightning";
-                      } else {
-                        if (fireSize <= 48.25) {
-                          return "Lightning";
-                        } else return "Structure";
-                      }
-                    }
-                  }
-                }
-              } else {
-                if (state <= 8.5) {
-                  if (tavg <= 67.96) {
-                    if (ownerDescr <= 5.5) {
-                      if (elevation <= 105.9) {
-                        if (fireYear <= 3.5) {
-                          return "Debris Burning";
-                        } else return "Lightning";
-                      } else {
-                        if (longtitude <= -122.49) {
-                          return "Children";
-                        } else return "Miscellaneous";
-                      }
-                    } else {
-                      if (elevation <= 480.55) {
-                        if (discoveryDoy <= 124.5) {
-                          return "Structure";
-                        } else return "Children";
-                      } else {
-                        if (discoveryDoy <= 147.5) {
-                          return "Structure";
-                        } else return "Debris Burning";
-                      }
-                    }
-                  } else {
-                    if (fireYear <= 1.5) {
-                      if (longtitude <= -117.24) {
-                        if (populationDensity <= 0.83) {
-                          return "Smoking";
-                        } else return "Arson";
-                      } else {
-                        if (elevation <= 853.75) {
-                          return "Railroad";
-                        } else return "Fireworks";
-                      }
-                    } else {
-                      if (populationDensity <= 0.12) {
-                        if (ownerDescr <= 9.5) {
-                          return "Arson";
-                        } else return "Railroad";
-                      } else {
-                        if (fireSize <= 1.04) {
-                          return "Powerline";
-                        } else return "Arson";
-                      }
-                    }
-                  }
-                } else {
-                  if (discoveryDoy <= 187.5) {
-                    if (discoveryDoy <= 179.5) {
-                      if (longtitude <= -113.6) {
-                        if (discoveryDoy <= 116.5) {
-                          return "Railroad";
-                        } else return "Miscellaneous";
-                      } else {
-                        if (discoveryDoy <= 142.5) {
-                          return "Fireworks";
-                        } else return "Miscellaneous";
-                      }
-                    } else {
-                      if (tavg <= 65.47) {
-                        if (populationDensity <= 31.37) {
-                          return "Railroad";
-                        } else return "Equipment Use";
-                      } else {
-                        if (ownerDescr <= 0.5) {
-                          return "Equipment Use";
-                        } else return "Fireworks";
-                      }
-                    }
-                  } else {
-                    if (fireSize <= 0.15) {
-                      if (fireContinueDays <= 0.1) {
-                        if (populationDensity <= 14.59) {
-                          return "Arson";
-                        } else return "Children";
-                      } else {
-                        if (populationDensity <= 0.21) {
-                          return "Children";
-                        } else return "Fireworks";
-                      }
-                    } else {
-                      if (tavg <= 64.28) {
-                        if (state <= 39.0) {
-                          return "Arson";
-                        } else return "Children";
-                      } else {
-                        if (populationDensity <= 1.32) {
-                          return "Arson";
-                        } else return "Fireworks";
-                      }
-                    }
-                  }
-                }
-              }
-            } else {
-              if (populationDensity <= 1.42) {
-                if (fireSize <= 0.23) {
-                  if (fireContinueDays <= 0.02) {
-                    if (tavg <= 56.46) {
-                      return "Arson";
-                    } else {
-                      if (elevation <= 783.3) {
-                        return "Lightning";
-                      } else {
-                        if (populationDensity <= 0.54) {
-                          return "Lightning";
-                        } else return "Miscellaneous";
-                      }
-                    }
-                  } else {
-                    if (fireContinueDays <= 8.21) {
-                      if (longtitude <= -106.09) {
-                        if (tavg <= 62.78) {
-                          return "Powerline";
-                        } else return "Equipment Use";
-                      } else {
-                        if (discoveryDoy <= 211.0) {
-                          return "Equipment Use";
-                        } else return "Powerline";
-                      }
-                    } else {
-                      if (latitude <= 53.63) {
-                        if (tavg <= 66.82) {
-                          return "Lightning";
-                        } else return "Equipment Use";
-                      } else {
-                        return "Campfire";
-                      }
-                    }
-                  }
-                } else {
-                  if (latitude <= 42.98) {
-                    if (elevation <= 832.4) {
-                      if (latitude <= 32.87) {
-                        return "Lightning";
-                      } else {
-                        if (discoveryDoy <= 150.0) {
-                          return "Arson";
-                        }
-                      }
-                    }
-                  }
-                }
-              }
-            }
-          }
-        }
-      }
-    }
-    return "Fireworks";
-  };
+  // const predictTwo = () => {
+  //   if (longtitude <= -100.91) {
+  //     if (elevation <= 1009.95) {
+  //       if (ownerDescr <= 14.5) {
+  //         if (fireContinueDays <= 16.31) {
+  //           if (prcp <= 0.04) {
+  //             if (longtitude <= -123.63) {
+  //               if (fireSize <= 4.95) {
+  //                 if (fireSize <= 0.08) {
+  //                   if (populationDensity <= 0.28) {
+  //                     if (latitude <= 41.31) {
+  //                       return "Arson";
+  //                     } else return "Debris Burning";
+  //                   } else {
+  //                     return "Railroad";
+  //                   }
+  //                 } else {
+  //                   if (longtitude <= -123.72) {
+  //                     if (fireContinueDays <= 0.06) {
+  //                       if (latitude <= 59.15) {
+  //                         return "Equipment Use";
+  //                       } else return "Smoking";
+  //                     } else {
+  //                       if (longtitude <= -153.32) {
+  //                         return "Debris Burning";
+  //                       } else return "Powerline";
+  //                     }
+  //                   } else {
+  //                     if (prcp <= 0.03) {
+  //                       if (longtitude <= -123.65) {
+  //                         return "Children";
+  //                       } else return "Fireworks";
+  //                     } else {
+  //                       if (latitude <= 40.57) {
+  //                         return "Railroad";
+  //                       } else return "Structure";
+  //                     }
+  //                   }
+  //                 }
+  //               } else {
+  //                 if (latitude <= 59.33) {
+  //                   if (tavg <= 63.57) {
+  //                     if (populationDensity <= 1.81) {
+  //                       if (elevation <= 67.15) {
+  //                         return "Equipment Use";
+  //                       } else return "Fireworks";
+  //                     } else {
+  //                       if (latitude <= 44.04) {
+  //                         return "Fireworks";
+  //                       } else return "Miscellaneous";
+  //                     }
+  //                   } else {
+  //                     if (ownerDescr <= 11.5) {
+  //                       if (elevation <= 287.15) {
+  //                         return "Fireworks";
+  //                       } else return "Campfire";
+  //                     } else return "Arson";
+  //                   }
+  //                 } else {
+  //                   if (discoveryDoy <= 142.0) {
+  //                     if (discoveryDoy <= 140.5) {
+  //                       return "Arson";
+  //                     } else return "Miscellaneous";
+  //                   } else {
+  //                     if (prcp <= 0.02) {
+  //                       if (awnd <= 7.9) {
+  //                         return "Campfire";
+  //                       } else return "Lightning";
+  //                     } else {
+  //                       if (fireSize <= 48.25) {
+  //                         return "Lightning";
+  //                       } else return "Structure";
+  //                     }
+  //                   }
+  //                 }
+  //               }
+  //             } else {
+  //               if (state <= 8.5) {
+  //                 if (tavg <= 67.96) {
+  //                   if (ownerDescr <= 5.5) {
+  //                     if (elevation <= 105.9) {
+  //                       if (fireYear <= 3.5) {
+  //                         return "Debris Burning";
+  //                       } else return "Lightning";
+  //                     } else {
+  //                       if (longtitude <= -122.49) {
+  //                         return "Children";
+  //                       } else return "Miscellaneous";
+  //                     }
+  //                   } else {
+  //                     if (elevation <= 480.55) {
+  //                       if (discoveryDoy <= 124.5) {
+  //                         return "Structure";
+  //                       } else return "Children";
+  //                     } else {
+  //                       if (discoveryDoy <= 147.5) {
+  //                         return "Structure";
+  //                       } else return "Debris Burning";
+  //                     }
+  //                   }
+  //                 } else {
+  //                   if (fireYear <= 1.5) {
+  //                     if (longtitude <= -117.24) {
+  //                       if (populationDensity <= 0.83) {
+  //                         return "Smoking";
+  //                       } else return "Arson";
+  //                     } else {
+  //                       if (elevation <= 853.75) {
+  //                         return "Railroad";
+  //                       } else return "Fireworks";
+  //                     }
+  //                   } else {
+  //                     if (populationDensity <= 0.12) {
+  //                       if (ownerDescr <= 9.5) {
+  //                         return "Arson";
+  //                       } else return "Railroad";
+  //                     } else {
+  //                       if (fireSize <= 1.04) {
+  //                         return "Powerline";
+  //                       } else return "Arson";
+  //                     }
+  //                   }
+  //                 }
+  //               } else {
+  //                 if (discoveryDoy <= 187.5) {
+  //                   if (discoveryDoy <= 179.5) {
+  //                     if (longtitude <= -113.6) {
+  //                       if (discoveryDoy <= 116.5) {
+  //                         return "Railroad";
+  //                       } else return "Miscellaneous";
+  //                     } else {
+  //                       if (discoveryDoy <= 142.5) {
+  //                         return "Fireworks";
+  //                       } else return "Miscellaneous";
+  //                     }
+  //                   } else {
+  //                     if (tavg <= 65.47) {
+  //                       if (populationDensity <= 31.37) {
+  //                         return "Railroad";
+  //                       } else return "Equipment Use";
+  //                     } else {
+  //                       if (ownerDescr <= 0.5) {
+  //                         return "Equipment Use";
+  //                       } else return "Fireworks";
+  //                     }
+  //                   }
+  //                 } else {
+  //                   if (fireSize <= 0.15) {
+  //                     if (fireContinueDays <= 0.1) {
+  //                       if (populationDensity <= 14.59) {
+  //                         return "Arson";
+  //                       } else return "Children";
+  //                     } else {
+  //                       if (populationDensity <= 0.21) {
+  //                         return "Children";
+  //                       } else return "Fireworks";
+  //                     }
+  //                   } else {
+  //                     if (tavg <= 64.28) {
+  //                       if (state <= 39.0) {
+  //                         return "Arson";
+  //                       } else return "Children";
+  //                     } else {
+  //                       if (populationDensity <= 1.32) {
+  //                         return "Arson";
+  //                       } else return "Fireworks";
+  //                     }
+  //                   }
+  //                 }
+  //               }
+  //             }
+  //           } else {
+  //             if (populationDensity <= 1.42) {
+  //               if (fireSize <= 0.23) {
+  //                 if (fireContinueDays <= 0.02) {
+  //                   if (tavg <= 56.46) {
+  //                     return "Arson";
+  //                   } else {
+  //                     if (elevation <= 783.3) {
+  //                       return "Lightning";
+  //                     } else {
+  //                       if (populationDensity <= 0.54) {
+  //                         return "Lightning";
+  //                       } else return "Miscellaneous";
+  //                     }
+  //                   }
+  //                 } else {
+  //                   if (fireContinueDays <= 8.21) {
+  //                     if (longtitude <= -106.09) {
+  //                       if (tavg <= 62.78) {
+  //                         return "Powerline";
+  //                       } else return "Equipment Use";
+  //                     } else {
+  //                       if (discoveryDoy <= 211.0) {
+  //                         return "Equipment Use";
+  //                       } else return "Powerline";
+  //                     }
+  //                   } else {
+  //                     if (latitude <= 53.63) {
+  //                       if (tavg <= 66.82) {
+  //                         return "Lightning";
+  //                       } else return "Equipment Use";
+  //                     } else {
+  //                       return "Campfire";
+  //                     }
+  //                   }
+  //                 }
+  //               } else {
+  //                 if (latitude <= 42.98) {
+  //                   if (elevation <= 832.4) {
+  //                     if (latitude <= 32.87) {
+  //                       return "Lightning";
+  //                     } else {
+  //                       if (discoveryDoy <= 150.0) {
+  //                         return "Arson";
+  //                       }
+  //                     }
+  //                   }
+  //                 }
+  //               }
+  //             }
+  //           }
+  //         }
+  //       }
+  //     }
+  //   }
+  //   return "Fireworks";
+  // };
 
-  const predictOne = () => {
-    if (discoveryDoy <= 146.5) {
-      if (ownerDescr <= 0.5) {
-        if (elevation <= 621.95) {
-          if (prcp <= 0.03) {
-            if (longtitude <= -118.31) {
-              if (fireContinueDays <= 19.98) {
-                if (discoveryDoy <= 112.5) {
-                  return "natural";
-                } else {
-                  if (elevation <= 295.5) {
-                    return "natural";
-                  } else {
-                    if (discoveryDoy <= 132.5) {
-                      if (latitude <= 47.3) {
-                        return "accidental";
-                      } else return "natural";
-                    } else return "natural";
-                  }
-                }
-              } else {
-                if (longtitude <= -123.56) {
-                  return "accidental";
-                } else {
-                  if (awnd <= 8.1) {
-                    return "natural";
-                  } else return "accidental";
-                }
-              }
-            } else {
-              if (longtitude <= -94.95) {
-                if (awnd <= 7.52) {
-                  if (awnd <= 5.37) {
-                    if (fireContinueDays <= 47.92) {
-                      return "natural";
-                    } else return "accidental";
-                  } else {
-                    if (populationDensity <= 0.63) {
-                      if (latitude <= 48.89) {
-                        if (fireContinueDays <= 15.96) {
-                          return "malicious";
-                        } else return "natural";
-                      } else {
-                        if (awnd <= 7.52) {
-                          return "malicious";
-                        } else return "natural";
-                      }
-                    } else {
-                      if (discoveryDoy <= 76.5) {
-                        if (populationDensity <= 3.35) {
-                          return "natural";
-                        } else return "malicious";
-                      } else return "malicious";
-                    }
-                  }
-                } else {
-                  if (longtitude <= -98.17) {
-                    if (fireSize <= 0.45) {
-                      if (fireContinueDays <= 2.81) {
-                        return "malicious";
-                      } else {
-                        if (latitude <= 48.89) {
-                          return "malicious";
-                        } else return "natural";
-                      }
-                    } else {
-                      if (awnd <= 8.17) {
-                        return "malicious";
-                      } else return "accidental";
-                    }
-                  }
-                }
-              }
-            }
-          }
-        }
-      }
-    }
-    return "natural";
+  // const predictOne = () => {
+  //   if (discoveryDoy <= 146.5) {
+  //     if (ownerDescr <= 0.5) {
+  //       if (elevation <= 621.95) {
+  //         if (prcp <= 0.03) {
+  //           if (longtitude <= -118.31) {
+  //             if (fireContinueDays <= 19.98) {
+  //               if (discoveryDoy <= 112.5) {
+  //                 return "natural";
+  //               } else {
+  //                 if (elevation <= 295.5) {
+  //                   return "natural";
+  //                 } else {
+  //                   if (discoveryDoy <= 132.5) {
+  //                     if (latitude <= 47.3) {
+  //                       return "accidental";
+  //                     } else return "natural";
+  //                   } else return "natural";
+  //                 }
+  //               }
+  //             } else {
+  //               if (longtitude <= -123.56) {
+  //                 return "accidental";
+  //               } else {
+  //                 if (awnd <= 8.1) {
+  //                   return "natural";
+  //                 } else return "accidental";
+  //               }
+  //             }
+  //           } else {
+  //             if (longtitude <= -94.95) {
+  //               if (awnd <= 7.52) {
+  //                 if (awnd <= 5.37) {
+  //                   if (fireContinueDays <= 47.92) {
+  //                     return "natural";
+  //                   } else return "accidental";
+  //                 } else {
+  //                   if (populationDensity <= 0.63) {
+  //                     if (latitude <= 48.89) {
+  //                       if (fireContinueDays <= 15.96) {
+  //                         return "malicious";
+  //                       } else return "natural";
+  //                     } else {
+  //                       if (awnd <= 7.52) {
+  //                         return "malicious";
+  //                       } else return "natural";
+  //                     }
+  //                   } else {
+  //                     if (discoveryDoy <= 76.5) {
+  //                       if (populationDensity <= 3.35) {
+  //                         return "natural";
+  //                       } else return "malicious";
+  //                     } else return "malicious";
+  //                   }
+  //                 }
+  //               } else {
+  //                 if (longtitude <= -98.17) {
+  //                   if (fireSize <= 0.45) {
+  //                     if (fireContinueDays <= 2.81) {
+  //                       return "malicious";
+  //                     } else {
+  //                       if (latitude <= 48.89) {
+  //                         return "malicious";
+  //                       } else return "natural";
+  //                     }
+  //                   } else {
+  //                     if (awnd <= 8.17) {
+  //                       return "malicious";
+  //                     } else return "accidental";
+  //                   }
+  //                 }
+  //               }
+  //             }
+  //           }
+  //         }
+  //       }
+  //     }
+  //   }
+  //   return "natural";
+  // };
+
+  const showSpinner = () => {
+    return inProgress ? <Spinner animation="border"/> : null;
   };
 
   const renderResults = () => {
@@ -372,14 +379,88 @@ const FireReasonDemo = (props) => {
     );
   };
 
-  const onClickPredict = (e) => {
-    if (props.isGrouped) {
-      setPrediction(predictOne());
-    } else {
-      setPrediction(predictTwo());
+  const onClickPredict = async (e) => {
+    e.preventDefault();
+    setInProgress(true);
+    try {
+      let url =
+        "/fire-reason-predict" +
+        (props.isGrouped ? "/group" : "/non-group");
+      console.log(url);
+      let response = await axios({
+        method: "post",
+        url: url,
+        data: {
+          fire_year: [fireYear],
+          discovery_doy: [discoveryDoy],
+          fire_continue_days: [fireContinueDays],
+          fire_size: [fireSize],
+          latitude_x: [latitude],
+          longitude_x: [longtitude],
+          owner_descr: [ownerDescr],
+          state: [state],
+          population_density: [populationDensity],
+          elevation: [elevation],
+          awnd: [awnd],
+          prcp: [prcp],
+          tavg: [tavg],
+        },
+      });
+      console.log(response);
+      console.log(response["data"]["class"]);
+      setPrediction(getPredictionClass(parseInt(response["data"]["class"])));
+      setInProgress(false);
+    } catch {
+      alert("Something wrong");
+      setInProgress(false);
     }
+    // if (props.isGrouped) {
+    //   setPrediction(predictOne());
+    // } else {
+    //   setPrediction(predictTwo());
+    // }
     e.preventDefault();
     e.target.reset();
+  };
+
+  const getPredictionClass = (classNum) => {
+    if (props.isGrouped) {
+      switch (classNum) {
+        case 1:
+          return "natural";
+        case 2:
+          return "accidental";
+        case 3:
+          return "malicious";
+      }
+    } else {
+      switch (classNum) {
+        case 0:
+          return "Arson";
+        case 1:
+          return "Campfire";
+        case 2:
+          return "Children";
+        case 3:
+          return "Debris Burning";
+        case 4:
+          return "Equipment Use";
+        case 5:
+          return "Fireworks";
+        case 6:
+          return "Lightning";
+        case 7:
+          return "Miscellaneous";
+        case 8:
+          return "Powerline";
+        case 9:
+          return "Railroad";
+        case 10:
+          return "Smoking";
+        case 11:
+          return "Structure";
+      }
+    }
   };
 
   const handleClose = (e) => {
@@ -396,7 +477,7 @@ const FireReasonDemo = (props) => {
     setPrcp(null);
     setTavg(null);
     setPrediction(null);
-    e.preventDefault();
+    // e.preventDefault();
   };
 
   return (
@@ -603,6 +684,7 @@ const FireReasonDemo = (props) => {
         </Button>
       </Form>
 
+      {showSpinner()}
       {renderResults()}
 
       {/* <Button

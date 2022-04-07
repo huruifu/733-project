@@ -1,0 +1,5196 @@
+STATE,month,STAT_CAUSE_DESCR,size,id,val
+GA,3,Debris Burning,2931,GA,13
+GA,2,Debris Burning,2588,GA,13
+GA,1,Debris Burning,1853,GA,13
+GA,4,Debris Burning,1350,GA,13
+GA,11,Debris Burning,1199,GA,13
+GA,5,Debris Burning,1199,GA,13
+GA,10,Debris Burning,1108,GA,13
+GA,6,Debris Burning,854,GA,13
+GA,12,Debris Burning,664,GA,13
+GA,8,Debris Burning,663,GA,13
+GA,9,Debris Burning,555,GA,13
+GA,7,Debris Burning,513,GA,13
+GA,7,Lightning,484,GA,13
+GA,6,Lightning,454,GA,13
+GA,3,Arson,453,GA,13
+GA,2,Arson,336,GA,13
+GA,8,Lightning,254,GA,13
+GA,4,Arson,251,GA,13
+GA,1,Arson,222,GA,13
+GA,11,Arson,217,GA,13
+GA,5,Lightning,215,GA,13
+GA,5,Arson,214,GA,13
+GA,6,Arson,174,GA,13
+GA,10,Arson,167,GA,13
+GA,2,Miscellaneous,161,GA,13
+GA,6,Miscellaneous,157,GA,13
+GA,1,Campfire,148,GA,13
+GA,2,Campfire,142,GA,13
+GA,11,Campfire,134,GA,13
+GA,3,Children,129,GA,13
+GA,5,Miscellaneous,129,GA,13
+GA,3,Campfire,123,GA,13
+GA,8,Arson,120,GA,13
+GA,4,Miscellaneous,118,GA,13
+GA,1,Miscellaneous,116,GA,13
+GA,2,Children,108,GA,13
+GA,12,Arson,108,GA,13
+GA,3,Miscellaneous,103,GA,13
+GA,1,Children,102,GA,13
+GA,7,Arson,97,GA,13
+GA,5,Children,95,GA,13
+GA,11,Children,93,GA,13
+GA,9,Arson,92,GA,13
+GA,4,Campfire,83,GA,13
+GA,5,Campfire,78,GA,13
+GA,4,Children,77,GA,13
+GA,4,Lightning,76,GA,13
+GA,8,Miscellaneous,75,GA,13
+GA,10,Campfire,75,GA,13
+GA,9,Miscellaneous,70,GA,13
+GA,6,Children,62,GA,13
+GA,2,Smoking,57,GA,13
+GA,1,Smoking,56,GA,13
+GA,3,Lightning,53,GA,13
+GA,11,Miscellaneous,53,GA,13
+GA,12,Campfire,46,GA,13
+GA,6,Campfire,46,GA,13
+GA,12,Children,45,GA,13
+GA,6,Railroad,42,GA,13
+GA,4,Railroad,42,GA,13
+GA,3,Smoking,42,GA,13
+GA,10,Children,42,GA,13
+GA,8,Children,39,GA,13
+GA,9,Lightning,39,GA,13
+GA,5,Railroad,37,GA,13
+GA,4,Smoking,37,GA,13
+GA,6,Smoking,34,GA,13
+GA,5,Smoking,33,GA,13
+GA,9,Campfire,33,GA,13
+GA,7,Miscellaneous,33,GA,13
+GA,10,Miscellaneous,32,GA,13
+GA,7,Children,30,GA,13
+GA,9,Children,28,GA,13
+GA,11,Smoking,27,GA,13
+GA,10,Smoking,27,GA,13
+GA,7,Campfire,25,GA,13
+GA,8,Campfire,25,GA,13
+GA,12,Miscellaneous,25,GA,13
+GA,3,Railroad,24,GA,13
+GA,10,Railroad,21,GA,13
+GA,9,Smoking,20,GA,13
+GA,8,Smoking,19,GA,13
+GA,8,Railroad,14,GA,13
+GA,2,Lightning,14,GA,13
+GA,11,Lightning,12,GA,13
+GA,7,Railroad,10,GA,13
+GA,2,Railroad,9,GA,13
+GA,11,Railroad,9,GA,13
+GA,1,Lightning,8,GA,13
+GA,1,Railroad,7,GA,13
+GA,10,Lightning,7,GA,13
+GA,12,Smoking,6,GA,13
+GA,12,Railroad,5,GA,13
+GA,9,Railroad,5,GA,13
+GA,7,Smoking,4,GA,13
+GA,7,Equipment Use,2,GA,13
+GA,2,Equipment Use,2,GA,13
+GA,5,Equipment Use,2,GA,13
+GA,1,Equipment Use,1,GA,13
+GA,12,Lightning,1,GA,13
+GA,12,Equipment Use,1,GA,13
+GA,11,Structure,1,GA,13
+GA,9,Equipment Use,1,GA,13
+GA,5,Powerline,1,GA,13
+GA,4,Structure,1,GA,13
+GA,4,Powerline,1,GA,13
+GA,4,Equipment Use,1,GA,13
+GA,3,Powerline,1,GA,13
+OR,8,Lightning,2887,OR,41
+OR,7,Lightning,1931,OR,41
+OR,9,Lightning,555,OR,41
+OR,6,Lightning,389,OR,41
+OR,8,Campfire,363,OR,41
+OR,7,Campfire,320,OR,41
+OR,9,Campfire,318,OR,41
+OR,7,Miscellaneous,269,OR,41
+OR,8,Miscellaneous,252,OR,41
+OR,7,Equipment Use,238,OR,41
+OR,8,Equipment Use,235,OR,41
+OR,10,Campfire,187,OR,41
+OR,9,Equipment Use,161,OR,41
+OR,9,Miscellaneous,158,OR,41
+OR,6,Campfire,156,OR,41
+OR,7,Fireworks,150,OR,41
+OR,6,Debris Burning,140,OR,41
+OR,6,Miscellaneous,138,OR,41
+OR,5,Lightning,126,OR,41
+OR,5,Debris Burning,113,OR,41
+OR,7,Debris Burning,105,OR,41
+OR,10,Debris Burning,97,OR,41
+OR,10,Miscellaneous,95,OR,41
+OR,6,Equipment Use,93,OR,41
+OR,7,Arson,89,OR,41
+OR,5,Campfire,89,OR,41
+OR,8,Debris Burning,71,OR,41
+OR,5,Miscellaneous,70,OR,41
+OR,9,Debris Burning,70,OR,41
+OR,8,Arson,66,OR,41
+OR,9,Smoking,64,OR,41
+OR,4,Debris Burning,58,OR,41
+OR,8,Smoking,54,OR,41
+OR,6,Arson,54,OR,41
+OR,9,Arson,53,OR,41
+OR,7,Smoking,52,OR,41
+OR,10,Equipment Use,49,OR,41
+OR,5,Arson,46,OR,41
+OR,11,Campfire,45,OR,41
+OR,4,Campfire,44,OR,41
+OR,8,Children,38,OR,41
+OR,11,Miscellaneous,36,OR,41
+OR,5,Equipment Use,32,OR,41
+OR,7,Children,30,OR,41
+OR,3,Debris Burning,28,OR,41
+OR,4,Miscellaneous,26,OR,41
+OR,9,Powerline,25,OR,41
+OR,10,Smoking,24,OR,41
+OR,10,Lightning,24,OR,41
+OR,10,Arson,23,OR,41
+OR,4,Lightning,21,OR,41
+OR,8,Powerline,20,OR,41
+OR,9,Children,20,OR,41
+OR,6,Smoking,18,OR,41
+OR,7,Powerline,18,OR,41
+OR,4,Arson,17,OR,41
+OR,1,Debris Burning,17,OR,41
+OR,6,Children,17,OR,41
+OR,3,Miscellaneous,16,OR,41
+OR,6,Powerline,15,OR,41
+OR,11,Arson,15,OR,41
+OR,3,Campfire,14,OR,41
+OR,4,Equipment Use,13,OR,41
+OR,9,Structure,13,OR,41
+OR,8,Structure,13,OR,41
+OR,12,Debris Burning,12,OR,41
+OR,2,Campfire,11,OR,41
+OR,11,Debris Burning,11,OR,41
+OR,2,Debris Burning,10,OR,41
+OR,6,Structure,10,OR,41
+OR,7,Railroad,9,OR,41
+OR,10,Children,8,OR,41
+OR,10,Powerline,8,OR,41
+OR,2,Miscellaneous,8,OR,41
+OR,7,Structure,8,OR,41
+OR,3,Equipment Use,7,OR,41
+OR,8,Railroad,7,OR,41
+OR,10,Structure,7,OR,41
+OR,6,Fireworks,6,OR,41
+OR,5,Children,6,OR,41
+OR,12,Campfire,6,OR,41
+OR,3,Arson,5,OR,41
+OR,12,Miscellaneous,5,OR,41
+OR,9,Fireworks,5,OR,41
+OR,8,Fireworks,5,OR,41
+OR,5,Smoking,5,OR,41
+OR,6,Railroad,3,OR,41
+OR,2,Children,3,OR,41
+OR,2,Arson,3,OR,41
+OR,1,Miscellaneous,3,OR,41
+OR,1,Campfire,3,OR,41
+OR,1,Arson,3,OR,41
+OR,9,Railroad,3,OR,41
+OR,1,Children,2,OR,41
+OR,2,Lightning,2,OR,41
+OR,3,Lightning,2,OR,41
+OR,5,Railroad,2,OR,41
+OR,5,Powerline,2,OR,41
+OR,11,Equipment Use,2,OR,41
+OR,4,Children,2,OR,41
+OR,12,Lightning,2,OR,41
+OR,4,Smoking,2,OR,41
+OR,10,Fireworks,2,OR,41
+OR,11,Lightning,1,OR,41
+OR,11,Children,1,OR,41
+OR,11,Smoking,1,OR,41
+OR,12,Arson,1,OR,41
+OR,1,Fireworks,1,OR,41
+OR,1,Lightning,1,OR,41
+OR,5,Structure,1,OR,41
+OR,3,Children,1,OR,41
+OR,3,Structure,1,OR,41
+OR,3,Powerline,1,OR,41
+OR,2,Equipment Use,1,OR,41
+TX,1,Debris Burning,2786,TX,48
+TX,3,Debris Burning,2347,TX,48
+TX,2,Debris Burning,2300,TX,48
+TX,7,Miscellaneous,2294,TX,48
+TX,8,Miscellaneous,2187,TX,48
+TX,8,Debris Burning,2091,TX,48
+TX,7,Debris Burning,1856,TX,48
+TX,9,Miscellaneous,1794,TX,48
+TX,9,Debris Burning,1792,TX,48
+TX,6,Debris Burning,1481,TX,48
+TX,1,Miscellaneous,1474,TX,48
+TX,4,Debris Burning,1369,TX,48
+TX,10,Debris Burning,1364,TX,48
+TX,6,Miscellaneous,1354,TX,48
+TX,3,Miscellaneous,1311,TX,48
+TX,5,Debris Burning,1203,TX,48
+TX,2,Miscellaneous,1184,TX,48
+TX,4,Miscellaneous,1114,TX,48
+TX,10,Miscellaneous,1066,TX,48
+TX,5,Miscellaneous,1053,TX,48
+TX,8,Equipment Use,961,TX,48
+TX,7,Equipment Use,875,TX,48
+TX,11,Debris Burning,868,TX,48
+TX,12,Debris Burning,790,TX,48
+TX,8,Lightning,770,TX,48
+TX,9,Equipment Use,763,TX,48
+TX,6,Equipment Use,737,TX,48
+TX,5,Equipment Use,547,TX,48
+TX,3,Equipment Use,532,TX,48
+TX,7,Lightning,523,TX,48
+TX,8,Powerline,521,TX,48
+TX,1,Equipment Use,493,TX,48
+TX,11,Miscellaneous,478,TX,48
+TX,2,Equipment Use,443,TX,48
+TX,9,Powerline,440,TX,48
+TX,12,Miscellaneous,437,TX,48
+TX,9,Lightning,417,TX,48
+TX,4,Equipment Use,406,TX,48
+TX,10,Equipment Use,405,TX,48
+TX,6,Lightning,391,TX,48
+TX,4,Powerline,381,TX,48
+TX,8,Arson,309,TX,48
+TX,7,Powerline,300,TX,48
+TX,6,Powerline,299,TX,48
+TX,7,Arson,278,TX,48
+TX,5,Powerline,265,TX,48
+TX,9,Arson,261,TX,48
+TX,10,Powerline,228,TX,48
+TX,1,Powerline,227,TX,48
+TX,3,Powerline,224,TX,48
+TX,3,Arson,210,TX,48
+TX,8,Smoking,209,TX,48
+TX,5,Lightning,205,TX,48
+TX,11,Equipment Use,192,TX,48
+TX,2,Powerline,190,TX,48
+TX,4,Arson,174,TX,48
+TX,4,Lightning,164,TX,48
+TX,1,Arson,158,TX,48
+TX,7,Smoking,150,TX,48
+TX,6,Arson,147,TX,48
+TX,4,Smoking,146,TX,48
+TX,12,Equipment Use,143,TX,48
+TX,6,Smoking,132,TX,48
+TX,9,Smoking,130,TX,48
+TX,1,Smoking,129,TX,48
+TX,2,Arson,124,TX,48
+TX,10,Arson,117,TX,48
+TX,3,Smoking,108,TX,48
+TX,5,Arson,105,TX,48
+TX,11,Powerline,97,TX,48
+TX,2,Smoking,96,TX,48
+TX,5,Smoking,94,TX,48
+TX,12,Powerline,91,TX,48
+TX,1,Campfire,87,TX,48
+TX,10,Smoking,84,TX,48
+TX,10,Lightning,82,TX,48
+TX,3,Campfire,80,TX,48
+TX,2,Campfire,72,TX,48
+TX,3,Lightning,71,TX,48
+TX,8,Children,66,TX,48
+TX,11,Arson,62,TX,48
+TX,1,Children,59,TX,48
+TX,7,Children,55,TX,48
+TX,4,Railroad,55,TX,48
+TX,9,Campfire,54,TX,48
+TX,3,Children,52,TX,48
+TX,7,Campfire,51,TX,48
+TX,6,Railroad,51,TX,48
+TX,10,Campfire,47,TX,48
+TX,11,Smoking,46,TX,48
+TX,7,Railroad,46,TX,48
+TX,8,Railroad,45,TX,48
+TX,2,Children,45,TX,48
+TX,12,Arson,44,TX,48
+TX,5,Railroad,43,TX,48
+TX,8,Fireworks,41,TX,48
+TX,6,Children,41,TX,48
+TX,11,Campfire,40,TX,48
+TX,9,Fireworks,40,TX,48
+TX,8,Campfire,38,TX,48
+TX,4,Children,36,TX,48
+TX,10,Children,36,TX,48
+TX,9,Railroad,35,TX,48
+TX,4,Campfire,35,TX,48
+TX,12,Smoking,35,TX,48
+TX,3,Railroad,35,TX,48
+TX,5,Children,33,TX,48
+TX,7,Fireworks,31,TX,48
+TX,3,Fireworks,29,TX,48
+TX,9,Children,29,TX,48
+TX,5,Campfire,26,TX,48
+TX,11,Lightning,23,TX,48
+TX,12,Campfire,21,TX,48
+TX,10,Railroad,21,TX,48
+TX,6,Campfire,21,TX,48
+TX,2,Railroad,19,TX,48
+TX,1,Lightning,15,TX,48
+TX,1,Railroad,14,TX,48
+TX,2,Lightning,14,TX,48
+TX,12,Children,13,TX,48
+TX,2,Fireworks,12,TX,48
+TX,1,Fireworks,12,TX,48
+TX,11,Children,11,TX,48
+TX,6,Fireworks,10,TX,48
+TX,4,Fireworks,9,TX,48
+TX,12,Lightning,7,TX,48
+TX,11,Railroad,6,TX,48
+TX,12,Railroad,4,TX,48
+TX,5,Fireworks,4,TX,48
+TX,11,Fireworks,2,TX,48
+TX,12,Fireworks,1,TX,48
+TX,1,Structure,1,TX,48
+TX,9,Structure,1,TX,48
+TX,10,Fireworks,1,TX,48
+TX,10,Structure,1,TX,48
+TX,7,Structure,1,TX,48
+TX,8,Structure,1,TX,48
+NY,4,Miscellaneous,2451,NY,36
+NY,5,Miscellaneous,2059,NY,36
+NY,7,Miscellaneous,1563,NY,36
+NY,11,Miscellaneous,1132,NY,36
+NY,6,Miscellaneous,1091,NY,36
+NY,3,Miscellaneous,1073,NY,36
+NY,8,Miscellaneous,1020,NY,36
+NY,9,Miscellaneous,810,NY,36
+NY,4,Arson,641,NY,36
+NY,10,Miscellaneous,620,NY,36
+NY,5,Arson,472,NY,36
+NY,5,Smoking,369,NY,36
+NY,4,Lightning,367,NY,36
+NY,12,Miscellaneous,362,NY,36
+NY,5,Lightning,351,NY,36
+NY,4,Debris Burning,329,NY,36
+NY,4,Smoking,319,NY,36
+NY,5,Debris Burning,293,NY,36
+NY,1,Miscellaneous,228,NY,36
+NY,7,Lightning,225,NY,36
+NY,11,Arson,213,NY,36
+NY,7,Arson,208,NY,36
+NY,2,Miscellaneous,207,NY,36
+NY,6,Arson,207,NY,36
+NY,7,Smoking,196,NY,36
+NY,8,Arson,195,NY,36
+NY,3,Arson,190,NY,36
+NY,6,Lightning,167,NY,36
+NY,9,Arson,157,NY,36
+NY,11,Debris Burning,138,NY,36
+NY,6,Smoking,127,NY,36
+NY,10,Arson,127,NY,36
+NY,8,Lightning,126,NY,36
+NY,3,Lightning,126,NY,36
+NY,8,Smoking,119,NY,36
+NY,11,Smoking,118,NY,36
+NY,3,Debris Burning,109,NY,36
+NY,9,Lightning,95,NY,36
+NY,9,Smoking,94,NY,36
+NY,7,Debris Burning,93,NY,36
+NY,11,Lightning,93,NY,36
+NY,5,Equipment Use,88,NY,36
+NY,4,Equipment Use,85,NY,36
+NY,3,Smoking,82,NY,36
+NY,4,Children,74,NY,36
+NY,8,Debris Burning,69,NY,36
+NY,6,Debris Burning,65,NY,36
+NY,10,Smoking,62,NY,36
+NY,12,Arson,60,NY,36
+NY,4,Powerline,57,NY,36
+NY,4,Campfire,55,NY,36
+NY,9,Debris Burning,54,NY,36
+NY,9,Campfire,51,NY,36
+NY,10,Lightning,49,NY,36
+NY,5,Powerline,48,NY,36
+NY,7,Campfire,47,NY,36
+NY,5,Campfire,46,NY,36
+NY,12,Smoking,43,NY,36
+NY,7,Equipment Use,39,NY,36
+NY,10,Debris Burning,39,NY,36
+NY,2,Arson,38,NY,36
+NY,1,Arson,36,NY,36
+NY,5,Children,33,NY,36
+NY,8,Campfire,32,NY,36
+NY,1,Smoking,27,NY,36
+NY,12,Lightning,26,NY,36
+NY,12,Debris Burning,26,NY,36
+NY,11,Equipment Use,26,NY,36
+NY,3,Equipment Use,24,NY,36
+NY,3,Campfire,24,NY,36
+NY,2,Smoking,24,NY,36
+NY,2,Debris Burning,24,NY,36
+NY,8,Equipment Use,23,NY,36
+NY,6,Equipment Use,22,NY,36
+NY,1,Lightning,22,NY,36
+NY,7,Powerline,22,NY,36
+NY,11,Campfire,22,NY,36
+NY,10,Campfire,22,NY,36
+NY,10,Equipment Use,20,NY,36
+NY,1,Debris Burning,20,NY,36
+NY,2,Lightning,19,NY,36
+NY,7,Children,17,NY,36
+NY,9,Equipment Use,15,NY,36
+NY,6,Children,15,NY,36
+NY,11,Powerline,13,NY,36
+NY,6,Powerline,12,NY,36
+NY,11,Children,12,NY,36
+NY,6,Campfire,11,NY,36
+NY,8,Powerline,11,NY,36
+NY,3,Children,10,NY,36
+NY,8,Children,9,NY,36
+NY,10,Powerline,9,NY,36
+NY,10,Children,9,NY,36
+NY,11,Structure,8,NY,36
+NY,4,Railroad,8,NY,36
+NY,4,Structure,8,NY,36
+NY,1,Equipment Use,7,NY,36
+NY,3,Powerline,7,NY,36
+NY,12,Children,7,NY,36
+NY,9,Children,7,NY,36
+NY,12,Equipment Use,7,NY,36
+NY,2,Equipment Use,7,NY,36
+NY,5,Railroad,6,NY,36
+NY,4,Fireworks,6,NY,36
+NY,12,Powerline,6,NY,36
+NY,12,Campfire,5,NY,36
+NY,9,Powerline,5,NY,36
+NY,5,Structure,5,NY,36
+NY,8,Structure,4,NY,36
+NY,9,Structure,4,NY,36
+NY,2,Children,3,NY,36
+NY,3,Structure,3,NY,36
+NY,7,Railroad,2,NY,36
+NY,1,Powerline,2,NY,36
+NY,6,Structure,2,NY,36
+NY,7,Fireworks,2,NY,36
+NY,10,Structure,2,NY,36
+NY,7,Structure,1,NY,36
+NY,8,Fireworks,1,NY,36
+NY,11,Railroad,1,NY,36
+NY,12,Structure,1,NY,36
+NY,2,Powerline,1,NY,36
+NY,2,Campfire,1,NY,36
+NY,1,Structure,1,NY,36
+NY,5,Fireworks,1,NY,36
+NY,2,Structure,1,NY,36
+NY,1,Children,1,NY,36
+NY,1,Campfire,1,NY,36
+ID,8,Lightning,2296,ID,16
+ID,7,Lightning,945,ID,16
+ID,9,Lightning,518,ID,16
+ID,7,Equipment Use,179,ID,16
+ID,7,Arson,167,ID,16
+ID,8,Equipment Use,166,ID,16
+ID,7,Miscellaneous,147,ID,16
+ID,8,Miscellaneous,129,ID,16
+ID,6,Arson,125,ID,16
+ID,6,Lightning,125,ID,16
+ID,8,Campfire,124,ID,16
+ID,6,Equipment Use,122,ID,16
+ID,7,Campfire,92,ID,16
+ID,6,Miscellaneous,81,ID,16
+ID,9,Miscellaneous,77,ID,16
+ID,9,Campfire,73,ID,16
+ID,8,Arson,63,ID,16
+ID,9,Equipment Use,53,ID,16
+ID,10,Campfire,52,ID,16
+ID,10,Miscellaneous,48,ID,16
+ID,6,Campfire,45,ID,16
+ID,7,Fireworks,43,ID,16
+ID,5,Miscellaneous,43,ID,16
+ID,5,Equipment Use,42,ID,16
+ID,5,Lightning,42,ID,16
+ID,7,Debris Burning,40,ID,16
+ID,5,Debris Burning,32,ID,16
+ID,6,Debris Burning,32,ID,16
+ID,9,Debris Burning,29,ID,16
+ID,8,Debris Burning,28,ID,16
+ID,10,Debris Burning,27,ID,16
+ID,10,Lightning,27,ID,16
+ID,5,Campfire,22,ID,16
+ID,4,Debris Burning,21,ID,16
+ID,3,Debris Burning,19,ID,16
+ID,7,Powerline,17,ID,16
+ID,10,Equipment Use,17,ID,16
+ID,8,Smoking,17,ID,16
+ID,8,Powerline,15,ID,16
+ID,10,Arson,13,ID,16
+ID,9,Arson,13,ID,16
+ID,7,Smoking,12,ID,16
+ID,6,Fireworks,12,ID,16
+ID,7,Children,11,ID,16
+ID,6,Powerline,11,ID,16
+ID,4,Miscellaneous,11,ID,16
+ID,8,Children,11,ID,16
+ID,11,Campfire,10,ID,16
+ID,7,Railroad,8,ID,16
+ID,9,Fireworks,8,ID,16
+ID,9,Smoking,8,ID,16
+ID,4,Equipment Use,8,ID,16
+ID,11,Miscellaneous,6,ID,16
+ID,3,Miscellaneous,6,ID,16
+ID,4,Lightning,6,ID,16
+ID,5,Arson,6,ID,16
+ID,11,Equipment Use,6,ID,16
+ID,5,Powerline,5,ID,16
+ID,2,Debris Burning,5,ID,16
+ID,8,Fireworks,5,ID,16
+ID,2,Miscellaneous,4,ID,16
+ID,6,Railroad,4,ID,16
+ID,7,Structure,4,ID,16
+ID,9,Children,4,ID,16
+ID,9,Railroad,4,ID,16
+ID,10,Smoking,3,ID,16
+ID,11,Debris Burning,3,ID,16
+ID,3,Equipment Use,3,ID,16
+ID,2,Campfire,2,ID,16
+ID,1,Debris Burning,2,ID,16
+ID,3,Campfire,2,ID,16
+ID,11,Arson,2,ID,16
+ID,10,Structure,2,ID,16
+ID,10,Powerline,2,ID,16
+ID,10,Children,2,ID,16
+ID,9,Powerline,2,ID,16
+ID,8,Railroad,2,ID,16
+ID,6,Children,2,ID,16
+ID,4,Campfire,2,ID,16
+ID,12,Powerline,2,ID,16
+ID,12,Campfire,2,ID,16
+ID,1,Campfire,1,ID,16
+ID,11,Fireworks,1,ID,16
+ID,9,Structure,1,ID,16
+ID,8,Structure,1,ID,16
+ID,5,Railroad,1,ID,16
+ID,4,Railroad,1,ID,16
+ID,4,Arson,1,ID,16
+ID,11,Lightning,1,ID,16
+ID,12,Debris Burning,1,ID,16
+CA,7,Lightning,1832,CA,6
+CA,7,Miscellaneous,1630,CA,6
+CA,8,Lightning,1490,CA,6
+CA,6,Miscellaneous,1311,CA,6
+CA,8,Miscellaneous,1192,CA,6
+CA,9,Miscellaneous,1006,CA,6
+CA,5,Miscellaneous,896,CA,6
+CA,7,Arson,711,CA,6
+CA,6,Equipment Use,693,CA,6
+CA,9,Lightning,674,CA,6
+CA,7,Equipment Use,625,CA,6
+CA,10,Miscellaneous,619,CA,6
+CA,5,Debris Burning,583,CA,6
+CA,5,Equipment Use,551,CA,6
+CA,8,Equipment Use,536,CA,6
+CA,6,Arson,485,CA,6
+CA,8,Arson,450,CA,6
+CA,4,Miscellaneous,445,CA,6
+CA,4,Debris Burning,439,CA,6
+CA,11,Miscellaneous,415,CA,6
+CA,9,Equipment Use,404,CA,6
+CA,6,Debris Burning,397,CA,6
+CA,9,Arson,389,CA,6
+CA,11,Debris Burning,387,CA,6
+CA,6,Lightning,385,CA,6
+CA,5,Arson,336,CA,6
+CA,10,Debris Burning,300,CA,6
+CA,3,Debris Burning,299,CA,6
+CA,1,Debris Burning,295,CA,6
+CA,2,Debris Burning,292,CA,6
+CA,1,Miscellaneous,291,CA,6
+CA,12,Miscellaneous,275,CA,6
+CA,7,Debris Burning,256,CA,6
+CA,7,Campfire,250,CA,6
+CA,3,Miscellaneous,234,CA,6
+CA,10,Equipment Use,233,CA,6
+CA,10,Arson,230,CA,6
+CA,12,Debris Burning,230,CA,6
+CA,8,Campfire,230,CA,6
+CA,7,Children,226,CA,6
+CA,4,Equipment Use,221,CA,6
+CA,9,Campfire,216,CA,6
+CA,2,Miscellaneous,207,CA,6
+CA,9,Debris Burning,198,CA,6
+CA,8,Debris Burning,196,CA,6
+CA,6,Campfire,195,CA,6
+CA,7,Smoking,192,CA,6
+CA,6,Children,168,CA,6
+CA,6,Smoking,157,CA,6
+CA,4,Arson,142,CA,6
+CA,5,Smoking,141,CA,6
+CA,8,Smoking,140,CA,6
+CA,10,Campfire,140,CA,6
+CA,5,Children,140,CA,6
+CA,8,Children,135,CA,6
+CA,10,Lightning,129,CA,6
+CA,5,Campfire,128,CA,6
+CA,11,Equipment Use,128,CA,6
+CA,5,Lightning,121,CA,6
+CA,9,Children,115,CA,6
+CA,9,Smoking,112,CA,6
+CA,1,Equipment Use,106,CA,6
+CA,3,Arson,101,CA,6
+CA,11,Arson,100,CA,6
+CA,12,Equipment Use,93,CA,6
+CA,3,Equipment Use,91,CA,6
+CA,1,Arson,89,CA,6
+CA,2,Arson,78,CA,6
+CA,4,Campfire,72,CA,6
+CA,10,Children,71,CA,6
+CA,4,Smoking,68,CA,6
+CA,2,Equipment Use,67,CA,6
+CA,1,Campfire,63,CA,6
+CA,10,Smoking,60,CA,6
+CA,6,Powerline,56,CA,6
+CA,7,Powerline,54,CA,6
+CA,11,Campfire,53,CA,6
+CA,12,Arson,49,CA,6
+CA,4,Children,49,CA,6
+CA,12,Children,47,CA,6
+CA,3,Campfire,47,CA,6
+CA,3,Children,47,CA,6
+CA,1,Children,44,CA,6
+CA,12,Campfire,40,CA,6
+CA,11,Children,38,CA,6
+CA,8,Powerline,37,CA,6
+CA,4,Lightning,36,CA,6
+CA,3,Smoking,35,CA,6
+CA,2,Children,35,CA,6
+CA,2,Campfire,33,CA,6
+CA,2,Smoking,29,CA,6
+CA,5,Powerline,29,CA,6
+CA,10,Powerline,29,CA,6
+CA,11,Smoking,29,CA,6
+CA,1,Smoking,28,CA,6
+CA,9,Powerline,24,CA,6
+CA,7,Fireworks,23,CA,6
+CA,4,Powerline,23,CA,6
+CA,12,Smoking,22,CA,6
+CA,12,Powerline,21,CA,6
+CA,11,Lightning,15,CA,6
+CA,11,Powerline,14,CA,6
+CA,7,Railroad,13,CA,6
+CA,6,Fireworks,12,CA,6
+CA,7,Structure,10,CA,6
+CA,1,Powerline,10,CA,6
+CA,2,Powerline,10,CA,6
+CA,5,Railroad,9,CA,6
+CA,5,Structure,9,CA,6
+CA,3,Powerline,6,CA,6
+CA,3,Lightning,6,CA,6
+CA,6,Structure,5,CA,6
+CA,1,Structure,4,CA,6
+CA,9,Railroad,3,CA,6
+CA,9,Structure,3,CA,6
+CA,10,Structure,3,CA,6
+CA,11,Structure,3,CA,6
+CA,2,Structure,3,CA,6
+CA,2,Lightning,3,CA,6
+CA,3,Structure,3,CA,6
+CA,10,Fireworks,2,CA,6
+CA,2,Railroad,2,CA,6
+CA,4,Railroad,2,CA,6
+CA,5,Fireworks,2,CA,6
+CA,8,Fireworks,2,CA,6
+CA,8,Structure,2,CA,6
+CA,12,Structure,1,CA,6
+CA,12,Lightning,1,CA,6
+CA,12,Fireworks,1,CA,6
+CA,8,Railroad,1,CA,6
+CA,11,Fireworks,1,CA,6
+CA,10,Railroad,1,CA,6
+CA,9,Fireworks,1,CA,6
+CA,6,Railroad,1,CA,6
+CA,4,Structure,1,CA,6
+CA,3,Railroad,1,CA,6
+CA,1,Railroad,1,CA,6
+CA,1,Fireworks,1,CA,6
+MT,8,Lightning,1751,MT,30
+MT,7,Lightning,988,MT,30
+MT,9,Lightning,275,MT,30
+MT,7,Miscellaneous,268,MT,30
+MT,8,Miscellaneous,249,MT,30
+MT,8,Campfire,248,MT,30
+MT,7,Fireworks,233,MT,30
+MT,9,Miscellaneous,180,MT,30
+MT,6,Lightning,165,MT,30
+MT,7,Campfire,163,MT,30
+MT,7,Equipment Use,136,MT,30
+MT,4,Debris Burning,136,MT,30
+MT,9,Campfire,132,MT,30
+MT,8,Equipment Use,120,MT,30
+MT,6,Miscellaneous,109,MT,30
+MT,7,Arson,92,MT,30
+MT,6,Fireworks,88,MT,30
+MT,4,Miscellaneous,86,MT,30
+MT,5,Debris Burning,84,MT,30
+MT,6,Campfire,84,MT,30
+MT,5,Miscellaneous,83,MT,30
+MT,10,Miscellaneous,74,MT,30
+MT,3,Debris Burning,73,MT,30
+MT,4,Arson,62,MT,30
+MT,5,Campfire,62,MT,30
+MT,7,Debris Burning,60,MT,30
+MT,10,Campfire,57,MT,30
+MT,9,Equipment Use,57,MT,30
+MT,5,Arson,53,MT,30
+MT,5,Lightning,51,MT,30
+MT,8,Arson,49,MT,30
+MT,7,Children,44,MT,30
+MT,3,Miscellaneous,43,MT,30
+MT,4,Campfire,43,MT,30
+MT,8,Debris Burning,42,MT,30
+MT,3,Arson,41,MT,30
+MT,10,Lightning,36,MT,30
+MT,6,Debris Burning,36,MT,30
+MT,10,Debris Burning,34,MT,30
+MT,8,Children,32,MT,30
+MT,6,Arson,32,MT,30
+MT,8,Powerline,31,MT,30
+MT,8,Fireworks,31,MT,30
+MT,9,Arson,30,MT,30
+MT,9,Debris Burning,29,MT,30
+MT,11,Campfire,27,MT,30
+MT,6,Equipment Use,24,MT,30
+MT,7,Railroad,24,MT,30
+MT,3,Campfire,23,MT,30
+MT,5,Children,21,MT,30
+MT,3,Children,21,MT,30
+MT,10,Equipment Use,21,MT,30
+MT,9,Children,21,MT,30
+MT,10,Arson,20,MT,30
+MT,8,Railroad,19,MT,30
+MT,4,Children,19,MT,30
+MT,6,Railroad,19,MT,30
+MT,8,Smoking,18,MT,30
+MT,7,Powerline,16,MT,30
+MT,11,Miscellaneous,16,MT,30
+MT,9,Powerline,15,MT,30
+MT,6,Children,14,MT,30
+MT,7,Smoking,14,MT,30
+MT,9,Fireworks,12,MT,30
+MT,4,Lightning,12,MT,30
+MT,5,Powerline,11,MT,30
+MT,3,Railroad,10,MT,30
+MT,2,Arson,10,MT,30
+MT,2,Miscellaneous,9,MT,30
+MT,7,Structure,9,MT,30
+MT,5,Equipment Use,9,MT,30
+MT,3,Equipment Use,8,MT,30
+MT,5,Smoking,8,MT,30
+MT,5,Railroad,8,MT,30
+MT,4,Equipment Use,8,MT,30
+MT,1,Debris Burning,8,MT,30
+MT,9,Structure,8,MT,30
+MT,9,Railroad,8,MT,30
+MT,10,Children,7,MT,30
+MT,11,Debris Burning,7,MT,30
+MT,12,Campfire,6,MT,30
+MT,11,Arson,6,MT,30
+MT,6,Powerline,6,MT,30
+MT,2,Campfire,6,MT,30
+MT,1,Miscellaneous,6,MT,30
+MT,1,Arson,6,MT,30
+MT,4,Railroad,5,MT,30
+MT,9,Smoking,5,MT,30
+MT,5,Fireworks,5,MT,30
+MT,3,Powerline,5,MT,30
+MT,3,Lightning,5,MT,30
+MT,6,Smoking,5,MT,30
+MT,10,Powerline,5,MT,30
+MT,11,Lightning,5,MT,30
+MT,1,Campfire,4,MT,30
+MT,3,Smoking,4,MT,30
+MT,4,Fireworks,4,MT,30
+MT,4,Powerline,4,MT,30
+MT,8,Structure,4,MT,30
+MT,1,Children,3,MT,30
+MT,3,Fireworks,3,MT,30
+MT,10,Smoking,3,MT,30
+MT,11,Equipment Use,3,MT,30
+MT,12,Debris Burning,3,MT,30
+MT,12,Arson,3,MT,30
+MT,1,Powerline,2,MT,30
+MT,1,Fireworks,2,MT,30
+MT,6,Structure,2,MT,30
+MT,12,Powerline,2,MT,30
+MT,12,Miscellaneous,2,MT,30
+MT,4,Structure,2,MT,30
+MT,4,Smoking,2,MT,30
+MT,5,Structure,2,MT,30
+MT,2,Fireworks,1,MT,30
+MT,2,Lightning,1,MT,30
+MT,2,Railroad,1,MT,30
+MT,3,Structure,1,MT,30
+MT,1,Equipment Use,1,MT,30
+MT,1,Railroad,1,MT,30
+MT,2,Children,1,MT,30
+MT,2,Debris Burning,1,MT,30
+MT,10,Railroad,1,MT,30
+MT,10,Structure,1,MT,30
+MT,11,Powerline,1,MT,30
+MT,12,Equipment Use,1,MT,30
+MT,12,Lightning,1,MT,30
+MT,12,Structure,1,MT,30
+AZ,7,Lightning,1662,AZ,4
+AZ,8,Lightning,957,AZ,4
+AZ,6,Miscellaneous,477,AZ,4
+AZ,5,Miscellaneous,447,AZ,4
+AZ,6,Lightning,380,AZ,4
+AZ,4,Miscellaneous,269,AZ,4
+AZ,9,Lightning,259,AZ,4
+AZ,7,Miscellaneous,180,AZ,4
+AZ,3,Miscellaneous,157,AZ,4
+AZ,5,Campfire,153,AZ,4
+AZ,6,Arson,147,AZ,4
+AZ,6,Equipment Use,99,AZ,4
+AZ,10,Miscellaneous,99,AZ,4
+AZ,4,Campfire,96,AZ,4
+AZ,1,Miscellaneous,95,AZ,4
+AZ,11,Miscellaneous,91,AZ,4
+AZ,5,Arson,87,AZ,4
+AZ,8,Miscellaneous,87,AZ,4
+AZ,6,Campfire,85,AZ,4
+AZ,3,Arson,82,AZ,4
+AZ,5,Lightning,82,AZ,4
+AZ,2,Miscellaneous,77,AZ,4
+AZ,4,Arson,73,AZ,4
+AZ,5,Equipment Use,64,AZ,4
+AZ,3,Campfire,58,AZ,4
+AZ,5,Debris Burning,58,AZ,4
+AZ,6,Debris Burning,57,AZ,4
+AZ,9,Miscellaneous,56,AZ,4
+AZ,7,Arson,55,AZ,4
+AZ,12,Miscellaneous,52,AZ,4
+AZ,4,Debris Burning,51,AZ,4
+AZ,10,Lightning,50,AZ,4
+AZ,7,Campfire,45,AZ,4
+AZ,2,Arson,45,AZ,4
+AZ,4,Equipment Use,42,AZ,4
+AZ,7,Debris Burning,37,AZ,4
+AZ,3,Debris Burning,36,AZ,4
+AZ,9,Campfire,35,AZ,4
+AZ,3,Equipment Use,34,AZ,4
+AZ,8,Campfire,32,AZ,4
+AZ,7,Equipment Use,30,AZ,4
+AZ,2,Campfire,29,AZ,4
+AZ,2,Debris Burning,29,AZ,4
+AZ,11,Campfire,29,AZ,4
+AZ,10,Campfire,28,AZ,4
+AZ,5,Children,27,AZ,4
+AZ,6,Children,27,AZ,4
+AZ,9,Arson,27,AZ,4
+AZ,8,Equipment Use,25,AZ,4
+AZ,4,Children,23,AZ,4
+AZ,8,Arson,23,AZ,4
+AZ,1,Arson,22,AZ,4
+AZ,11,Arson,22,AZ,4
+AZ,10,Arson,22,AZ,4
+AZ,4,Lightning,21,AZ,4
+AZ,5,Smoking,20,AZ,4
+AZ,1,Debris Burning,19,AZ,4
+AZ,1,Campfire,19,AZ,4
+AZ,7,Fireworks,16,AZ,4
+AZ,10,Equipment Use,15,AZ,4
+AZ,12,Campfire,15,AZ,4
+AZ,9,Debris Burning,15,AZ,4
+AZ,12,Arson,15,AZ,4
+AZ,6,Smoking,14,AZ,4
+AZ,1,Equipment Use,13,AZ,4
+AZ,11,Debris Burning,12,AZ,4
+AZ,2,Equipment Use,11,AZ,4
+AZ,8,Debris Burning,11,AZ,4
+AZ,7,Children,9,AZ,4
+AZ,9,Equipment Use,9,AZ,4
+AZ,3,Children,9,AZ,4
+AZ,12,Debris Burning,8,AZ,4
+AZ,11,Equipment Use,7,AZ,4
+AZ,2,Children,7,AZ,4
+AZ,9,Children,6,AZ,4
+AZ,12,Equipment Use,5,AZ,4
+AZ,3,Smoking,5,AZ,4
+AZ,3,Lightning,5,AZ,4
+AZ,5,Powerline,5,AZ,4
+AZ,6,Fireworks,5,AZ,4
+AZ,10,Debris Burning,4,AZ,4
+AZ,10,Children,4,AZ,4
+AZ,8,Smoking,4,AZ,4
+AZ,1,Lightning,4,AZ,4
+AZ,4,Smoking,4,AZ,4
+AZ,6,Powerline,4,AZ,4
+AZ,6,Railroad,4,AZ,4
+AZ,1,Children,3,AZ,4
+AZ,5,Fireworks,3,AZ,4
+AZ,2,Structure,3,AZ,4
+AZ,2,Smoking,3,AZ,4
+AZ,6,Structure,3,AZ,4
+AZ,7,Smoking,3,AZ,4
+AZ,11,Lightning,3,AZ,4
+AZ,8,Children,3,AZ,4
+AZ,4,Fireworks,2,AZ,4
+AZ,7,Structure,2,AZ,4
+AZ,10,Smoking,2,AZ,4
+AZ,4,Powerline,2,AZ,4
+AZ,7,Railroad,2,AZ,4
+AZ,9,Structure,1,AZ,4
+AZ,9,Smoking,1,AZ,4
+AZ,8,Railroad,1,AZ,4
+AZ,8,Fireworks,1,AZ,4
+AZ,7,Powerline,1,AZ,4
+AZ,5,Structure,1,AZ,4
+AZ,11,Smoking,1,AZ,4
+AZ,11,Structure,1,AZ,4
+AZ,12,Smoking,1,AZ,4
+AZ,12,Structure,1,AZ,4
+AZ,1,Smoking,1,AZ,4
+AZ,1,Railroad,1,AZ,4
+AZ,1,Structure,1,AZ,4
+AZ,5,Railroad,1,AZ,4
+AZ,4,Structure,1,AZ,4
+AZ,4,Railroad,1,AZ,4
+AZ,2,Lightning,1,AZ,4
+AZ,3,Railroad,1,AZ,4
+FL,6,Lightning,1526,FL,12
+FL,5,Lightning,1069,FL,12
+FL,7,Lightning,816,FL,12
+FL,2,Debris Burning,607,FL,12
+FL,3,Debris Burning,574,FL,12
+FL,1,Debris Burning,521,FL,12
+FL,8,Lightning,475,FL,12
+FL,3,Miscellaneous,460,FL,12
+FL,5,Miscellaneous,387,FL,12
+FL,4,Lightning,384,FL,12
+FL,3,Arson,342,FL,12
+FL,1,Miscellaneous,321,FL,12
+FL,4,Miscellaneous,320,FL,12
+FL,2,Miscellaneous,311,FL,12
+FL,5,Debris Burning,297,FL,12
+FL,4,Debris Burning,283,FL,12
+FL,1,Arson,283,FL,12
+FL,2,Arson,271,FL,12
+FL,4,Arson,267,FL,12
+FL,5,Arson,262,FL,12
+FL,6,Miscellaneous,191,FL,12
+FL,12,Debris Burning,166,FL,12
+FL,11,Debris Burning,157,FL,12
+FL,9,Lightning,153,FL,12
+FL,1,Equipment Use,145,FL,12
+FL,10,Debris Burning,144,FL,12
+FL,5,Equipment Use,137,FL,12
+FL,12,Arson,134,FL,12
+FL,2,Equipment Use,129,FL,12
+FL,12,Miscellaneous,129,FL,12
+FL,6,Debris Burning,126,FL,12
+FL,11,Miscellaneous,124,FL,12
+FL,11,Arson,123,FL,12
+FL,3,Children,121,FL,12
+FL,3,Equipment Use,121,FL,12
+FL,10,Miscellaneous,110,FL,12
+FL,3,Lightning,109,FL,12
+FL,6,Arson,108,FL,12
+FL,4,Equipment Use,92,FL,12
+FL,1,Campfire,92,FL,12
+FL,3,Campfire,89,FL,12
+FL,5,Campfire,85,FL,12
+FL,7,Miscellaneous,80,FL,12
+FL,11,Equipment Use,77,FL,12
+FL,6,Equipment Use,70,FL,12
+FL,2,Campfire,70,FL,12
+FL,4,Campfire,67,FL,12
+FL,3,Powerline,66,FL,12
+FL,10,Equipment Use,64,FL,12
+FL,2,Children,62,FL,12
+FL,9,Debris Burning,62,FL,12
+FL,1,Children,61,FL,12
+FL,5,Children,61,FL,12
+FL,5,Powerline,61,FL,12
+FL,6,Powerline,60,FL,12
+FL,4,Children,60,FL,12
+FL,8,Debris Burning,58,FL,12
+FL,10,Arson,58,FL,12
+FL,7,Debris Burning,56,FL,12
+FL,12,Equipment Use,54,FL,12
+FL,9,Miscellaneous,48,FL,12
+FL,8,Miscellaneous,46,FL,12
+FL,9,Arson,45,FL,12
+FL,2,Powerline,43,FL,12
+FL,1,Powerline,40,FL,12
+FL,7,Arson,37,FL,12
+FL,4,Powerline,37,FL,12
+FL,11,Campfire,35,FL,12
+FL,9,Equipment Use,34,FL,12
+FL,8,Equipment Use,33,FL,12
+FL,12,Campfire,30,FL,12
+FL,6,Campfire,27,FL,12
+FL,8,Arson,27,FL,12
+FL,11,Children,27,FL,12
+FL,6,Children,26,FL,12
+FL,7,Fireworks,26,FL,12
+FL,12,Children,26,FL,12
+FL,10,Campfire,25,FL,12
+FL,1,Fireworks,25,FL,12
+FL,2,Smoking,22,FL,12
+FL,7,Equipment Use,21,FL,12
+FL,11,Powerline,21,FL,12
+FL,1,Lightning,20,FL,12
+FL,3,Smoking,20,FL,12
+FL,2,Structure,19,FL,12
+FL,1,Smoking,18,FL,12
+FL,2,Lightning,18,FL,12
+FL,7,Powerline,18,FL,12
+FL,8,Powerline,17,FL,12
+FL,3,Railroad,16,FL,12
+FL,10,Children,15,FL,12
+FL,5,Railroad,15,FL,12
+FL,4,Structure,15,FL,12
+FL,1,Structure,13,FL,12
+FL,7,Children,13,FL,12
+FL,3,Structure,13,FL,12
+FL,10,Lightning,13,FL,12
+FL,10,Powerline,12,FL,12
+FL,4,Railroad,11,FL,12
+FL,9,Powerline,11,FL,12
+FL,5,Fireworks,11,FL,12
+FL,4,Smoking,10,FL,12
+FL,5,Structure,9,FL,12
+FL,6,Structure,9,FL,12
+FL,7,Campfire,9,FL,12
+FL,12,Powerline,9,FL,12
+FL,8,Campfire,9,FL,12
+FL,9,Campfire,9,FL,12
+FL,11,Lightning,8,FL,12
+FL,9,Children,8,FL,12
+FL,11,Structure,8,FL,12
+FL,5,Smoking,7,FL,12
+FL,6,Smoking,7,FL,12
+FL,10,Structure,7,FL,12
+FL,9,Structure,6,FL,12
+FL,10,Smoking,6,FL,12
+FL,12,Fireworks,5,FL,12
+FL,12,Smoking,5,FL,12
+FL,12,Lightning,5,FL,12
+FL,8,Children,5,FL,12
+FL,1,Railroad,4,FL,12
+FL,3,Fireworks,4,FL,12
+FL,6,Fireworks,4,FL,12
+FL,11,Railroad,4,FL,12
+FL,12,Structure,4,FL,12
+FL,8,Structure,3,FL,12
+FL,4,Fireworks,3,FL,12
+FL,2,Fireworks,3,FL,12
+FL,12,Railroad,2,FL,12
+FL,10,Railroad,2,FL,12
+FL,9,Smoking,2,FL,12
+FL,9,Fireworks,2,FL,12
+FL,8,Smoking,2,FL,12
+FL,8,Railroad,2,FL,12
+FL,8,Fireworks,2,FL,12
+FL,7,Railroad,2,FL,12
+FL,2,Railroad,2,FL,12
+FL,10,Fireworks,1,FL,12
+FL,7,Structure,1,FL,12
+FL,7,Smoking,1,FL,12
+FL,6,Railroad,1,FL,12
+FL,11,Smoking,1,FL,12
+NC,3,Debris Burning,1509,NC,37
+NC,4,Debris Burning,1027,NC,37
+NC,2,Debris Burning,782,NC,37
+NC,11,Debris Burning,731,NC,37
+NC,1,Debris Burning,630,NC,37
+NC,3,Arson,439,NC,37
+NC,3,Miscellaneous,414,NC,37
+NC,4,Arson,412,NC,37
+NC,11,Miscellaneous,384,NC,37
+NC,12,Debris Burning,373,NC,37
+NC,2,Miscellaneous,332,NC,37
+NC,1,Miscellaneous,301,NC,37
+NC,4,Miscellaneous,294,NC,37
+NC,5,Debris Burning,278,NC,37
+NC,11,Arson,262,NC,37
+NC,5,Arson,237,NC,37
+NC,2,Arson,229,NC,37
+NC,4,Equipment Use,201,NC,37
+NC,3,Equipment Use,190,NC,37
+NC,1,Arson,184,NC,37
+NC,6,Debris Burning,181,NC,37
+NC,10,Debris Burning,171,NC,37
+NC,5,Miscellaneous,169,NC,37
+NC,3,Children,165,NC,37
+NC,11,Equipment Use,162,NC,37
+NC,1,Equipment Use,156,NC,37
+NC,12,Miscellaneous,147,NC,37
+NC,7,Debris Burning,144,NC,37
+NC,2,Equipment Use,133,NC,37
+NC,4,Children,133,NC,37
+NC,6,Arson,130,NC,37
+NC,7,Lightning,125,NC,37
+NC,6,Equipment Use,124,NC,37
+NC,12,Arson,119,NC,37
+NC,6,Miscellaneous,115,NC,37
+NC,10,Arson,110,NC,37
+NC,10,Equipment Use,103,NC,37
+NC,10,Miscellaneous,99,NC,37
+NC,7,Arson,99,NC,37
+NC,5,Equipment Use,94,NC,37
+NC,7,Miscellaneous,92,NC,37
+NC,8,Debris Burning,90,NC,37
+NC,9,Debris Burning,90,NC,37
+NC,11,Children,88,NC,37
+NC,3,Smoking,83,NC,37
+NC,12,Equipment Use,80,NC,37
+NC,2,Children,79,NC,37
+NC,9,Arson,75,NC,37
+NC,1,Children,75,NC,37
+NC,9,Equipment Use,74,NC,37
+NC,7,Equipment Use,73,NC,37
+NC,9,Miscellaneous,63,NC,37
+NC,8,Miscellaneous,60,NC,37
+NC,5,Children,60,NC,37
+NC,6,Lightning,60,NC,37
+NC,8,Arson,50,NC,37
+NC,8,Equipment Use,45,NC,37
+NC,4,Smoking,44,NC,37
+NC,7,Campfire,43,NC,37
+NC,11,Smoking,41,NC,37
+NC,4,Lightning,40,NC,37
+NC,2,Smoking,40,NC,37
+NC,4,Campfire,39,NC,37
+NC,7,Fireworks,35,NC,37
+NC,6,Children,35,NC,37
+NC,12,Children,33,NC,37
+NC,3,Campfire,32,NC,37
+NC,1,Smoking,31,NC,37
+NC,5,Lightning,26,NC,37
+NC,11,Campfire,24,NC,37
+NC,2,Campfire,23,NC,37
+NC,8,Lightning,23,NC,37
+NC,7,Children,23,NC,37
+NC,9,Children,21,NC,37
+NC,4,Railroad,20,NC,37
+NC,3,Lightning,20,NC,37
+NC,5,Campfire,20,NC,37
+NC,10,Children,19,NC,37
+NC,7,Smoking,19,NC,37
+NC,12,Smoking,18,NC,37
+NC,6,Smoking,17,NC,37
+NC,3,Fireworks,16,NC,37
+NC,7,Powerline,15,NC,37
+NC,8,Powerline,14,NC,37
+NC,1,Campfire,14,NC,37
+NC,5,Smoking,13,NC,37
+NC,3,Railroad,13,NC,37
+NC,8,Smoking,13,NC,37
+NC,9,Powerline,13,NC,37
+NC,8,Children,12,NC,37
+NC,10,Smoking,12,NC,37
+NC,10,Campfire,11,NC,37
+NC,2,Railroad,11,NC,37
+NC,9,Lightning,10,NC,37
+NC,8,Campfire,10,NC,37
+NC,9,Campfire,10,NC,37
+NC,11,Railroad,10,NC,37
+NC,6,Campfire,9,NC,37
+NC,4,Fireworks,8,NC,37
+NC,1,Fireworks,8,NC,37
+NC,6,Fireworks,8,NC,37
+NC,11,Powerline,8,NC,37
+NC,2,Fireworks,7,NC,37
+NC,7,Railroad,6,NC,37
+NC,9,Smoking,6,NC,37
+NC,9,Railroad,6,NC,37
+NC,8,Railroad,6,NC,37
+NC,12,Fireworks,5,NC,37
+NC,5,Fireworks,5,NC,37
+NC,12,Campfire,5,NC,37
+NC,10,Powerline,5,NC,37
+NC,6,Railroad,4,NC,37
+NC,9,Fireworks,4,NC,37
+NC,10,Fireworks,4,NC,37
+NC,10,Railroad,4,NC,37
+NC,11,Fireworks,4,NC,37
+NC,12,Powerline,4,NC,37
+NC,3,Powerline,3,NC,37
+NC,5,Powerline,3,NC,37
+NC,5,Railroad,3,NC,37
+NC,11,Structure,3,NC,37
+NC,12,Structure,2,NC,37
+NC,1,Powerline,2,NC,37
+NC,6,Powerline,2,NC,37
+NC,8,Structure,2,NC,37
+NC,8,Fireworks,2,NC,37
+NC,10,Lightning,2,NC,37
+NC,5,Structure,2,NC,37
+NC,10,Structure,1,NC,37
+NC,9,Structure,1,NC,37
+NC,11,Lightning,1,NC,37
+NC,12,Railroad,1,NC,37
+NC,7,Structure,1,NC,37
+NC,2,Powerline,1,NC,37
+NC,2,Structure,1,NC,37
+NC,2,Lightning,1,NC,37
+NM,7,Lightning,1364,NM,35
+NM,8,Lightning,662,NM,35
+NM,6,Lightning,501,NM,35
+NM,3,Debris Burning,258,NM,35
+NM,5,Campfire,131,NM,35
+NM,4,Miscellaneous,127,NM,35
+NM,5,Lightning,125,NM,35
+NM,4,Debris Burning,124,NM,35
+NM,9,Lightning,114,NM,35
+NM,5,Equipment Use,113,NM,35
+NM,6,Campfire,111,NM,35
+NM,6,Equipment Use,107,NM,35
+NM,4,Equipment Use,97,NM,35
+NM,6,Miscellaneous,95,NM,35
+NM,3,Miscellaneous,92,NM,35
+NM,3,Equipment Use,83,NM,35
+NM,5,Debris Burning,81,NM,35
+NM,5,Miscellaneous,77,NM,35
+NM,4,Arson,76,NM,35
+NM,2,Debris Burning,74,NM,35
+NM,6,Debris Burning,74,NM,35
+NM,6,Arson,58,NM,35
+NM,4,Campfire,57,NM,35
+NM,3,Arson,56,NM,35
+NM,4,Lightning,50,NM,35
+NM,2,Equipment Use,49,NM,35
+NM,5,Arson,43,NM,35
+NM,7,Equipment Use,39,NM,35
+NM,10,Lightning,36,NM,35
+NM,7,Miscellaneous,36,NM,35
+NM,4,Powerline,35,NM,35
+NM,2,Miscellaneous,34,NM,35
+NM,1,Debris Burning,32,NM,35
+NM,5,Powerline,32,NM,35
+NM,7,Arson,30,NM,35
+NM,6,Powerline,29,NM,35
+NM,8,Equipment Use,28,NM,35
+NM,7,Campfire,28,NM,35
+NM,5,Smoking,27,NM,35
+NM,3,Campfire,27,NM,35
+NM,9,Miscellaneous,24,NM,35
+NM,6,Smoking,24,NM,35
+NM,1,Equipment Use,23,NM,35
+NM,4,Children,23,NM,35
+NM,1,Miscellaneous,21,NM,35
+NM,7,Debris Burning,21,NM,35
+NM,3,Smoking,18,NM,35
+NM,10,Campfire,18,NM,35
+NM,10,Miscellaneous,17,NM,35
+NM,5,Children,17,NM,35
+NM,6,Children,17,NM,35
+NM,9,Campfire,16,NM,35
+NM,10,Equipment Use,16,NM,35
+NM,8,Miscellaneous,16,NM,35
+NM,4,Smoking,15,NM,35
+NM,9,Equipment Use,15,NM,35
+NM,2,Arson,14,NM,35
+NM,11,Miscellaneous,14,NM,35
+NM,8,Campfire,13,NM,35
+NM,11,Equipment Use,13,NM,35
+NM,7,Fireworks,12,NM,35
+NM,2,Campfire,12,NM,35
+NM,2,Smoking,11,NM,35
+NM,6,Structure,11,NM,35
+NM,12,Equipment Use,11,NM,35
+NM,11,Arson,10,NM,35
+NM,3,Children,10,NM,35
+NM,8,Debris Burning,10,NM,35
+NM,11,Campfire,10,NM,35
+NM,12,Miscellaneous,9,NM,35
+NM,3,Lightning,9,NM,35
+NM,3,Powerline,9,NM,35
+NM,12,Arson,8,NM,35
+NM,12,Debris Burning,8,NM,35
+NM,6,Fireworks,8,NM,35
+NM,1,Arson,7,NM,35
+NM,10,Arson,7,NM,35
+NM,9,Debris Burning,7,NM,35
+NM,7,Powerline,7,NM,35
+NM,2,Fireworks,7,NM,35
+NM,2,Powerline,7,NM,35
+NM,8,Powerline,7,NM,35
+NM,11,Debris Burning,6,NM,35
+NM,1,Campfire,6,NM,35
+NM,3,Railroad,6,NM,35
+NM,3,Structure,5,NM,35
+NM,5,Railroad,5,NM,35
+NM,10,Debris Burning,5,NM,35
+NM,4,Railroad,4,NM,35
+NM,4,Structure,4,NM,35
+NM,7,Smoking,4,NM,35
+NM,8,Arson,4,NM,35
+NM,11,Powerline,4,NM,35
+NM,12,Powerline,3,NM,35
+NM,6,Railroad,3,NM,35
+NM,1,Powerline,3,NM,35
+NM,1,Children,3,NM,35
+NM,10,Powerline,3,NM,35
+NM,11,Lightning,3,NM,35
+NM,12,Campfire,3,NM,35
+NM,3,Fireworks,2,NM,35
+NM,2,Structure,2,NM,35
+NM,2,Lightning,2,NM,35
+NM,2,Children,2,NM,35
+NM,1,Railroad,2,NM,35
+NM,4,Fireworks,2,NM,35
+NM,12,Lightning,2,NM,35
+NM,9,Powerline,2,NM,35
+NM,7,Railroad,2,NM,35
+NM,7,Children,2,NM,35
+NM,7,Structure,1,NM,35
+NM,8,Children,1,NM,35
+NM,9,Arson,1,NM,35
+NM,10,Fireworks,1,NM,35
+NM,10,Railroad,1,NM,35
+NM,10,Smoking,1,NM,35
+NM,11,Children,1,NM,35
+NM,11,Smoking,1,NM,35
+NM,5,Structure,1,NM,35
+NM,5,Fireworks,1,NM,35
+NM,1,Smoking,1,NM,35
+NM,2,Railroad,1,NM,35
+NM,12,Smoking,1,NM,35
+AL,3,Miscellaneous,1350,AL,1
+AL,2,Miscellaneous,782,AL,1
+AL,1,Miscellaneous,709,AL,1
+AL,11,Miscellaneous,666,AL,1
+AL,10,Miscellaneous,492,AL,1
+AL,4,Miscellaneous,413,AL,1
+AL,12,Miscellaneous,375,AL,1
+AL,3,Arson,368,AL,1
+AL,2,Debris Burning,323,AL,1
+AL,5,Miscellaneous,312,AL,1
+AL,9,Miscellaneous,257,AL,1
+AL,6,Miscellaneous,243,AL,1
+AL,2,Arson,238,AL,1
+AL,8,Miscellaneous,214,AL,1
+AL,7,Miscellaneous,203,AL,1
+AL,11,Arson,180,AL,1
+AL,1,Debris Burning,152,AL,1
+AL,4,Arson,147,AL,1
+AL,3,Debris Burning,145,AL,1
+AL,1,Arson,142,AL,1
+AL,10,Debris Burning,109,AL,1
+AL,6,Arson,91,AL,1
+AL,10,Arson,89,AL,1
+AL,5,Debris Burning,84,AL,1
+AL,5,Arson,83,AL,1
+AL,7,Lightning,82,AL,1
+AL,12,Arson,81,AL,1
+AL,6,Lightning,77,AL,1
+AL,6,Debris Burning,75,AL,1
+AL,8,Arson,70,AL,1
+AL,8,Debris Burning,60,AL,1
+AL,9,Arson,59,AL,1
+AL,7,Arson,53,AL,1
+AL,11,Debris Burning,53,AL,1
+AL,9,Debris Burning,51,AL,1
+AL,10,Equipment Use,48,AL,1
+AL,5,Equipment Use,46,AL,1
+AL,9,Equipment Use,45,AL,1
+AL,11,Equipment Use,43,AL,1
+AL,4,Debris Burning,42,AL,1
+AL,6,Equipment Use,42,AL,1
+AL,8,Equipment Use,38,AL,1
+AL,2,Equipment Use,36,AL,1
+AL,1,Equipment Use,35,AL,1
+AL,3,Equipment Use,34,AL,1
+AL,8,Lightning,32,AL,1
+AL,3,Powerline,30,AL,1
+AL,4,Equipment Use,22,AL,1
+AL,12,Equipment Use,22,AL,1
+AL,12,Debris Burning,21,AL,1
+AL,5,Lightning,21,AL,1
+AL,2,Powerline,20,AL,1
+AL,4,Powerline,19,AL,1
+AL,8,Powerline,18,AL,1
+AL,11,Campfire,16,AL,1
+AL,9,Lightning,16,AL,1
+AL,7,Equipment Use,16,AL,1
+AL,7,Fireworks,15,AL,1
+AL,6,Powerline,15,AL,1
+AL,6,Structure,15,AL,1
+AL,3,Structure,14,AL,1
+AL,10,Powerline,14,AL,1
+AL,7,Debris Burning,13,AL,1
+AL,1,Fireworks,13,AL,1
+AL,2,Campfire,13,AL,1
+AL,1,Powerline,12,AL,1
+AL,3,Campfire,12,AL,1
+AL,1,Structure,11,AL,1
+AL,3,Smoking,10,AL,1
+AL,3,Children,10,AL,1
+AL,2,Structure,9,AL,1
+AL,12,Powerline,9,AL,1
+AL,11,Powerline,9,AL,1
+AL,5,Structure,9,AL,1
+AL,6,Railroad,9,AL,1
+AL,9,Powerline,8,AL,1
+AL,10,Campfire,8,AL,1
+AL,10,Children,8,AL,1
+AL,12,Structure,8,AL,1
+AL,5,Powerline,8,AL,1
+AL,2,Children,8,AL,1
+AL,4,Smoking,8,AL,1
+AL,5,Children,7,AL,1
+AL,1,Campfire,7,AL,1
+AL,8,Structure,7,AL,1
+AL,10,Structure,7,AL,1
+AL,6,Campfire,7,AL,1
+AL,4,Structure,6,AL,1
+AL,6,Smoking,6,AL,1
+AL,9,Structure,6,AL,1
+AL,10,Smoking,6,AL,1
+AL,1,Smoking,6,AL,1
+AL,1,Children,6,AL,1
+AL,11,Structure,6,AL,1
+AL,4,Lightning,5,AL,1
+AL,8,Campfire,5,AL,1
+AL,7,Children,5,AL,1
+AL,7,Campfire,5,AL,1
+AL,6,Children,5,AL,1
+AL,4,Campfire,5,AL,1
+AL,2,Smoking,4,AL,1
+AL,7,Smoking,4,AL,1
+AL,8,Smoking,4,AL,1
+AL,11,Children,4,AL,1
+AL,11,Smoking,4,AL,1
+AL,7,Structure,3,AL,1
+AL,8,Children,3,AL,1
+AL,12,Campfire,3,AL,1
+AL,8,Railroad,3,AL,1
+AL,5,Campfire,3,AL,1
+AL,4,Children,3,AL,1
+AL,10,Railroad,3,AL,1
+AL,11,Lightning,2,AL,1
+AL,7,Powerline,2,AL,1
+AL,3,Lightning,2,AL,1
+AL,7,Railroad,2,AL,1
+AL,9,Children,2,AL,1
+AL,9,Railroad,2,AL,1
+AL,3,Railroad,2,AL,1
+AL,4,Fireworks,2,AL,1
+AL,5,Railroad,2,AL,1
+AL,5,Smoking,2,AL,1
+AL,9,Smoking,1,AL,1
+AL,9,Fireworks,1,AL,1
+AL,9,Campfire,1,AL,1
+AL,5,Fireworks,1,AL,1
+AL,4,Railroad,1,AL,1
+AL,2,Railroad,1,AL,1
+AL,10,Fireworks,1,AL,1
+AL,11,Railroad,1,AL,1
+AL,2,Fireworks,1,AL,1
+AL,1,Lightning,1,AL,1
+CO,7,Lightning,1313,CO,8
+CO,8,Lightning,815,CO,8
+CO,6,Lightning,533,CO,8
+CO,6,Miscellaneous,482,CO,8
+CO,5,Miscellaneous,321,CO,8
+CO,3,Miscellaneous,310,CO,8
+CO,7,Miscellaneous,305,CO,8
+CO,4,Miscellaneous,271,CO,8
+CO,9,Lightning,246,CO,8
+CO,8,Miscellaneous,185,CO,8
+CO,1,Miscellaneous,179,CO,8
+CO,2,Miscellaneous,147,CO,8
+CO,9,Miscellaneous,145,CO,8
+CO,6,Campfire,144,CO,8
+CO,5,Lightning,128,CO,8
+CO,7,Campfire,107,CO,8
+CO,8,Campfire,84,CO,8
+CO,9,Campfire,75,CO,8
+CO,10,Miscellaneous,75,CO,8
+CO,5,Campfire,74,CO,8
+CO,10,Lightning,65,CO,8
+CO,11,Miscellaneous,50,CO,8
+CO,6,Equipment Use,47,CO,8
+CO,6,Smoking,46,CO,8
+CO,4,Lightning,45,CO,8
+CO,6,Arson,41,CO,8
+CO,10,Campfire,40,CO,8
+CO,3,Smoking,34,CO,8
+CO,4,Debris Burning,34,CO,8
+CO,7,Equipment Use,33,CO,8
+CO,3,Campfire,32,CO,8
+CO,5,Smoking,30,CO,8
+CO,4,Campfire,28,CO,8
+CO,3,Equipment Use,27,CO,8
+CO,7,Fireworks,26,CO,8
+CO,4,Smoking,24,CO,8
+CO,4,Equipment Use,23,CO,8
+CO,5,Equipment Use,20,CO,8
+CO,8,Equipment Use,20,CO,8
+CO,3,Debris Burning,20,CO,8
+CO,5,Debris Burning,17,CO,8
+CO,6,Debris Burning,15,CO,8
+CO,9,Equipment Use,15,CO,8
+CO,4,Arson,14,CO,8
+CO,2,Equipment Use,14,CO,8
+CO,11,Debris Burning,13,CO,8
+CO,9,Smoking,12,CO,8
+CO,12,Miscellaneous,12,CO,8
+CO,1,Smoking,12,CO,8
+CO,7,Debris Burning,11,CO,8
+CO,7,Arson,11,CO,8
+CO,7,Smoking,11,CO,8
+CO,1,Equipment Use,10,CO,8
+CO,5,Arson,10,CO,8
+CO,3,Arson,10,CO,8
+CO,2,Smoking,10,CO,8
+CO,2,Arson,9,CO,8
+CO,8,Smoking,8,CO,8
+CO,10,Equipment Use,8,CO,8
+CO,1,Campfire,8,CO,8
+CO,11,Campfire,8,CO,8
+CO,2,Debris Burning,8,CO,8
+CO,10,Arson,8,CO,8
+CO,6,Fireworks,8,CO,8
+CO,1,Debris Burning,7,CO,8
+CO,3,Lightning,7,CO,8
+CO,2,Lightning,6,CO,8
+CO,2,Campfire,6,CO,8
+CO,11,Lightning,6,CO,8
+CO,10,Smoking,6,CO,8
+CO,8,Debris Burning,5,CO,8
+CO,3,Children,5,CO,8
+CO,5,Railroad,5,CO,8
+CO,1,Fireworks,4,CO,8
+CO,4,Fireworks,4,CO,8
+CO,7,Children,4,CO,8
+CO,8,Children,4,CO,8
+CO,8,Powerline,4,CO,8
+CO,9,Debris Burning,4,CO,8
+CO,3,Fireworks,3,CO,8
+CO,1,Lightning,3,CO,8
+CO,11,Arson,3,CO,8
+CO,11,Equipment Use,3,CO,8
+CO,10,Debris Burning,3,CO,8
+CO,5,Fireworks,3,CO,8
+CO,6,Children,3,CO,8
+CO,9,Arson,3,CO,8
+CO,8,Arson,3,CO,8
+CO,8,Fireworks,3,CO,8
+CO,1,Arson,2,CO,8
+CO,10,Railroad,2,CO,8
+CO,11,Fireworks,2,CO,8
+CO,6,Powerline,2,CO,8
+CO,6,Railroad,2,CO,8
+CO,1,Railroad,1,CO,8
+CO,9,Railroad,1,CO,8
+CO,9,Children,1,CO,8
+CO,9,Powerline,1,CO,8
+CO,10,Children,1,CO,8
+CO,5,Powerline,1,CO,8
+CO,6,Structure,1,CO,8
+CO,4,Children,1,CO,8
+CO,12,Equipment Use,1,CO,8
+CO,12,Lightning,1,CO,8
+CO,12,Campfire,1,CO,8
+CO,12,Arson,1,CO,8
+CO,11,Smoking,1,CO,8
+UT,8,Lightning,1231,UT,49
+UT,7,Lightning,1213,UT,49
+UT,9,Lightning,307,UT,49
+UT,6,Lightning,283,UT,49
+UT,6,Miscellaneous,159,UT,49
+UT,7,Miscellaneous,131,UT,49
+UT,7,Campfire,121,UT,49
+UT,6,Campfire,102,UT,49
+UT,8,Miscellaneous,91,UT,49
+UT,5,Lightning,88,UT,49
+UT,7,Equipment Use,86,UT,49
+UT,6,Equipment Use,85,UT,49
+UT,8,Equipment Use,74,UT,49
+UT,8,Campfire,71,UT,49
+UT,4,Debris Burning,68,UT,49
+UT,5,Miscellaneous,61,UT,49
+UT,6,Debris Burning,58,UT,49
+UT,9,Miscellaneous,52,UT,49
+UT,7,Debris Burning,52,UT,49
+UT,5,Debris Burning,49,UT,49
+UT,3,Debris Burning,43,UT,49
+UT,9,Campfire,41,UT,49
+UT,10,Lightning,40,UT,49
+UT,7,Fireworks,34,UT,49
+UT,10,Campfire,33,UT,49
+UT,9,Equipment Use,32,UT,49
+UT,10,Miscellaneous,32,UT,49
+UT,5,Campfire,30,UT,49
+UT,5,Equipment Use,27,UT,49
+UT,4,Arson,27,UT,49
+UT,6,Powerline,24,UT,49
+UT,4,Equipment Use,24,UT,49
+UT,8,Debris Burning,23,UT,49
+UT,6,Arson,23,UT,49
+UT,4,Miscellaneous,22,UT,49
+UT,10,Debris Burning,22,UT,49
+UT,3,Miscellaneous,21,UT,49
+UT,4,Lightning,18,UT,49
+UT,6,Children,18,UT,49
+UT,4,Campfire,17,UT,49
+UT,7,Arson,17,UT,49
+UT,11,Debris Burning,17,UT,49
+UT,8,Arson,17,UT,49
+UT,7,Children,15,UT,49
+UT,9,Debris Burning,15,UT,49
+UT,6,Railroad,11,UT,49
+UT,5,Arson,11,UT,49
+UT,7,Powerline,11,UT,49
+UT,3,Campfire,10,UT,49
+UT,2,Equipment Use,10,UT,49
+UT,6,Fireworks,9,UT,49
+UT,10,Equipment Use,9,UT,49
+UT,3,Arson,8,UT,49
+UT,2,Miscellaneous,8,UT,49
+UT,3,Equipment Use,8,UT,49
+UT,9,Children,8,UT,49
+UT,11,Miscellaneous,7,UT,49
+UT,9,Arson,7,UT,49
+UT,8,Powerline,7,UT,49
+UT,5,Railroad,7,UT,49
+UT,8,Railroad,6,UT,49
+UT,5,Powerline,6,UT,49
+UT,1,Miscellaneous,6,UT,49
+UT,1,Debris Burning,6,UT,49
+UT,5,Fireworks,5,UT,49
+UT,7,Structure,5,UT,49
+UT,8,Children,5,UT,49
+UT,8,Fireworks,5,UT,49
+UT,9,Powerline,5,UT,49
+UT,2,Arson,4,UT,49
+UT,2,Campfire,4,UT,49
+UT,3,Powerline,4,UT,49
+UT,11,Campfire,4,UT,49
+UT,12,Debris Burning,4,UT,49
+UT,5,Structure,4,UT,49
+UT,1,Equipment Use,3,UT,49
+UT,2,Debris Burning,3,UT,49
+UT,3,Lightning,3,UT,49
+UT,11,Equipment Use,3,UT,49
+UT,6,Smoking,3,UT,49
+UT,6,Structure,3,UT,49
+UT,7,Railroad,3,UT,49
+UT,8,Structure,3,UT,49
+UT,3,Railroad,2,UT,49
+UT,4,Children,2,UT,49
+UT,4,Powerline,2,UT,49
+UT,8,Smoking,2,UT,49
+UT,7,Smoking,2,UT,49
+UT,4,Structure,2,UT,49
+UT,5,Children,2,UT,49
+UT,2,Lightning,2,UT,49
+UT,1,Arson,2,UT,49
+UT,9,Structure,2,UT,49
+UT,10,Railroad,2,UT,49
+UT,11,Lightning,2,UT,49
+UT,12,Campfire,2,UT,49
+UT,4,Fireworks,1,UT,49
+UT,4,Railroad,1,UT,49
+UT,3,Fireworks,1,UT,49
+UT,1,Children,1,UT,49
+UT,1,Fireworks,1,UT,49
+UT,1,Smoking,1,UT,49
+UT,1,Structure,1,UT,49
+UT,2,Powerline,1,UT,49
+UT,9,Railroad,1,UT,49
+UT,10,Children,1,UT,49
+UT,10,Powerline,1,UT,49
+UT,10,Smoking,1,UT,49
+UT,10,Structure,1,UT,49
+UT,11,Arson,1,UT,49
+UT,11,Children,1,UT,49
+UT,11,Railroad,1,UT,49
+UT,9,Fireworks,1,UT,49
+UT,11,Structure,1,UT,49
+UT,12,Arson,1,UT,49
+UT,12,Miscellaneous,1,UT,49
+UT,12,Railroad,1,UT,49
+SC,3,Debris Burning,1038,SC,45
+SC,2,Debris Burning,931,SC,45
+SC,1,Debris Burning,613,SC,45
+SC,4,Debris Burning,449,SC,45
+SC,3,Arson,444,SC,45
+SC,2,Arson,329,SC,45
+SC,11,Debris Burning,280,SC,45
+SC,5,Debris Burning,247,SC,45
+SC,6,Debris Burning,240,SC,45
+SC,4,Arson,234,SC,45
+SC,7,Debris Burning,215,SC,45
+SC,1,Arson,211,SC,45
+SC,12,Debris Burning,200,SC,45
+SC,2,Miscellaneous,166,SC,45
+SC,3,Miscellaneous,144,SC,45
+SC,10,Debris Burning,140,SC,45
+SC,7,Lightning,136,SC,45
+SC,9,Debris Burning,136,SC,45
+SC,5,Arson,135,SC,45
+SC,6,Lightning,132,SC,45
+SC,8,Debris Burning,127,SC,45
+SC,11,Arson,118,SC,45
+SC,2,Equipment Use,114,SC,45
+SC,7,Arson,114,SC,45
+SC,4,Miscellaneous,105,SC,45
+SC,3,Equipment Use,95,SC,45
+SC,6,Arson,90,SC,45
+SC,1,Miscellaneous,90,SC,45
+SC,12,Arson,89,SC,45
+SC,1,Equipment Use,87,SC,45
+SC,7,Miscellaneous,83,SC,45
+SC,6,Equipment Use,81,SC,45
+SC,2,Children,80,SC,45
+SC,10,Arson,78,SC,45
+SC,3,Children,74,SC,45
+SC,11,Miscellaneous,73,SC,45
+SC,6,Miscellaneous,69,SC,45
+SC,4,Equipment Use,69,SC,45
+SC,1,Children,69,SC,45
+SC,5,Miscellaneous,63,SC,45
+SC,4,Children,57,SC,45
+SC,5,Equipment Use,55,SC,45
+SC,11,Equipment Use,50,SC,45
+SC,10,Miscellaneous,50,SC,45
+SC,2,Smoking,50,SC,45
+SC,3,Powerline,46,SC,45
+SC,3,Smoking,45,SC,45
+SC,7,Equipment Use,44,SC,45
+SC,12,Miscellaneous,43,SC,45
+SC,8,Miscellaneous,41,SC,45
+SC,8,Lightning,41,SC,45
+SC,9,Miscellaneous,41,SC,45
+SC,8,Arson,40,SC,45
+SC,7,Fireworks,40,SC,45
+SC,9,Arson,40,SC,45
+SC,2,Powerline,39,SC,45
+SC,9,Equipment Use,36,SC,45
+SC,5,Lightning,35,SC,45
+SC,11,Children,33,SC,45
+SC,10,Equipment Use,33,SC,45
+SC,7,Children,30,SC,45
+SC,2,Structure,28,SC,45
+SC,6,Children,28,SC,45
+SC,8,Equipment Use,26,SC,45
+SC,6,Powerline,25,SC,45
+SC,12,Equipment Use,24,SC,45
+SC,4,Powerline,24,SC,45
+SC,4,Lightning,23,SC,45
+SC,10,Children,23,SC,45
+SC,8,Children,22,SC,45
+SC,5,Children,22,SC,45
+SC,1,Powerline,21,SC,45
+SC,1,Smoking,20,SC,45
+SC,7,Powerline,19,SC,45
+SC,4,Smoking,18,SC,45
+SC,4,Structure,18,SC,45
+SC,5,Railroad,18,SC,45
+SC,12,Children,17,SC,45
+SC,11,Structure,17,SC,45
+SC,3,Structure,17,SC,45
+SC,1,Fireworks,16,SC,45
+SC,11,Campfire,16,SC,45
+SC,7,Smoking,16,SC,45
+SC,5,Structure,15,SC,45
+SC,3,Lightning,15,SC,45
+SC,2,Campfire,14,SC,45
+SC,4,Campfire,14,SC,45
+SC,11,Smoking,14,SC,45
+SC,1,Campfire,14,SC,45
+SC,3,Campfire,13,SC,45
+SC,8,Powerline,13,SC,45
+SC,11,Powerline,12,SC,45
+SC,9,Children,12,SC,45
+SC,9,Lightning,12,SC,45
+SC,7,Structure,12,SC,45
+SC,6,Structure,12,SC,45
+SC,5,Smoking,11,SC,45
+SC,7,Railroad,11,SC,45
+SC,8,Railroad,11,SC,45
+SC,1,Structure,11,SC,45
+SC,12,Smoking,11,SC,45
+SC,3,Railroad,10,SC,45
+SC,10,Powerline,10,SC,45
+SC,8,Structure,10,SC,45
+SC,10,Structure,10,SC,45
+SC,9,Structure,9,SC,45
+SC,5,Powerline,9,SC,45
+SC,9,Powerline,9,SC,45
+SC,11,Railroad,8,SC,45
+SC,9,Smoking,8,SC,45
+SC,4,Fireworks,8,SC,45
+SC,2,Railroad,8,SC,45
+SC,4,Railroad,7,SC,45
+SC,12,Campfire,7,SC,45
+SC,6,Campfire,7,SC,45
+SC,5,Campfire,7,SC,45
+SC,12,Powerline,7,SC,45
+SC,6,Railroad,5,SC,45
+SC,7,Campfire,5,SC,45
+SC,10,Smoking,5,SC,45
+SC,10,Campfire,5,SC,45
+SC,11,Lightning,5,SC,45
+SC,1,Railroad,4,SC,45
+SC,12,Fireworks,4,SC,45
+SC,6,Smoking,4,SC,45
+SC,8,Smoking,4,SC,45
+SC,12,Railroad,3,SC,45
+SC,6,Fireworks,3,SC,45
+SC,9,Railroad,3,SC,45
+SC,8,Campfire,3,SC,45
+SC,2,Fireworks,3,SC,45
+SC,3,Fireworks,3,SC,45
+SC,12,Structure,2,SC,45
+SC,5,Fireworks,2,SC,45
+SC,10,Railroad,2,SC,45
+SC,10,Lightning,2,SC,45
+SC,9,Campfire,1,SC,45
+SC,8,Fireworks,1,SC,45
+SC,2,Lightning,1,SC,45
+SC,9,Fireworks,1,SC,45
+KY,3,Debris Burning,996,KY,21
+KY,4,Debris Burning,898,KY,21
+KY,11,Debris Burning,820,KY,21
+KY,2,Debris Burning,363,KY,21
+KY,3,Campfire,328,KY,21
+KY,4,Campfire,254,KY,21
+KY,10,Debris Burning,194,KY,21
+KY,11,Campfire,171,KY,21
+KY,12,Debris Burning,159,KY,21
+KY,2,Campfire,144,KY,21
+KY,4,Miscellaneous,95,KY,21
+KY,11,Miscellaneous,92,KY,21
+KY,1,Debris Burning,85,KY,21
+KY,3,Miscellaneous,81,KY,21
+KY,10,Campfire,59,KY,21
+KY,6,Debris Burning,45,KY,21
+KY,3,Arson,45,KY,21
+KY,5,Debris Burning,42,KY,21
+KY,4,Arson,41,KY,21
+KY,1,Campfire,36,KY,21
+KY,2,Miscellaneous,32,KY,21
+KY,6,Miscellaneous,31,KY,21
+KY,11,Arson,29,KY,21
+KY,10,Miscellaneous,23,KY,21
+KY,4,Railroad,22,KY,21
+KY,5,Campfire,19,KY,21
+KY,7,Debris Burning,18,KY,21
+KY,3,Railroad,17,KY,21
+KY,7,Miscellaneous,17,KY,21
+KY,6,Campfire,16,KY,21
+KY,12,Campfire,15,KY,21
+KY,6,Railroad,14,KY,21
+KY,2,Arson,13,KY,21
+KY,8,Campfire,13,KY,21
+KY,5,Miscellaneous,13,KY,21
+KY,2,Railroad,13,KY,21
+KY,7,Lightning,12,KY,21
+KY,4,Equipment Use,12,KY,21
+KY,1,Miscellaneous,11,KY,21
+KY,12,Arson,10,KY,21
+KY,11,Railroad,10,KY,21
+KY,8,Debris Burning,10,KY,21
+KY,3,Smoking,10,KY,21
+KY,9,Campfire,9,KY,21
+KY,7,Campfire,9,KY,21
+KY,3,Equipment Use,9,KY,21
+KY,12,Miscellaneous,9,KY,21
+KY,10,Railroad,9,KY,21
+KY,8,Miscellaneous,8,KY,21
+KY,11,Equipment Use,7,KY,21
+KY,9,Debris Burning,6,KY,21
+KY,10,Arson,6,KY,21
+KY,4,Lightning,5,KY,21
+KY,4,Smoking,5,KY,21
+KY,9,Miscellaneous,5,KY,21
+KY,10,Equipment Use,5,KY,21
+KY,1,Arson,4,KY,21
+KY,4,Children,4,KY,21
+KY,11,Children,4,KY,21
+KY,9,Railroad,3,KY,21
+KY,8,Lightning,3,KY,21
+KY,8,Arson,3,KY,21
+KY,7,Railroad,3,KY,21
+KY,7,Children,3,KY,21
+KY,6,Equipment Use,3,KY,21
+KY,5,Arson,3,KY,21
+KY,2,Lightning,3,KY,21
+KY,3,Children,2,KY,21
+KY,1,Equipment Use,2,KY,21
+KY,6,Arson,2,KY,21
+KY,12,Railroad,2,KY,21
+KY,10,Children,2,KY,21
+KY,9,Lightning,2,KY,21
+KY,9,Arson,2,KY,21
+KY,8,Railroad,2,KY,21
+KY,7,Smoking,2,KY,21
+KY,6,Smoking,2,KY,21
+KY,6,Lightning,2,KY,21
+KY,11,Lightning,2,KY,21
+KY,3,Lightning,2,KY,21
+KY,2,Equipment Use,1,KY,21
+KY,2,Children,1,KY,21
+KY,1,Railroad,1,KY,21
+KY,2,Smoking,1,KY,21
+KY,7,Powerline,1,KY,21
+KY,7,Equipment Use,1,KY,21
+KY,5,Railroad,1,KY,21
+KY,5,Lightning,1,KY,21
+KY,5,Equipment Use,1,KY,21
+KY,4,Powerline,1,KY,21
+KY,3,Fireworks,1,KY,21
+KY,8,Equipment Use,1,KY,21
+KY,11,Smoking,1,KY,21
+KY,10,Smoking,1,KY,21
+KY,10,Lightning,1,KY,21
+KS,3,Debris Burning,952,KS,20
+KS,3,Miscellaneous,827,KS,20
+KS,1,Miscellaneous,293,KS,20
+KS,4,Miscellaneous,268,KS,20
+KS,2,Miscellaneous,233,KS,20
+KS,11,Miscellaneous,232,KS,20
+KS,10,Miscellaneous,210,KS,20
+KS,4,Debris Burning,196,KS,20
+KS,3,Arson,194,KS,20
+KS,1,Debris Burning,189,KS,20
+KS,3,Smoking,131,KS,20
+KS,7,Miscellaneous,124,KS,20
+KS,12,Miscellaneous,114,KS,20
+KS,2,Debris Burning,109,KS,20
+KS,9,Miscellaneous,109,KS,20
+KS,3,Equipment Use,100,KS,20
+KS,6,Miscellaneous,93,KS,20
+KS,11,Debris Burning,85,KS,20
+KS,8,Miscellaneous,75,KS,20
+KS,10,Debris Burning,64,KS,20
+KS,7,Fireworks,59,KS,20
+KS,5,Miscellaneous,58,KS,20
+KS,10,Equipment Use,56,KS,20
+KS,1,Equipment Use,55,KS,20
+KS,4,Arson,52,KS,20
+KS,11,Equipment Use,44,KS,20
+KS,1,Smoking,40,KS,20
+KS,1,Arson,39,KS,20
+KS,2,Arson,38,KS,20
+KS,2,Equipment Use,38,KS,20
+KS,9,Equipment Use,37,KS,20
+KS,2,Smoking,37,KS,20
+KS,6,Equipment Use,35,KS,20
+KS,7,Equipment Use,34,KS,20
+KS,4,Equipment Use,31,KS,20
+KS,4,Smoking,31,KS,20
+KS,12,Debris Burning,28,KS,20
+KS,8,Equipment Use,26,KS,20
+KS,7,Lightning,24,KS,20
+KS,8,Debris Burning,24,KS,20
+KS,10,Smoking,22,KS,20
+KS,8,Lightning,21,KS,20
+KS,7,Arson,21,KS,20
+KS,9,Debris Burning,21,KS,20
+KS,3,Children,21,KS,20
+KS,3,Structure,20,KS,20
+KS,6,Debris Burning,19,KS,20
+KS,10,Arson,19,KS,20
+KS,12,Equipment Use,19,KS,20
+KS,11,Arson,19,KS,20
+KS,10,Powerline,17,KS,20
+KS,11,Powerline,17,KS,20
+KS,3,Powerline,17,KS,20
+KS,4,Lightning,17,KS,20
+KS,5,Debris Burning,17,KS,20
+KS,6,Arson,16,KS,20
+KS,12,Arson,15,KS,20
+KS,11,Smoking,15,KS,20
+KS,9,Lightning,14,KS,20
+KS,12,Powerline,13,KS,20
+KS,1,Powerline,12,KS,20
+KS,7,Debris Burning,12,KS,20
+KS,12,Smoking,11,KS,20
+KS,4,Powerline,10,KS,20
+KS,9,Arson,10,KS,20
+KS,6,Smoking,10,KS,20
+KS,1,Structure,10,KS,20
+KS,5,Arson,8,KS,20
+KS,6,Powerline,8,KS,20
+KS,3,Fireworks,7,KS,20
+KS,2,Children,7,KS,20
+KS,6,Lightning,7,KS,20
+KS,7,Powerline,7,KS,20
+KS,7,Smoking,7,KS,20
+KS,4,Structure,6,KS,20
+KS,8,Arson,6,KS,20
+KS,9,Powerline,6,KS,20
+KS,9,Smoking,6,KS,20
+KS,10,Lightning,6,KS,20
+KS,12,Structure,6,KS,20
+KS,10,Structure,5,KS,20
+KS,11,Structure,5,KS,20
+KS,8,Smoking,5,KS,20
+KS,2,Structure,5,KS,20
+KS,1,Children,5,KS,20
+KS,6,Fireworks,4,KS,20
+KS,10,Children,4,KS,20
+KS,8,Powerline,4,KS,20
+KS,5,Equipment Use,4,KS,20
+KS,2,Powerline,4,KS,20
+KS,12,Children,3,KS,20
+KS,7,Structure,3,KS,20
+KS,5,Smoking,3,KS,20
+KS,5,Lightning,3,KS,20
+KS,5,Children,3,KS,20
+KS,4,Fireworks,3,KS,20
+KS,1,Fireworks,3,KS,20
+KS,2,Campfire,2,KS,20
+KS,2,Fireworks,2,KS,20
+KS,4,Children,2,KS,20
+KS,6,Structure,2,KS,20
+KS,7,Children,2,KS,20
+KS,8,Fireworks,2,KS,20
+KS,9,Structure,2,KS,20
+KS,11,Lightning,2,KS,20
+KS,11,Fireworks,1,KS,20
+KS,11,Children,1,KS,20
+KS,9,Children,1,KS,20
+KS,6,Children,1,KS,20
+KS,5,Structure,1,KS,20
+KS,4,Campfire,1,KS,20
+KS,3,Lightning,1,KS,20
+KS,3,Campfire,1,KS,20
+MN,4,Arson,854,MN,27
+MN,4,Debris Burning,574,MN,27
+MN,5,Debris Burning,480,MN,27
+MN,4,Miscellaneous,443,MN,27
+MN,5,Arson,442,MN,27
+MN,4,Children,401,MN,27
+MN,5,Miscellaneous,323,MN,27
+MN,3,Arson,234,MN,27
+MN,3,Debris Burning,222,MN,27
+MN,5,Children,200,MN,27
+MN,4,Equipment Use,163,MN,27
+MN,10,Debris Burning,162,MN,27
+MN,10,Arson,149,MN,27
+MN,5,Equipment Use,137,MN,27
+MN,10,Miscellaneous,131,MN,27
+MN,3,Children,128,MN,27
+MN,3,Miscellaneous,110,MN,27
+MN,10,Children,93,MN,27
+MN,5,Campfire,91,MN,27
+MN,9,Debris Burning,91,MN,27
+MN,10,Equipment Use,89,MN,27
+MN,9,Arson,89,MN,27
+MN,4,Campfire,86,MN,27
+MN,9,Equipment Use,71,MN,27
+MN,11,Debris Burning,67,MN,27
+MN,4,Powerline,67,MN,27
+MN,9,Miscellaneous,67,MN,27
+MN,11,Arson,57,MN,27
+MN,10,Campfire,50,MN,27
+MN,11,Miscellaneous,46,MN,27
+MN,9,Children,45,MN,27
+MN,3,Equipment Use,43,MN,27
+MN,9,Campfire,41,MN,27
+MN,8,Debris Burning,40,MN,27
+MN,8,Equipment Use,39,MN,27
+MN,4,Railroad,39,MN,27
+MN,6,Miscellaneous,38,MN,27
+MN,7,Arson,38,MN,27
+MN,6,Debris Burning,38,MN,27
+MN,7,Equipment Use,37,MN,27
+MN,5,Powerline,37,MN,27
+MN,9,Lightning,35,MN,27
+MN,8,Arson,34,MN,27
+MN,8,Campfire,34,MN,27
+MN,3,Campfire,33,MN,27
+MN,5,Railroad,32,MN,27
+MN,6,Equipment Use,32,MN,27
+MN,6,Arson,32,MN,27
+MN,7,Debris Burning,32,MN,27
+MN,4,Smoking,31,MN,27
+MN,8,Miscellaneous,29,MN,27
+MN,7,Miscellaneous,29,MN,27
+MN,7,Campfire,28,MN,27
+MN,5,Smoking,27,MN,27
+MN,8,Lightning,25,MN,27
+MN,11,Equipment Use,25,MN,27
+MN,12,Debris Burning,23,MN,27
+MN,10,Powerline,22,MN,27
+MN,5,Lightning,20,MN,27
+MN,7,Fireworks,17,MN,27
+MN,12,Arson,17,MN,27
+MN,7,Lightning,16,MN,27
+MN,4,Structure,13,MN,27
+MN,6,Lightning,13,MN,27
+MN,8,Children,13,MN,27
+MN,8,Railroad,12,MN,27
+MN,10,Structure,12,MN,27
+MN,2,Debris Burning,11,MN,27
+MN,6,Campfire,11,MN,27
+MN,11,Children,10,MN,27
+MN,12,Miscellaneous,10,MN,27
+MN,5,Structure,9,MN,27
+MN,8,Powerline,9,MN,27
+MN,4,Fireworks,9,MN,27
+MN,11,Campfire,9,MN,27
+MN,5,Fireworks,9,MN,27
+MN,10,Smoking,8,MN,27
+MN,4,Lightning,8,MN,27
+MN,3,Railroad,8,MN,27
+MN,7,Children,7,MN,27
+MN,2,Arson,7,MN,27
+MN,9,Smoking,6,MN,27
+MN,3,Smoking,6,MN,27
+MN,2,Miscellaneous,6,MN,27
+MN,2,Campfire,5,MN,27
+MN,6,Children,5,MN,27
+MN,1,Debris Burning,5,MN,27
+MN,12,Equipment Use,5,MN,27
+MN,11,Smoking,5,MN,27
+MN,10,Lightning,5,MN,27
+MN,6,Fireworks,4,MN,27
+MN,6,Powerline,4,MN,27
+MN,6,Railroad,4,MN,27
+MN,8,Fireworks,4,MN,27
+MN,10,Railroad,4,MN,27
+MN,7,Railroad,3,MN,27
+MN,3,Fireworks,3,MN,27
+MN,7,Smoking,3,MN,27
+MN,7,Structure,3,MN,27
+MN,9,Powerline,3,MN,27
+MN,9,Railroad,3,MN,27
+MN,12,Campfire,3,MN,27
+MN,1,Campfire,3,MN,27
+MN,1,Arson,3,MN,27
+MN,8,Smoking,2,MN,27
+MN,8,Structure,2,MN,27
+MN,9,Fireworks,2,MN,27
+MN,9,Structure,2,MN,27
+MN,10,Fireworks,2,MN,27
+MN,11,Powerline,2,MN,27
+MN,11,Structure,2,MN,27
+MN,12,Powerline,2,MN,27
+MN,12,Smoking,2,MN,27
+MN,6,Smoking,2,MN,27
+MN,3,Lightning,2,MN,27
+MN,3,Structure,2,MN,27
+MN,1,Children,1,MN,27
+MN,1,Fireworks,1,MN,27
+MN,1,Miscellaneous,1,MN,27
+MN,2,Equipment Use,1,MN,27
+MN,2,Railroad,1,MN,27
+MN,2,Smoking,1,MN,27
+MN,3,Powerline,1,MN,27
+MN,6,Structure,1,MN,27
+MN,7,Powerline,1,MN,27
+MN,11,Railroad,1,MN,27
+MN,12,Fireworks,1,MN,27
+WA,8,Lightning,832,WA,53
+WA,7,Lightning,586,WA,53
+WA,7,Miscellaneous,441,WA,53
+WA,8,Miscellaneous,418,WA,53
+WA,8,Campfire,353,WA,53
+WA,9,Lightning,340,WA,53
+WA,7,Campfire,272,WA,53
+WA,9,Campfire,258,WA,53
+WA,7,Fireworks,253,WA,53
+WA,9,Miscellaneous,233,WA,53
+WA,6,Miscellaneous,189,WA,53
+WA,4,Debris Burning,169,WA,53
+WA,6,Lightning,159,WA,53
+WA,7,Debris Burning,139,WA,53
+WA,5,Debris Burning,120,WA,53
+WA,6,Campfire,119,WA,53
+WA,6,Debris Burning,107,WA,53
+WA,8,Debris Burning,107,WA,53
+WA,10,Miscellaneous,96,WA,53
+WA,10,Campfire,82,WA,53
+WA,3,Debris Burning,81,WA,53
+WA,5,Miscellaneous,75,WA,53
+WA,8,Equipment Use,74,WA,53
+WA,7,Arson,70,WA,53
+WA,5,Lightning,65,WA,53
+WA,9,Arson,62,WA,53
+WA,7,Equipment Use,61,WA,53
+WA,8,Powerline,60,WA,53
+WA,5,Campfire,59,WA,53
+WA,9,Debris Burning,58,WA,53
+WA,7,Powerline,58,WA,53
+WA,8,Arson,51,WA,53
+WA,10,Debris Burning,51,WA,53
+WA,7,Children,44,WA,53
+WA,8,Smoking,44,WA,53
+WA,6,Arson,41,WA,53
+WA,6,Equipment Use,40,WA,53
+WA,9,Equipment Use,38,WA,53
+WA,4,Miscellaneous,37,WA,53
+WA,4,Arson,32,WA,53
+WA,6,Fireworks,31,WA,53
+WA,5,Arson,30,WA,53
+WA,8,Children,30,WA,53
+WA,10,Arson,29,WA,53
+WA,4,Campfire,28,WA,53
+WA,9,Children,27,WA,53
+WA,9,Powerline,23,WA,53
+WA,2,Debris Burning,22,WA,53
+WA,7,Smoking,22,WA,53
+WA,11,Campfire,21,WA,53
+WA,9,Smoking,21,WA,53
+WA,6,Children,19,WA,53
+WA,3,Miscellaneous,17,WA,53
+WA,6,Powerline,16,WA,53
+WA,5,Equipment Use,16,WA,53
+WA,11,Debris Burning,15,WA,53
+WA,8,Structure,15,WA,53
+WA,6,Smoking,14,WA,53
+WA,10,Equipment Use,14,WA,53
+WA,10,Lightning,14,WA,53
+WA,8,Fireworks,13,WA,53
+WA,7,Structure,13,WA,53
+WA,3,Arson,13,WA,53
+WA,11,Miscellaneous,11,WA,53
+WA,8,Railroad,10,WA,53
+WA,9,Structure,10,WA,53
+WA,5,Powerline,9,WA,53
+WA,3,Campfire,9,WA,53
+WA,2,Miscellaneous,9,WA,53
+WA,7,Railroad,8,WA,53
+WA,11,Arson,7,WA,53
+WA,5,Children,6,WA,53
+WA,4,Lightning,6,WA,53
+WA,2,Arson,6,WA,53
+WA,6,Structure,6,WA,53
+WA,10,Smoking,6,WA,53
+WA,10,Children,5,WA,53
+WA,2,Campfire,5,WA,53
+WA,5,Fireworks,5,WA,53
+WA,4,Structure,5,WA,53
+WA,4,Children,5,WA,53
+WA,3,Children,5,WA,53
+WA,3,Lightning,4,WA,53
+WA,4,Powerline,4,WA,53
+WA,4,Smoking,4,WA,53
+WA,10,Powerline,4,WA,53
+WA,12,Debris Burning,4,WA,53
+WA,1,Debris Burning,3,WA,53
+WA,4,Equipment Use,3,WA,53
+WA,6,Railroad,3,WA,53
+WA,9,Fireworks,3,WA,53
+WA,9,Railroad,3,WA,53
+WA,10,Structure,3,WA,53
+WA,12,Campfire,3,WA,53
+WA,2,Structure,2,WA,53
+WA,3,Equipment Use,2,WA,53
+WA,3,Powerline,2,WA,53
+WA,5,Smoking,2,WA,53
+WA,5,Structure,2,WA,53
+WA,1,Arson,2,WA,53
+WA,1,Campfire,2,WA,53
+WA,1,Miscellaneous,2,WA,53
+WA,12,Arson,2,WA,53
+WA,11,Lightning,1,WA,53
+WA,12,Smoking,1,WA,53
+WA,1,Equipment Use,1,WA,53
+WA,1,Smoking,1,WA,53
+WA,2,Equipment Use,1,WA,53
+WA,3,Smoking,1,WA,53
+WA,4,Fireworks,1,WA,53
+WA,5,Railroad,1,WA,53
+OK,3,Arson,796,OK,40
+OK,1,Arson,513,OK,40
+OK,7,Arson,386,OK,40
+OK,2,Arson,367,OK,40
+OK,3,Debris Burning,337,OK,40
+OK,4,Arson,311,OK,40
+OK,8,Arson,299,OK,40
+OK,1,Debris Burning,262,OK,40
+OK,9,Arson,245,OK,40
+OK,10,Arson,208,OK,40
+OK,11,Arson,203,OK,40
+OK,3,Miscellaneous,188,OK,40
+OK,2,Debris Burning,178,OK,40
+OK,1,Miscellaneous,170,OK,40
+OK,8,Lightning,149,OK,40
+OK,12,Arson,140,OK,40
+OK,7,Equipment Use,139,OK,40
+OK,4,Debris Burning,127,OK,40
+OK,2,Miscellaneous,112,OK,40
+OK,8,Equipment Use,112,OK,40
+OK,7,Miscellaneous,101,OK,40
+OK,6,Arson,96,OK,40
+OK,8,Miscellaneous,94,OK,40
+OK,7,Debris Burning,89,OK,40
+OK,8,Debris Burning,88,OK,40
+OK,7,Lightning,84,OK,40
+OK,7,Fireworks,76,OK,40
+OK,4,Miscellaneous,75,OK,40
+OK,12,Debris Burning,66,OK,40
+OK,5,Arson,63,OK,40
+OK,9,Debris Burning,63,OK,40
+OK,6,Equipment Use,60,OK,40
+OK,9,Equipment Use,59,OK,40
+OK,9,Miscellaneous,54,OK,40
+OK,10,Debris Burning,54,OK,40
+OK,1,Equipment Use,52,OK,40
+OK,11,Debris Burning,51,OK,40
+OK,6,Debris Burning,51,OK,40
+OK,10,Equipment Use,48,OK,40
+OK,2,Equipment Use,42,OK,40
+OK,11,Miscellaneous,39,OK,40
+OK,3,Equipment Use,37,OK,40
+OK,12,Miscellaneous,36,OK,40
+OK,6,Lightning,31,OK,40
+OK,9,Lightning,31,OK,40
+OK,5,Debris Burning,29,OK,40
+OK,4,Equipment Use,24,OK,40
+OK,10,Miscellaneous,22,OK,40
+OK,8,Powerline,20,OK,40
+OK,5,Equipment Use,20,OK,40
+OK,6,Miscellaneous,20,OK,40
+OK,12,Equipment Use,18,OK,40
+OK,11,Equipment Use,17,OK,40
+OK,3,Campfire,17,OK,40
+OK,1,Powerline,17,OK,40
+OK,5,Miscellaneous,15,OK,40
+OK,10,Lightning,14,OK,40
+OK,9,Powerline,13,OK,40
+OK,6,Powerline,12,OK,40
+OK,2,Powerline,12,OK,40
+OK,11,Campfire,12,OK,40
+OK,2,Campfire,11,OK,40
+OK,4,Powerline,10,OK,40
+OK,3,Powerline,9,OK,40
+OK,6,Fireworks,9,OK,40
+OK,8,Children,9,OK,40
+OK,7,Children,8,OK,40
+OK,3,Lightning,8,OK,40
+OK,7,Powerline,8,OK,40
+OK,8,Campfire,7,OK,40
+OK,6,Children,6,OK,40
+OK,5,Lightning,6,OK,40
+OK,1,Campfire,6,OK,40
+OK,1,Children,6,OK,40
+OK,9,Campfire,6,OK,40
+OK,11,Powerline,5,OK,40
+OK,4,Campfire,5,OK,40
+OK,5,Campfire,5,OK,40
+OK,8,Railroad,5,OK,40
+OK,10,Powerline,5,OK,40
+OK,10,Campfire,5,OK,40
+OK,7,Smoking,4,OK,40
+OK,12,Powerline,4,OK,40
+OK,8,Smoking,4,OK,40
+OK,7,Campfire,4,OK,40
+OK,3,Children,4,OK,40
+OK,1,Fireworks,4,OK,40
+OK,12,Lightning,3,OK,40
+OK,8,Structure,3,OK,40
+OK,4,Lightning,3,OK,40
+OK,4,Children,3,OK,40
+OK,2,Railroad,3,OK,40
+OK,7,Structure,3,OK,40
+OK,12,Structure,2,OK,40
+OK,5,Powerline,2,OK,40
+OK,6,Campfire,2,OK,40
+OK,7,Railroad,2,OK,40
+OK,2,Children,2,OK,40
+OK,3,Structure,2,OK,40
+OK,12,Campfire,2,OK,40
+OK,10,Structure,1,OK,40
+OK,1,Structure,1,OK,40
+OK,1,Lightning,1,OK,40
+OK,1,Railroad,1,OK,40
+OK,9,Children,1,OK,40
+OK,1,Smoking,1,OK,40
+OK,9,Railroad,1,OK,40
+OK,2,Smoking,1,OK,40
+OK,4,Smoking,1,OK,40
+OK,4,Structure,1,OK,40
+OK,2,Structure,1,OK,40
+OK,8,Fireworks,1,OK,40
+OK,3,Railroad,1,OK,40
+OK,4,Fireworks,1,OK,40
+OK,3,Fireworks,1,OK,40
+OK,12,Smoking,1,OK,40
+OK,6,Railroad,1,OK,40
+OK,11,Lightning,1,OK,40
+OK,11,Fireworks,1,OK,40
+OK,11,Children,1,OK,40
+OK,12,Fireworks,1,OK,40
+OK,11,Smoking,1,OK,40
+NV,8,Lightning,795,NV,32
+NV,7,Lightning,675,NV,32
+NV,9,Lightning,169,NV,32
+NV,6,Lightning,163,NV,32
+NV,6,Miscellaneous,91,NV,32
+NV,7,Miscellaneous,81,NV,32
+NV,7,Campfire,59,NV,32
+NV,5,Miscellaneous,52,NV,32
+NV,8,Miscellaneous,45,NV,32
+NV,9,Miscellaneous,45,NV,32
+NV,10,Lightning,42,NV,32
+NV,6,Campfire,38,NV,32
+NV,8,Equipment Use,33,NV,32
+NV,7,Equipment Use,33,NV,32
+NV,4,Lightning,32,NV,32
+NV,4,Miscellaneous,32,NV,32
+NV,8,Campfire,29,NV,32
+NV,5,Lightning,29,NV,32
+NV,6,Equipment Use,28,NV,32
+NV,10,Miscellaneous,26,NV,32
+NV,5,Campfire,21,NV,32
+NV,5,Equipment Use,20,NV,32
+NV,11,Miscellaneous,16,NV,32
+NV,9,Campfire,15,NV,32
+NV,7,Fireworks,15,NV,32
+NV,4,Debris Burning,14,NV,32
+NV,3,Arson,13,NV,32
+NV,4,Campfire,13,NV,32
+NV,3,Campfire,12,NV,32
+NV,3,Miscellaneous,11,NV,32
+NV,5,Debris Burning,11,NV,32
+NV,10,Campfire,11,NV,32
+NV,4,Arson,10,NV,32
+NV,9,Equipment Use,10,NV,32
+NV,6,Powerline,9,NV,32
+NV,7,Arson,8,NV,32
+NV,12,Miscellaneous,8,NV,32
+NV,10,Equipment Use,8,NV,32
+NV,7,Powerline,7,NV,32
+NV,1,Miscellaneous,7,NV,32
+NV,2,Miscellaneous,6,NV,32
+NV,8,Arson,6,NV,32
+NV,6,Arson,6,NV,32
+NV,1,Campfire,5,NV,32
+NV,7,Children,5,NV,32
+NV,5,Arson,5,NV,32
+NV,11,Debris Burning,5,NV,32
+NV,10,Debris Burning,5,NV,32
+NV,6,Debris Burning,5,NV,32
+NV,3,Equipment Use,5,NV,32
+NV,3,Debris Burning,4,NV,32
+NV,2,Equipment Use,4,NV,32
+NV,6,Children,4,NV,32
+NV,8,Debris Burning,4,NV,32
+NV,10,Railroad,4,NV,32
+NV,10,Children,4,NV,32
+NV,9,Arson,4,NV,32
+NV,7,Debris Burning,4,NV,32
+NV,7,Railroad,4,NV,32
+NV,12,Equipment Use,3,NV,32
+NV,11,Equipment Use,3,NV,32
+NV,3,Lightning,3,NV,32
+NV,8,Powerline,3,NV,32
+NV,8,Smoking,3,NV,32
+NV,8,Fireworks,3,NV,32
+NV,7,Smoking,3,NV,32
+NV,11,Arson,3,NV,32
+NV,6,Fireworks,3,NV,32
+NV,4,Equipment Use,3,NV,32
+NV,2,Campfire,3,NV,32
+NV,2,Arson,3,NV,32
+NV,9,Children,2,NV,32
+NV,5,Powerline,2,NV,32
+NV,6,Smoking,2,NV,32
+NV,12,Campfire,2,NV,32
+NV,11,Campfire,2,NV,32
+NV,1,Debris Burning,2,NV,32
+NV,1,Arson,2,NV,32
+NV,10,Powerline,2,NV,32
+NV,9,Debris Burning,2,NV,32
+NV,2,Debris Burning,2,NV,32
+NV,10,Arson,1,NV,32
+NV,9,Smoking,1,NV,32
+NV,8,Railroad,1,NV,32
+NV,9,Fireworks,1,NV,32
+NV,9,Powerline,1,NV,32
+NV,4,Powerline,1,NV,32
+NV,4,Fireworks,1,NV,32
+NV,5,Fireworks,1,NV,32
+NV,5,Children,1,NV,32
+NV,2,Children,1,NV,32
+NV,3,Children,1,NV,32
+NV,3,Structure,1,NV,32
+NV,1,Equipment Use,1,NV,32
+NV,1,Fireworks,1,NV,32
+NV,5,Smoking,1,NV,32
+NV,6,Railroad,1,NV,32
+NV,3,Fireworks,1,NV,32
+NV,11,Powerline,1,NV,32
+NV,11,Lightning,1,NV,32
+NV,11,Railroad,1,NV,32
+NV,12,Arson,1,NV,32
+NV,12,Debris Burning,1,NV,32
+PA,4,Debris Burning,780,PA,42
+PA,4,Arson,322,PA,42
+PA,3,Debris Burning,264,PA,42
+PA,4,Miscellaneous,131,PA,42
+PA,11,Debris Burning,124,PA,42
+PA,5,Arson,121,PA,42
+PA,5,Debris Burning,110,PA,42
+PA,4,Equipment Use,104,PA,42
+PA,3,Arson,94,PA,42
+PA,4,Campfire,84,PA,42
+PA,11,Arson,62,PA,42
+PA,10,Debris Burning,58,PA,42
+PA,3,Miscellaneous,51,PA,42
+PA,3,Equipment Use,48,PA,42
+PA,11,Miscellaneous,41,PA,42
+PA,4,Children,39,PA,42
+PA,4,Railroad,39,PA,42
+PA,5,Railroad,38,PA,42
+PA,3,Railroad,38,PA,42
+PA,5,Equipment Use,36,PA,42
+PA,11,Equipment Use,33,PA,42
+PA,3,Smoking,32,PA,42
+PA,5,Miscellaneous,29,PA,42
+PA,4,Smoking,24,PA,42
+PA,5,Campfire,23,PA,42
+PA,3,Children,20,PA,42
+PA,3,Campfire,19,PA,42
+PA,7,Campfire,19,PA,42
+PA,7,Railroad,17,PA,42
+PA,7,Miscellaneous,17,PA,42
+PA,10,Arson,17,PA,42
+PA,11,Railroad,16,PA,42
+PA,2,Debris Burning,16,PA,42
+PA,6,Arson,14,PA,42
+PA,9,Campfire,13,PA,42
+PA,5,Children,13,PA,42
+PA,5,Smoking,13,PA,42
+PA,11,Smoking,12,PA,42
+PA,8,Arson,12,PA,42
+PA,2,Arson,12,PA,42
+PA,10,Equipment Use,11,PA,42
+PA,8,Debris Burning,11,PA,42
+PA,9,Arson,11,PA,42
+PA,5,Powerline,10,PA,42
+PA,11,Campfire,10,PA,42
+PA,7,Equipment Use,10,PA,42
+PA,10,Campfire,9,PA,42
+PA,10,Miscellaneous,9,PA,42
+PA,8,Equipment Use,9,PA,42
+PA,4,Powerline,8,PA,42
+PA,11,Children,8,PA,42
+PA,12,Railroad,8,PA,42
+PA,9,Equipment Use,8,PA,42
+PA,6,Equipment Use,7,PA,42
+PA,6,Miscellaneous,7,PA,42
+PA,8,Campfire,7,PA,42
+PA,9,Debris Burning,7,PA,42
+PA,2,Miscellaneous,6,PA,42
+PA,3,Lightning,6,PA,42
+PA,7,Children,6,PA,42
+PA,7,Arson,6,PA,42
+PA,6,Railroad,5,PA,42
+PA,1,Arson,5,PA,42
+PA,1,Miscellaneous,5,PA,42
+PA,2,Railroad,5,PA,42
+PA,4,Lightning,5,PA,42
+PA,6,Lightning,5,PA,42
+PA,7,Lightning,4,PA,42
+PA,7,Debris Burning,4,PA,42
+PA,1,Debris Burning,4,PA,42
+PA,8,Miscellaneous,4,PA,42
+PA,7,Smoking,4,PA,42
+PA,6,Debris Burning,4,PA,42
+PA,2,Equipment Use,4,PA,42
+PA,6,Campfire,4,PA,42
+PA,5,Lightning,3,PA,42
+PA,9,Miscellaneous,3,PA,42
+PA,4,Structure,3,PA,42
+PA,4,Fireworks,3,PA,42
+PA,8,Lightning,3,PA,42
+PA,8,Smoking,2,PA,42
+PA,6,Powerline,2,PA,42
+PA,10,Powerline,2,PA,42
+PA,11,Powerline,2,PA,42
+PA,12,Arson,2,PA,42
+PA,2,Children,2,PA,42
+PA,2,Campfire,2,PA,42
+PA,2,Smoking,2,PA,42
+PA,3,Powerline,2,PA,42
+PA,1,Lightning,2,PA,42
+PA,3,Structure,1,PA,42
+PA,3,Fireworks,1,PA,42
+PA,6,Smoking,1,PA,42
+PA,6,Children,1,PA,42
+PA,5,Fireworks,1,PA,42
+PA,1,Equipment Use,1,PA,42
+PA,1,Railroad,1,PA,42
+PA,1,Fireworks,1,PA,42
+PA,1,Children,1,PA,42
+PA,1,Campfire,1,PA,42
+PA,12,Equipment Use,1,PA,42
+PA,11,Structure,1,PA,42
+PA,9,Railroad,1,PA,42
+PA,9,Lightning,1,PA,42
+PA,9,Smoking,1,PA,42
+PA,11,Lightning,1,PA,42
+PA,10,Railroad,1,PA,42
+PA,10,Lightning,1,PA,42
+PA,10,Children,1,PA,42
+MS,3,Debris Burning,704,MS,28
+MS,2,Debris Burning,455,MS,28
+MS,1,Debris Burning,433,MS,28
+MS,3,Arson,401,MS,28
+MS,1,Campfire,359,MS,28
+MS,2,Campfire,345,MS,28
+MS,10,Debris Burning,267,MS,28
+MS,3,Campfire,267,MS,28
+MS,10,Miscellaneous,261,MS,28
+MS,9,Debris Burning,219,MS,28
+MS,11,Debris Burning,179,MS,28
+MS,4,Debris Burning,151,MS,28
+MS,2,Arson,134,MS,28
+MS,11,Campfire,133,MS,28
+MS,12,Debris Burning,132,MS,28
+MS,3,Miscellaneous,126,MS,28
+MS,9,Arson,124,MS,28
+MS,5,Debris Burning,121,MS,28
+MS,10,Arson,120,MS,28
+MS,2,Miscellaneous,119,MS,28
+MS,8,Debris Burning,112,MS,28
+MS,6,Debris Burning,110,MS,28
+MS,1,Arson,104,MS,28
+MS,9,Miscellaneous,94,MS,28
+MS,1,Miscellaneous,92,MS,28
+MS,4,Arson,89,MS,28
+MS,6,Arson,82,MS,28
+MS,4,Campfire,77,MS,28
+MS,7,Debris Burning,71,MS,28
+MS,11,Arson,70,MS,28
+MS,11,Miscellaneous,68,MS,28
+MS,8,Miscellaneous,68,MS,28
+MS,10,Campfire,67,MS,28
+MS,5,Campfire,64,MS,28
+MS,5,Arson,57,MS,28
+MS,7,Arson,55,MS,28
+MS,12,Arson,54,MS,28
+MS,8,Arson,50,MS,28
+MS,12,Campfire,47,MS,28
+MS,7,Miscellaneous,47,MS,28
+MS,6,Miscellaneous,44,MS,28
+MS,12,Miscellaneous,39,MS,28
+MS,5,Miscellaneous,37,MS,28
+MS,4,Miscellaneous,33,MS,28
+MS,8,Campfire,32,MS,28
+MS,10,Equipment Use,29,MS,28
+MS,9,Campfire,29,MS,28
+MS,6,Lightning,28,MS,28
+MS,7,Lightning,26,MS,28
+MS,9,Equipment Use,26,MS,28
+MS,7,Campfire,22,MS,28
+MS,1,Children,16,MS,28
+MS,3,Children,14,MS,28
+MS,3,Lightning,13,MS,28
+MS,2,Railroad,13,MS,28
+MS,8,Lightning,12,MS,28
+MS,1,Equipment Use,12,MS,28
+MS,3,Equipment Use,12,MS,28
+MS,2,Equipment Use,11,MS,28
+MS,6,Campfire,11,MS,28
+MS,8,Equipment Use,11,MS,28
+MS,1,Railroad,10,MS,28
+MS,11,Equipment Use,10,MS,28
+MS,2,Smoking,9,MS,28
+MS,3,Railroad,9,MS,28
+MS,6,Equipment Use,9,MS,28
+MS,10,Smoking,8,MS,28
+MS,9,Smoking,8,MS,28
+MS,3,Smoking,8,MS,28
+MS,7,Equipment Use,7,MS,28
+MS,5,Railroad,7,MS,28
+MS,12,Equipment Use,7,MS,28
+MS,12,Railroad,7,MS,28
+MS,11,Railroad,7,MS,28
+MS,10,Children,6,MS,28
+MS,6,Railroad,6,MS,28
+MS,5,Lightning,6,MS,28
+MS,6,Smoking,5,MS,28
+MS,1,Smoking,5,MS,28
+MS,4,Children,5,MS,28
+MS,5,Equipment Use,5,MS,28
+MS,4,Railroad,5,MS,28
+MS,1,Lightning,4,MS,28
+MS,2,Children,4,MS,28
+MS,4,Equipment Use,4,MS,28
+MS,9,Lightning,4,MS,28
+MS,11,Children,3,MS,28
+MS,7,Railroad,3,MS,28
+MS,2,Lightning,3,MS,28
+MS,12,Smoking,2,MS,28
+MS,12,Lightning,2,MS,28
+MS,11,Smoking,2,MS,28
+MS,10,Railroad,2,MS,28
+MS,9,Railroad,2,MS,28
+MS,9,Children,2,MS,28
+MS,8,Smoking,2,MS,28
+MS,8,Children,2,MS,28
+MS,7,Smoking,2,MS,28
+MS,6,Children,2,MS,28
+MS,5,Smoking,2,MS,28
+MS,4,Lightning,2,MS,28
+MS,5,Children,1,MS,28
+MS,5,Powerline,1,MS,28
+MS,7,Children,1,MS,28
+MS,7,Fireworks,1,MS,28
+MS,8,Railroad,1,MS,28
+MS,12,Children,1,MS,28
+MS,2,Powerline,1,MS,28
+MS,1,Fireworks,1,MS,28
+AK,6,Lightning,591,AK,2
+AK,7,Lightning,214,AK,2
+AK,5,Debris Burning,135,AK,2
+AK,5,Lightning,101,AK,2
+AK,5,Miscellaneous,77,AK,2
+AK,6,Debris Burning,70,AK,2
+AK,5,Campfire,63,AK,2
+AK,6,Miscellaneous,63,AK,2
+AK,8,Lightning,54,AK,2
+AK,6,Campfire,51,AK,2
+AK,7,Campfire,50,AK,2
+AK,6,Equipment Use,34,AK,2
+AK,8,Campfire,33,AK,2
+AK,5,Arson,31,AK,2
+AK,7,Debris Burning,30,AK,2
+AK,7,Miscellaneous,29,AK,2
+AK,9,Campfire,26,AK,2
+AK,4,Debris Burning,26,AK,2
+AK,9,Miscellaneous,23,AK,2
+AK,5,Equipment Use,20,AK,2
+AK,4,Arson,18,AK,2
+AK,5,Children,18,AK,2
+AK,8,Miscellaneous,17,AK,2
+AK,6,Arson,14,AK,2
+AK,8,Debris Burning,14,AK,2
+AK,4,Miscellaneous,11,AK,2
+AK,4,Campfire,11,AK,2
+AK,7,Equipment Use,9,AK,2
+AK,7,Arson,7,AK,2
+AK,9,Debris Burning,7,AK,2
+AK,10,Campfire,6,AK,2
+AK,6,Children,6,AK,2
+AK,8,Equipment Use,5,AK,2
+AK,5,Smoking,5,AK,2
+AK,4,Children,5,AK,2
+AK,12,Debris Burning,5,AK,2
+AK,11,Miscellaneous,5,AK,2
+AK,6,Powerline,4,AK,2
+AK,7,Children,4,AK,2
+AK,9,Lightning,3,AK,2
+AK,10,Debris Burning,3,AK,2
+AK,5,Powerline,3,AK,2
+AK,4,Equipment Use,3,AK,2
+AK,7,Smoking,3,AK,2
+AK,7,Powerline,3,AK,2
+AK,8,Arson,2,AK,2
+AK,9,Arson,2,AK,2
+AK,9,Equipment Use,2,AK,2
+AK,10,Miscellaneous,2,AK,2
+AK,6,Structure,2,AK,2
+AK,6,Smoking,2,AK,2
+AK,3,Miscellaneous,2,AK,2
+AK,4,Smoking,2,AK,2
+AK,11,Equipment Use,2,AK,2
+AK,12,Miscellaneous,2,AK,2
+AK,12,Campfire,1,AK,2
+AK,4,Lightning,1,AK,2
+AK,3,Railroad,1,AK,2
+AK,3,Lightning,1,AK,2
+AK,3,Debris Burning,1,AK,2
+AK,3,Campfire,1,AK,2
+AK,2,Miscellaneous,1,AK,2
+AK,5,Railroad,1,AK,2
+AK,11,Smoking,1,AK,2
+AK,11,Debris Burning,1,AK,2
+AK,11,Campfire,1,AK,2
+AK,10,Lightning,1,AK,2
+AK,10,Equipment Use,1,AK,2
+AK,10,Children,1,AK,2
+AK,8,Structure,1,AK,2
+AK,8,Smoking,1,AK,2
+AK,8,Powerline,1,AK,2
+AK,8,Children,1,AK,2
+AK,7,Structure,1,AK,2
+AK,2,Debris Burning,1,AK,2
+AK,1,Miscellaneous,1,AK,2
+WY,7,Lightning,538,WY,56
+WY,8,Lightning,519,WY,56
+WY,9,Lightning,181,WY,56
+WY,6,Lightning,140,WY,56
+WY,7,Fireworks,85,WY,56
+WY,7,Miscellaneous,85,WY,56
+WY,3,Debris Burning,79,WY,56
+WY,4,Debris Burning,74,WY,56
+WY,8,Miscellaneous,67,WY,56
+WY,8,Equipment Use,52,WY,56
+WY,7,Equipment Use,52,WY,56
+WY,6,Miscellaneous,50,WY,56
+WY,9,Miscellaneous,47,WY,56
+WY,7,Debris Burning,45,WY,56
+WY,8,Debris Burning,45,WY,56
+WY,9,Campfire,42,WY,56
+WY,5,Lightning,39,WY,56
+WY,8,Campfire,39,WY,56
+WY,3,Miscellaneous,35,WY,56
+WY,5,Debris Burning,35,WY,56
+WY,7,Campfire,34,WY,56
+WY,4,Miscellaneous,34,WY,56
+WY,6,Equipment Use,31,WY,56
+WY,7,Railroad,31,WY,56
+WY,9,Equipment Use,27,WY,56
+WY,9,Debris Burning,25,WY,56
+WY,9,Arson,25,WY,56
+WY,10,Debris Burning,24,WY,56
+WY,8,Railroad,24,WY,56
+WY,5,Miscellaneous,24,WY,56
+WY,10,Campfire,23,WY,56
+WY,10,Miscellaneous,23,WY,56
+WY,5,Campfire,21,WY,56
+WY,10,Lightning,21,WY,56
+WY,6,Debris Burning,21,WY,56
+WY,8,Arson,17,WY,56
+WY,3,Arson,17,WY,56
+WY,6,Campfire,16,WY,56
+WY,7,Smoking,16,WY,56
+WY,9,Railroad,15,WY,56
+WY,4,Lightning,13,WY,56
+WY,11,Campfire,13,WY,56
+WY,7,Arson,13,WY,56
+WY,9,Smoking,13,WY,56
+WY,7,Children,13,WY,56
+WY,11,Miscellaneous,12,WY,56
+WY,8,Smoking,12,WY,56
+WY,5,Equipment Use,12,WY,56
+WY,8,Fireworks,12,WY,56
+WY,10,Equipment Use,11,WY,56
+WY,2,Debris Burning,11,WY,56
+WY,4,Equipment Use,11,WY,56
+WY,11,Debris Burning,10,WY,56
+WY,6,Railroad,10,WY,56
+WY,6,Arson,10,WY,56
+WY,7,Powerline,10,WY,56
+WY,3,Equipment Use,10,WY,56
+WY,6,Children,10,WY,56
+WY,3,Campfire,8,WY,56
+WY,3,Lightning,8,WY,56
+WY,6,Fireworks,8,WY,56
+WY,8,Children,8,WY,56
+WY,1,Miscellaneous,8,WY,56
+WY,4,Railroad,7,WY,56
+WY,5,Railroad,7,WY,56
+WY,3,Smoking,7,WY,56
+WY,2,Miscellaneous,6,WY,56
+WY,12,Debris Burning,6,WY,56
+WY,9,Powerline,6,WY,56
+WY,6,Powerline,6,WY,56
+WY,1,Debris Burning,6,WY,56
+WY,6,Smoking,5,WY,56
+WY,9,Children,5,WY,56
+WY,9,Fireworks,5,WY,56
+WY,8,Powerline,5,WY,56
+WY,4,Arson,5,WY,56
+WY,4,Children,5,WY,56
+WY,5,Children,4,WY,56
+WY,11,Equipment Use,4,WY,56
+WY,10,Smoking,4,WY,56
+WY,5,Fireworks,4,WY,56
+WY,12,Miscellaneous,4,WY,56
+WY,3,Railroad,3,WY,56
+WY,3,Fireworks,3,WY,56
+WY,4,Fireworks,3,WY,56
+WY,10,Arson,3,WY,56
+WY,4,Smoking,3,WY,56
+WY,11,Lightning,3,WY,56
+WY,2,Equipment Use,2,WY,56
+WY,2,Fireworks,2,WY,56
+WY,2,Lightning,2,WY,56
+WY,4,Campfire,2,WY,56
+WY,5,Arson,2,WY,56
+WY,12,Campfire,2,WY,56
+WY,11,Powerline,2,WY,56
+WY,10,Railroad,2,WY,56
+WY,5,Smoking,2,WY,56
+WY,5,Powerline,2,WY,56
+WY,1,Equipment Use,2,WY,56
+WY,1,Campfire,2,WY,56
+WY,6,Structure,1,WY,56
+WY,4,Powerline,1,WY,56
+WY,2,Children,1,WY,56
+WY,2,Smoking,1,WY,56
+WY,2,Structure,1,WY,56
+WY,3,Children,1,WY,56
+WY,3,Powerline,1,WY,56
+WY,11,Children,1,WY,56
+WY,10,Children,1,WY,56
+WY,10,Fireworks,1,WY,56
+WY,10,Powerline,1,WY,56
+WY,11,Arson,1,WY,56
+WY,11,Fireworks,1,WY,56
+WY,11,Railroad,1,WY,56
+WY,12,Equipment Use,1,WY,56
+WY,12,Fireworks,1,WY,56
+WY,9,Structure,1,WY,56
+WY,7,Structure,1,WY,56
+WY,8,Structure,1,WY,56
+WY,1,Lightning,1,WY,56
+WY,1,Arson,1,WY,56
+SD,7,Miscellaneous,524,SD,46
+SD,4,Miscellaneous,466,SD,46
+SD,10,Miscellaneous,371,SD,46
+SD,3,Miscellaneous,361,SD,46
+SD,9,Miscellaneous,342,SD,46
+SD,8,Miscellaneous,327,SD,46
+SD,7,Fireworks,310,SD,46
+SD,7,Lightning,308,SD,46
+SD,5,Miscellaneous,270,SD,46
+SD,8,Lightning,251,SD,46
+SD,11,Miscellaneous,245,SD,46
+SD,6,Miscellaneous,195,SD,46
+SD,3,Debris Burning,139,SD,46
+SD,4,Debris Burning,128,SD,46
+SD,2,Miscellaneous,112,SD,46
+SD,7,Equipment Use,111,SD,46
+SD,12,Miscellaneous,105,SD,46
+SD,8,Equipment Use,102,SD,46
+SD,9,Equipment Use,96,SD,46
+SD,6,Fireworks,96,SD,46
+SD,10,Equipment Use,89,SD,46
+SD,1,Miscellaneous,88,SD,46
+SD,8,Children,78,SD,46
+SD,6,Lightning,76,SD,46
+SD,7,Children,74,SD,46
+SD,9,Children,74,SD,46
+SD,9,Lightning,61,SD,46
+SD,9,Debris Burning,59,SD,46
+SD,4,Equipment Use,55,SD,46
+SD,3,Equipment Use,54,SD,46
+SD,4,Children,54,SD,46
+SD,3,Arson,52,SD,46
+SD,5,Debris Burning,49,SD,46
+SD,8,Debris Burning,48,SD,46
+SD,4,Arson,48,SD,46
+SD,11,Equipment Use,47,SD,46
+SD,3,Children,46,SD,46
+SD,9,Arson,46,SD,46
+SD,7,Arson,44,SD,46
+SD,10,Debris Burning,44,SD,46
+SD,7,Debris Burning,43,SD,46
+SD,6,Equipment Use,41,SD,46
+SD,8,Arson,40,SD,46
+SD,6,Debris Burning,38,SD,46
+SD,5,Equipment Use,36,SD,46
+SD,5,Lightning,36,SD,46
+SD,2,Debris Burning,35,SD,46
+SD,5,Children,32,SD,46
+SD,11,Debris Burning,31,SD,46
+SD,11,Arson,30,SD,46
+SD,10,Arson,30,SD,46
+SD,12,Debris Burning,25,SD,46
+SD,10,Children,25,SD,46
+SD,8,Campfire,24,SD,46
+SD,4,Campfire,21,SD,46
+SD,4,Lightning,21,SD,46
+SD,5,Arson,21,SD,46
+SD,1,Arson,19,SD,46
+SD,3,Campfire,18,SD,46
+SD,9,Campfire,18,SD,46
+SD,10,Lightning,18,SD,46
+SD,7,Campfire,18,SD,46
+SD,1,Debris Burning,17,SD,46
+SD,5,Campfire,17,SD,46
+SD,6,Children,16,SD,46
+SD,12,Equipment Use,15,SD,46
+SD,2,Arson,14,SD,46
+SD,1,Children,14,SD,46
+SD,6,Arson,14,SD,46
+SD,6,Campfire,14,SD,46
+SD,9,Structure,13,SD,46
+SD,2,Equipment Use,13,SD,46
+SD,11,Children,13,SD,46
+SD,5,Structure,13,SD,46
+SD,3,Smoking,12,SD,46
+SD,3,Structure,11,SD,46
+SD,12,Arson,11,SD,46
+SD,7,Powerline,10,SD,46
+SD,10,Smoking,10,SD,46
+SD,8,Fireworks,10,SD,46
+SD,6,Structure,10,SD,46
+SD,8,Structure,10,SD,46
+SD,3,Powerline,10,SD,46
+SD,4,Structure,9,SD,46
+SD,8,Smoking,9,SD,46
+SD,10,Powerline,9,SD,46
+SD,3,Lightning,8,SD,46
+SD,10,Campfire,8,SD,46
+SD,11,Structure,8,SD,46
+SD,7,Railroad,8,SD,46
+SD,6,Powerline,7,SD,46
+SD,5,Powerline,7,SD,46
+SD,10,Structure,7,SD,46
+SD,9,Smoking,7,SD,46
+SD,2,Children,7,SD,46
+SD,8,Powerline,6,SD,46
+SD,12,Structure,6,SD,46
+SD,7,Structure,6,SD,46
+SD,1,Equipment Use,5,SD,46
+SD,2,Structure,5,SD,46
+SD,9,Railroad,5,SD,46
+SD,12,Children,5,SD,46
+SD,9,Fireworks,5,SD,46
+SD,7,Smoking,5,SD,46
+SD,12,Powerline,4,SD,46
+SD,3,Fireworks,4,SD,46
+SD,9,Powerline,4,SD,46
+SD,4,Powerline,4,SD,46
+SD,1,Powerline,4,SD,46
+SD,8,Railroad,4,SD,46
+SD,2,Campfire,3,SD,46
+SD,4,Fireworks,3,SD,46
+SD,5,Smoking,3,SD,46
+SD,4,Smoking,3,SD,46
+SD,11,Lightning,3,SD,46
+SD,11,Campfire,3,SD,46
+SD,10,Railroad,3,SD,46
+SD,12,Campfire,3,SD,46
+SD,1,Structure,2,SD,46
+SD,2,Smoking,2,SD,46
+SD,5,Railroad,2,SD,46
+SD,6,Smoking,2,SD,46
+SD,11,Smoking,2,SD,46
+SD,11,Railroad,2,SD,46
+SD,11,Powerline,1,SD,46
+SD,11,Fireworks,1,SD,46
+SD,12,Railroad,1,SD,46
+SD,1,Campfire,1,SD,46
+SD,1,Railroad,1,SD,46
+SD,1,Smoking,1,SD,46
+SD,10,Fireworks,1,SD,46
+SD,3,Railroad,1,SD,46
+SD,2,Powerline,1,SD,46
+SD,6,Railroad,1,SD,46
+SD,5,Fireworks,1,SD,46
+AR,3,Debris Burning,519,AR,5
+AR,2,Debris Burning,480,AR,5
+AR,1,Debris Burning,425,AR,5
+AR,8,Lightning,352,AR,5
+AR,3,Arson,278,AR,5
+AR,7,Lightning,261,AR,5
+AR,9,Debris Burning,241,AR,5
+AR,10,Debris Burning,222,AR,5
+AR,4,Debris Burning,217,AR,5
+AR,8,Debris Burning,212,AR,5
+AR,8,Miscellaneous,200,AR,5
+AR,7,Miscellaneous,193,AR,5
+AR,7,Arson,180,AR,5
+AR,4,Arson,151,AR,5
+AR,8,Arson,141,AR,5
+AR,10,Miscellaneous,139,AR,5
+AR,9,Miscellaneous,137,AR,5
+AR,2,Arson,137,AR,5
+AR,1,Arson,134,AR,5
+AR,7,Debris Burning,132,AR,5
+AR,6,Arson,130,AR,5
+AR,1,Miscellaneous,121,AR,5
+AR,3,Miscellaneous,119,AR,5
+AR,7,Equipment Use,118,AR,5
+AR,6,Debris Burning,116,AR,5
+AR,2,Miscellaneous,115,AR,5
+AR,9,Arson,109,AR,5
+AR,11,Debris Burning,101,AR,5
+AR,5,Debris Burning,100,AR,5
+AR,8,Equipment Use,99,AR,5
+AR,6,Miscellaneous,99,AR,5
+AR,6,Equipment Use,99,AR,5
+AR,10,Arson,90,AR,5
+AR,4,Miscellaneous,89,AR,5
+AR,5,Arson,84,AR,5
+AR,10,Equipment Use,79,AR,5
+AR,9,Lightning,77,AR,5
+AR,9,Equipment Use,71,AR,5
+AR,11,Arson,60,AR,5
+AR,12,Debris Burning,53,AR,5
+AR,5,Miscellaneous,48,AR,5
+AR,1,Equipment Use,47,AR,5
+AR,11,Miscellaneous,46,AR,5
+AR,6,Lightning,39,AR,5
+AR,5,Equipment Use,33,AR,5
+AR,4,Lightning,33,AR,5
+AR,3,Equipment Use,29,AR,5
+AR,2,Equipment Use,28,AR,5
+AR,12,Miscellaneous,26,AR,5
+AR,4,Equipment Use,26,AR,5
+AR,12,Arson,26,AR,5
+AR,7,Smoking,24,AR,5
+AR,3,Campfire,21,AR,5
+AR,10,Lightning,21,AR,5
+AR,6,Smoking,19,AR,5
+AR,7,Children,18,AR,5
+AR,8,Smoking,17,AR,5
+AR,9,Smoking,17,AR,5
+AR,11,Equipment Use,17,AR,5
+AR,1,Campfire,14,AR,5
+AR,1,Smoking,13,AR,5
+AR,3,Children,13,AR,5
+AR,10,Smoking,12,AR,5
+AR,2,Campfire,12,AR,5
+AR,10,Campfire,11,AR,5
+AR,1,Children,11,AR,5
+AR,11,Lightning,10,AR,5
+AR,8,Children,10,AR,5
+AR,2,Children,9,AR,5
+AR,5,Lightning,9,AR,5
+AR,4,Campfire,9,AR,5
+AR,6,Children,8,AR,5
+AR,3,Lightning,8,AR,5
+AR,8,Railroad,8,AR,5
+AR,12,Equipment Use,7,AR,5
+AR,2,Lightning,7,AR,5
+AR,5,Campfire,7,AR,5
+AR,7,Campfire,6,AR,5
+AR,3,Smoking,6,AR,5
+AR,11,Campfire,6,AR,5
+AR,10,Children,5,AR,5
+AR,9,Children,5,AR,5
+AR,6,Campfire,5,AR,5
+AR,8,Campfire,5,AR,5
+AR,7,Railroad,5,AR,5
+AR,6,Railroad,5,AR,5
+AR,2,Smoking,5,AR,5
+AR,9,Campfire,4,AR,5
+AR,9,Railroad,4,AR,5
+AR,11,Smoking,4,AR,5
+AR,12,Campfire,4,AR,5
+AR,2,Railroad,3,AR,5
+AR,12,Lightning,3,AR,5
+AR,11,Children,3,AR,5
+AR,4,Children,3,AR,5
+AR,1,Lightning,3,AR,5
+AR,2,Powerline,3,AR,5
+AR,5,Railroad,3,AR,5
+AR,5,Smoking,3,AR,5
+AR,5,Children,2,AR,5
+AR,4,Smoking,2,AR,5
+AR,3,Railroad,2,AR,5
+AR,10,Railroad,2,AR,5
+AR,6,Fireworks,2,AR,5
+AR,7,Fireworks,2,AR,5
+AR,5,Fireworks,1,AR,5
+AR,4,Railroad,1,AR,5
+AR,12,Smoking,1,AR,5
+AR,8,Structure,1,AR,5
+AR,8,Powerline,1,AR,5
+AR,7,Powerline,1,AR,5
+AR,6,Powerline,1,AR,5
+WI,4,Debris Burning,472,WI,55
+WI,5,Debris Burning,263,WI,55
+WI,3,Debris Burning,208,WI,55
+WI,4,Miscellaneous,194,WI,55
+WI,5,Equipment Use,184,WI,55
+WI,4,Equipment Use,181,WI,55
+WI,7,Equipment Use,140,WI,55
+WI,5,Miscellaneous,139,WI,55
+WI,6,Equipment Use,95,WI,55
+WI,10,Miscellaneous,91,WI,55
+WI,4,Arson,84,WI,55
+WI,5,Arson,81,WI,55
+WI,7,Fireworks,78,WI,55
+WI,10,Equipment Use,78,WI,55
+WI,8,Equipment Use,76,WI,55
+WI,10,Debris Burning,75,WI,55
+WI,3,Equipment Use,70,WI,55
+WI,3,Miscellaneous,66,WI,55
+WI,9,Equipment Use,65,WI,55
+WI,5,Powerline,65,WI,55
+WI,5,Railroad,65,WI,55
+WI,8,Debris Burning,59,WI,55
+WI,4,Powerline,59,WI,55
+WI,6,Miscellaneous,57,WI,55
+WI,6,Debris Burning,57,WI,55
+WI,7,Miscellaneous,55,WI,55
+WI,7,Debris Burning,51,WI,55
+WI,11,Miscellaneous,51,WI,55
+WI,5,Campfire,48,WI,55
+WI,7,Arson,41,WI,55
+WI,4,Railroad,40,WI,55
+WI,8,Miscellaneous,40,WI,55
+WI,4,Campfire,39,WI,55
+WI,6,Powerline,38,WI,55
+WI,3,Arson,37,WI,55
+WI,11,Debris Burning,36,WI,55
+WI,9,Debris Burning,33,WI,55
+WI,7,Powerline,33,WI,55
+WI,6,Railroad,31,WI,55
+WI,4,Children,28,WI,55
+WI,9,Miscellaneous,26,WI,55
+WI,5,Lightning,25,WI,55
+WI,10,Campfire,24,WI,55
+WI,5,Fireworks,23,WI,55
+WI,4,Smoking,23,WI,55
+WI,5,Structure,23,WI,55
+WI,11,Equipment Use,22,WI,55
+WI,6,Fireworks,22,WI,55
+WI,4,Structure,22,WI,55
+WI,5,Children,21,WI,55
+WI,8,Railroad,21,WI,55
+WI,10,Powerline,21,WI,55
+WI,10,Arson,20,WI,55
+WI,6,Arson,19,WI,55
+WI,7,Lightning,18,WI,55
+WI,3,Railroad,18,WI,55
+WI,8,Campfire,17,WI,55
+WI,4,Fireworks,17,WI,55
+WI,9,Campfire,17,WI,55
+WI,8,Lightning,15,WI,55
+WI,8,Arson,14,WI,55
+WI,7,Campfire,14,WI,55
+WI,8,Fireworks,13,WI,55
+WI,6,Campfire,12,WI,55
+WI,3,Children,12,WI,55
+WI,6,Lightning,12,WI,55
+WI,4,Lightning,12,WI,55
+WI,11,Campfire,11,WI,55
+WI,3,Campfire,11,WI,55
+WI,5,Smoking,11,WI,55
+WI,10,Structure,10,WI,55
+WI,9,Arson,10,WI,55
+WI,9,Powerline,10,WI,55
+WI,7,Children,9,WI,55
+WI,8,Powerline,9,WI,55
+WI,12,Miscellaneous,9,WI,55
+WI,3,Structure,8,WI,55
+WI,12,Debris Burning,8,WI,55
+WI,11,Structure,8,WI,55
+WI,6,Structure,8,WI,55
+WI,10,Children,7,WI,55
+WI,11,Arson,7,WI,55
+WI,7,Structure,7,WI,55
+WI,2,Debris Burning,7,WI,55
+WI,1,Debris Burning,7,WI,55
+WI,11,Powerline,6,WI,55
+WI,9,Lightning,6,WI,55
+WI,3,Powerline,6,WI,55
+WI,9,Structure,6,WI,55
+WI,9,Children,5,WI,55
+WI,9,Smoking,5,WI,55
+WI,11,Smoking,5,WI,55
+WI,8,Smoking,4,WI,55
+WI,8,Children,4,WI,55
+WI,3,Smoking,4,WI,55
+WI,12,Equipment Use,4,WI,55
+WI,7,Smoking,4,WI,55
+WI,1,Equipment Use,4,WI,55
+WI,3,Fireworks,3,WI,55
+WI,6,Children,3,WI,55
+WI,6,Smoking,3,WI,55
+WI,11,Fireworks,3,WI,55
+WI,8,Structure,3,WI,55
+WI,7,Railroad,3,WI,55
+WI,10,Smoking,3,WI,55
+WI,9,Railroad,3,WI,55
+WI,10,Lightning,3,WI,55
+WI,9,Fireworks,2,WI,55
+WI,2,Miscellaneous,2,WI,55
+WI,1,Miscellaneous,2,WI,55
+WI,12,Structure,1,WI,55
+WI,12,Campfire,1,WI,55
+WI,10,Railroad,1,WI,55
+WI,2,Structure,1,WI,55
+WI,1,Smoking,1,WI,55
+WI,2,Equipment Use,1,WI,55
+WI,2,Arson,1,WI,55
+TN,3,Debris Burning,464,TN,47
+TN,2,Debris Burning,328,TN,47
+TN,3,Arson,316,TN,47
+TN,11,Arson,302,TN,47
+TN,4,Arson,283,TN,47
+TN,4,Debris Burning,277,TN,47
+TN,11,Debris Burning,212,TN,47
+TN,2,Arson,197,TN,47
+TN,1,Debris Burning,177,TN,47
+TN,8,Debris Burning,93,TN,47
+TN,10,Debris Burning,90,TN,47
+TN,1,Arson,89,TN,47
+TN,6,Debris Burning,85,TN,47
+TN,10,Arson,71,TN,47
+TN,5,Debris Burning,67,TN,47
+TN,11,Miscellaneous,64,TN,47
+TN,12,Debris Burning,63,TN,47
+TN,12,Arson,59,TN,47
+TN,3,Miscellaneous,51,TN,47
+TN,7,Arson,49,TN,47
+TN,2,Miscellaneous,48,TN,47
+TN,8,Arson,43,TN,47
+TN,5,Arson,42,TN,47
+TN,7,Lightning,42,TN,47
+TN,3,Equipment Use,41,TN,47
+TN,6,Arson,41,TN,47
+TN,4,Miscellaneous,39,TN,47
+TN,9,Debris Burning,36,TN,47
+TN,7,Debris Burning,35,TN,47
+TN,3,Powerline,33,TN,47
+TN,9,Arson,33,TN,47
+TN,8,Equipment Use,32,TN,47
+TN,2,Equipment Use,32,TN,47
+TN,6,Equipment Use,31,TN,47
+TN,1,Equipment Use,30,TN,47
+TN,1,Miscellaneous,30,TN,47
+TN,4,Equipment Use,30,TN,47
+TN,10,Equipment Use,28,TN,47
+TN,11,Equipment Use,28,TN,47
+TN,3,Campfire,28,TN,47
+TN,8,Miscellaneous,24,TN,47
+TN,3,Smoking,24,TN,47
+TN,9,Equipment Use,23,TN,47
+TN,3,Structure,22,TN,47
+TN,7,Fireworks,22,TN,47
+TN,6,Miscellaneous,20,TN,47
+TN,6,Smoking,20,TN,47
+TN,6,Lightning,20,TN,47
+TN,10,Miscellaneous,20,TN,47
+TN,2,Powerline,19,TN,47
+TN,11,Structure,19,TN,47
+TN,2,Structure,18,TN,47
+TN,3,Children,18,TN,47
+TN,4,Structure,18,TN,47
+TN,7,Equipment Use,17,TN,47
+TN,7,Miscellaneous,17,TN,47
+TN,4,Powerline,17,TN,47
+TN,10,Campfire,16,TN,47
+TN,11,Powerline,16,TN,47
+TN,5,Equipment Use,15,TN,47
+TN,2,Children,15,TN,47
+TN,12,Miscellaneous,14,TN,47
+TN,5,Miscellaneous,13,TN,47
+TN,8,Lightning,13,TN,47
+TN,3,Lightning,13,TN,47
+TN,11,Campfire,13,TN,47
+TN,2,Campfire,12,TN,47
+TN,4,Campfire,12,TN,47
+TN,11,Smoking,12,TN,47
+TN,11,Children,10,TN,47
+TN,12,Structure,10,TN,47
+TN,4,Smoking,10,TN,47
+TN,6,Structure,10,TN,47
+TN,6,Fireworks,10,TN,47
+TN,4,Lightning,10,TN,47
+TN,1,Powerline,9,TN,47
+TN,7,Smoking,9,TN,47
+TN,2,Smoking,8,TN,47
+TN,9,Powerline,8,TN,47
+TN,12,Equipment Use,8,TN,47
+TN,10,Structure,8,TN,47
+TN,3,Railroad,7,TN,47
+TN,1,Campfire,7,TN,47
+TN,5,Structure,7,TN,47
+TN,9,Miscellaneous,7,TN,47
+TN,8,Structure,7,TN,47
+TN,8,Smoking,7,TN,47
+TN,8,Campfire,6,TN,47
+TN,7,Structure,6,TN,47
+TN,7,Powerline,6,TN,47
+TN,6,Campfire,6,TN,47
+TN,1,Smoking,6,TN,47
+TN,9,Campfire,6,TN,47
+TN,12,Smoking,5,TN,47
+TN,5,Railroad,5,TN,47
+TN,4,Fireworks,5,TN,47
+TN,4,Children,5,TN,47
+TN,9,Structure,5,TN,47
+TN,5,Campfire,4,TN,47
+TN,1,Children,4,TN,47
+TN,5,Lightning,4,TN,47
+TN,9,Lightning,4,TN,47
+TN,9,Railroad,4,TN,47
+TN,12,Campfire,4,TN,47
+TN,5,Smoking,3,TN,47
+TN,8,Powerline,3,TN,47
+TN,10,Railroad,3,TN,47
+TN,2,Fireworks,3,TN,47
+TN,1,Structure,3,TN,47
+TN,2,Railroad,2,TN,47
+TN,1,Lightning,2,TN,47
+TN,1,Fireworks,2,TN,47
+TN,3,Fireworks,2,TN,47
+TN,4,Railroad,2,TN,47
+TN,6,Children,2,TN,47
+TN,11,Railroad,2,TN,47
+TN,11,Lightning,2,TN,47
+TN,10,Children,2,TN,47
+TN,10,Powerline,2,TN,47
+TN,10,Lightning,2,TN,47
+TN,9,Smoking,2,TN,47
+TN,11,Fireworks,2,TN,47
+TN,7,Campfire,2,TN,47
+TN,7,Children,2,TN,47
+TN,2,Lightning,1,TN,47
+TN,5,Children,1,TN,47
+TN,1,Railroad,1,TN,47
+TN,10,Smoking,1,TN,47
+TN,12,Powerline,1,TN,47
+TN,12,Lightning,1,TN,47
+TN,9,Children,1,TN,47
+TN,6,Railroad,1,TN,47
+TN,6,Powerline,1,TN,47
+TN,5,Powerline,1,TN,47
+TN,8,Railroad,1,TN,47
+TN,8,Fireworks,1,TN,47
+TN,7,Railroad,1,TN,47
+IA,4,Debris Burning,443,IA,19
+IA,3,Debris Burning,358,IA,19
+IA,4,Miscellaneous,93,IA,19
+IA,1,Debris Burning,66,IA,19
+IA,3,Miscellaneous,57,IA,19
+IA,5,Debris Burning,52,IA,19
+IA,10,Equipment Use,51,IA,19
+IA,10,Debris Burning,32,IA,19
+IA,7,Debris Burning,31,IA,19
+IA,7,Miscellaneous,30,IA,19
+IA,3,Arson,28,IA,19
+IA,11,Debris Burning,27,IA,19
+IA,9,Equipment Use,25,IA,19
+IA,4,Smoking,24,IA,19
+IA,8,Debris Burning,24,IA,19
+IA,4,Equipment Use,23,IA,19
+IA,6,Debris Burning,23,IA,19
+IA,10,Miscellaneous,22,IA,19
+IA,3,Equipment Use,19,IA,19
+IA,4,Arson,19,IA,19
+IA,9,Miscellaneous,18,IA,19
+IA,5,Miscellaneous,18,IA,19
+IA,3,Smoking,18,IA,19
+IA,2,Debris Burning,18,IA,19
+IA,11,Miscellaneous,16,IA,19
+IA,8,Equipment Use,16,IA,19
+IA,9,Debris Burning,14,IA,19
+IA,8,Smoking,10,IA,19
+IA,6,Miscellaneous,10,IA,19
+IA,12,Debris Burning,9,IA,19
+IA,8,Miscellaneous,9,IA,19
+IA,1,Miscellaneous,9,IA,19
+IA,11,Equipment Use,7,IA,19
+IA,5,Equipment Use,7,IA,19
+IA,1,Smoking,7,IA,19
+IA,5,Smoking,7,IA,19
+IA,11,Smoking,6,IA,19
+IA,9,Lightning,6,IA,19
+IA,9,Smoking,6,IA,19
+IA,10,Smoking,6,IA,19
+IA,11,Arson,6,IA,19
+IA,2,Miscellaneous,5,IA,19
+IA,3,Children,5,IA,19
+IA,3,Railroad,5,IA,19
+IA,4,Railroad,5,IA,19
+IA,7,Equipment Use,5,IA,19
+IA,1,Arson,4,IA,19
+IA,3,Lightning,4,IA,19
+IA,6,Equipment Use,4,IA,19
+IA,6,Smoking,4,IA,19
+IA,7,Smoking,4,IA,19
+IA,12,Miscellaneous,3,IA,19
+IA,4,Children,3,IA,19
+IA,5,Campfire,2,IA,19
+IA,2,Smoking,2,IA,19
+IA,2,Equipment Use,2,IA,19
+IA,5,Children,2,IA,19
+IA,6,Lightning,2,IA,19
+IA,6,Railroad,2,IA,19
+IA,11,Children,2,IA,19
+IA,9,Campfire,2,IA,19
+IA,8,Campfire,2,IA,19
+IA,4,Campfire,1,IA,19
+IA,8,Arson,1,IA,19
+IA,7,Railroad,1,IA,19
+IA,7,Lightning,1,IA,19
+IA,10,Railroad,1,IA,19
+IA,10,Children,1,IA,19
+IA,10,Arson,1,IA,19
+IA,9,Structure,1,IA,19
+IA,9,Children,1,IA,19
+IA,6,Children,1,IA,19
+IA,5,Lightning,1,IA,19
+IA,5,Arson,1,IA,19
+IA,1,Powerline,1,IA,19
+IA,3,Campfire,1,IA,19
+IA,2,Children,1,IA,19
+IA,1,Lightning,1,IA,19
+IA,1,Equipment Use,1,IA,19
+IA,1,Campfire,1,IA,19
+ND,4,Arson,437,ND,38
+ND,5,Arson,394,ND,38
+ND,3,Arson,234,ND,38
+ND,8,Arson,133,ND,38
+ND,5,Debris Burning,129,ND,38
+ND,10,Arson,126,ND,38
+ND,9,Arson,123,ND,38
+ND,4,Debris Burning,117,ND,38
+ND,4,Miscellaneous,114,ND,38
+ND,7,Fireworks,112,ND,38
+ND,7,Arson,105,ND,38
+ND,9,Miscellaneous,85,ND,38
+ND,7,Miscellaneous,77,ND,38
+ND,5,Miscellaneous,69,ND,38
+ND,8,Miscellaneous,67,ND,38
+ND,8,Equipment Use,58,ND,38
+ND,3,Miscellaneous,57,ND,38
+ND,6,Arson,57,ND,38
+ND,7,Equipment Use,54,ND,38
+ND,11,Arson,52,ND,38
+ND,3,Debris Burning,50,ND,38
+ND,6,Fireworks,49,ND,38
+ND,6,Miscellaneous,45,ND,38
+ND,10,Miscellaneous,44,ND,38
+ND,10,Debris Burning,37,ND,38
+ND,5,Equipment Use,35,ND,38
+ND,9,Equipment Use,34,ND,38
+ND,7,Lightning,33,ND,38
+ND,4,Equipment Use,32,ND,38
+ND,11,Miscellaneous,28,ND,38
+ND,9,Debris Burning,22,ND,38
+ND,3,Equipment Use,21,ND,38
+ND,8,Lightning,20,ND,38
+ND,10,Equipment Use,20,ND,38
+ND,6,Debris Burning,17,ND,38
+ND,8,Debris Burning,15,ND,38
+ND,11,Debris Burning,14,ND,38
+ND,8,Children,13,ND,38
+ND,7,Debris Burning,12,ND,38
+ND,6,Lightning,11,ND,38
+ND,9,Lightning,11,ND,38
+ND,1,Miscellaneous,11,ND,38
+ND,12,Arson,10,ND,38
+ND,5,Structure,10,ND,38
+ND,4,Structure,10,ND,38
+ND,12,Miscellaneous,8,ND,38
+ND,2,Arson,8,ND,38
+ND,11,Equipment Use,7,ND,38
+ND,9,Fireworks,7,ND,38
+ND,2,Miscellaneous,7,ND,38
+ND,1,Equipment Use,6,ND,38
+ND,3,Children,6,ND,38
+ND,8,Railroad,6,ND,38
+ND,7,Children,6,ND,38
+ND,6,Equipment Use,6,ND,38
+ND,6,Children,6,ND,38
+ND,5,Children,6,ND,38
+ND,4,Smoking,6,ND,38
+ND,4,Railroad,6,ND,38
+ND,4,Powerline,5,ND,38
+ND,6,Smoking,5,ND,38
+ND,8,Campfire,5,ND,38
+ND,9,Powerline,5,ND,38
+ND,5,Railroad,5,ND,38
+ND,5,Lightning,5,ND,38
+ND,4,Children,5,ND,38
+ND,3,Campfire,5,ND,38
+ND,1,Debris Burning,5,ND,38
+ND,12,Debris Burning,5,ND,38
+ND,1,Arson,5,ND,38
+ND,8,Fireworks,4,ND,38
+ND,10,Children,4,ND,38
+ND,9,Children,4,ND,38
+ND,7,Smoking,4,ND,38
+ND,7,Powerline,4,ND,38
+ND,3,Fireworks,4,ND,38
+ND,3,Powerline,4,ND,38
+ND,3,Smoking,4,ND,38
+ND,5,Campfire,4,ND,38
+ND,5,Powerline,4,ND,38
+ND,7,Campfire,4,ND,38
+ND,3,Structure,3,ND,38
+ND,5,Fireworks,3,ND,38
+ND,6,Railroad,3,ND,38
+ND,9,Campfire,3,ND,38
+ND,9,Smoking,3,ND,38
+ND,10,Powerline,3,ND,38
+ND,10,Railroad,3,ND,38
+ND,3,Railroad,3,ND,38
+ND,2,Equipment Use,3,ND,38
+ND,10,Structure,3,ND,38
+ND,10,Smoking,3,ND,38
+ND,12,Equipment Use,3,ND,38
+ND,7,Railroad,2,ND,38
+ND,10,Lightning,2,ND,38
+ND,11,Fireworks,2,ND,38
+ND,10,Campfire,2,ND,38
+ND,9,Structure,2,ND,38
+ND,5,Smoking,2,ND,38
+ND,7,Structure,2,ND,38
+ND,8,Smoking,2,ND,38
+ND,8,Structure,2,ND,38
+ND,3,Lightning,2,ND,38
+ND,2,Debris Burning,2,ND,38
+ND,4,Fireworks,2,ND,38
+ND,4,Campfire,2,ND,38
+ND,1,Children,1,ND,38
+ND,1,Smoking,1,ND,38
+ND,1,Campfire,1,ND,38
+ND,1,Structure,1,ND,38
+ND,6,Campfire,1,ND,38
+ND,6,Powerline,1,ND,38
+ND,8,Powerline,1,ND,38
+ND,4,Lightning,1,ND,38
+ND,2,Powerline,1,ND,38
+ND,11,Campfire,1,ND,38
+ND,11,Railroad,1,ND,38
+ND,11,Smoking,1,ND,38
+ND,12,Campfire,1,ND,38
+ND,2,Railroad,1,ND,38
+ND,12,Powerline,1,ND,38
+ND,12,Structure,1,ND,38
+NE,3,Debris Burning,422,NE,31
+NE,4,Debris Burning,255,NE,31
+NE,3,Miscellaneous,135,NE,31
+NE,10,Equipment Use,123,NE,31
+NE,8,Lightning,119,NE,31
+NE,5,Debris Burning,111,NE,31
+NE,7,Lightning,110,NE,31
+NE,1,Debris Burning,108,NE,31
+NE,7,Equipment Use,104,NE,31
+NE,3,Equipment Use,96,NE,31
+NE,7,Debris Burning,79,NE,31
+NE,7,Miscellaneous,78,NE,31
+NE,7,Fireworks,76,NE,31
+NE,9,Equipment Use,75,NE,31
+NE,4,Miscellaneous,75,NE,31
+NE,2,Debris Burning,74,NE,31
+NE,6,Debris Burning,60,NE,31
+NE,6,Lightning,60,NE,31
+NE,4,Equipment Use,58,NE,31
+NE,8,Equipment Use,56,NE,31
+NE,8,Miscellaneous,54,NE,31
+NE,11,Debris Burning,47,NE,31
+NE,8,Debris Burning,47,NE,31
+NE,9,Miscellaneous,44,NE,31
+NE,10,Miscellaneous,43,NE,31
+NE,3,Children,42,NE,31
+NE,5,Lightning,41,NE,31
+NE,6,Equipment Use,40,NE,31
+NE,1,Equipment Use,40,NE,31
+NE,10,Debris Burning,40,NE,31
+NE,1,Miscellaneous,39,NE,31
+NE,9,Debris Burning,37,NE,31
+NE,5,Equipment Use,37,NE,31
+NE,4,Children,35,NE,31
+NE,2,Miscellaneous,34,NE,31
+NE,6,Miscellaneous,34,NE,31
+NE,4,Arson,33,NE,31
+NE,5,Miscellaneous,33,NE,31
+NE,3,Arson,33,NE,31
+NE,11,Equipment Use,32,NE,31
+NE,11,Miscellaneous,28,NE,31
+NE,3,Railroad,27,NE,31
+NE,3,Campfire,25,NE,31
+NE,6,Fireworks,25,NE,31
+NE,3,Powerline,24,NE,31
+NE,2,Equipment Use,23,NE,31
+NE,4,Powerline,22,NE,31
+NE,12,Debris Burning,22,NE,31
+NE,4,Lightning,21,NE,31
+NE,8,Railroad,20,NE,31
+NE,7,Powerline,19,NE,31
+NE,7,Railroad,19,NE,31
+NE,8,Powerline,19,NE,31
+NE,5,Railroad,19,NE,31
+NE,3,Smoking,18,NE,31
+NE,9,Lightning,16,NE,31
+NE,12,Equipment Use,16,NE,31
+NE,6,Railroad,16,NE,31
+NE,5,Powerline,15,NE,31
+NE,10,Powerline,14,NE,31
+NE,1,Powerline,12,NE,31
+NE,3,Lightning,12,NE,31
+NE,9,Powerline,11,NE,31
+NE,12,Miscellaneous,11,NE,31
+NE,4,Campfire,11,NE,31
+NE,4,Smoking,10,NE,31
+NE,1,Arson,10,NE,31
+NE,8,Smoking,9,NE,31
+NE,6,Powerline,9,NE,31
+NE,7,Arson,9,NE,31
+NE,9,Smoking,9,NE,31
+NE,10,Lightning,8,NE,31
+NE,7,Campfire,8,NE,31
+NE,11,Powerline,8,NE,31
+NE,6,Campfire,8,NE,31
+NE,5,Arson,8,NE,31
+NE,2,Railroad,8,NE,31
+NE,9,Railroad,7,NE,31
+NE,1,Railroad,7,NE,31
+NE,9,Campfire,7,NE,31
+NE,4,Railroad,7,NE,31
+NE,8,Campfire,7,NE,31
+NE,2,Powerline,6,NE,31
+NE,1,Smoking,6,NE,31
+NE,9,Children,6,NE,31
+NE,7,Smoking,6,NE,31
+NE,11,Arson,5,NE,31
+NE,10,Smoking,5,NE,31
+NE,10,Railroad,5,NE,31
+NE,11,Smoking,5,NE,31
+NE,12,Powerline,5,NE,31
+NE,5,Smoking,5,NE,31
+NE,5,Campfire,5,NE,31
+NE,3,Fireworks,5,NE,31
+NE,2,Smoking,5,NE,31
+NE,10,Campfire,5,NE,31
+NE,1,Campfire,4,NE,31
+NE,1,Children,4,NE,31
+NE,8,Arson,3,NE,31
+NE,7,Children,3,NE,31
+NE,6,Smoking,3,NE,31
+NE,6,Arson,3,NE,31
+NE,1,Fireworks,3,NE,31
+NE,11,Railroad,3,NE,31
+NE,10,Children,3,NE,31
+NE,9,Arson,3,NE,31
+NE,2,Arson,2,NE,31
+NE,2,Campfire,2,NE,31
+NE,4,Fireworks,2,NE,31
+NE,5,Children,2,NE,31
+NE,5,Fireworks,2,NE,31
+NE,8,Children,2,NE,31
+NE,10,Arson,2,NE,31
+NE,11,Campfire,1,NE,31
+NE,10,Fireworks,1,NE,31
+NE,8,Fireworks,1,NE,31
+NE,9,Fireworks,1,NE,31
+NE,12,Arson,1,NE,31
+NE,11,Fireworks,1,NE,31
+NE,11,Children,1,NE,31
+NE,2,Fireworks,1,NE,31
+NE,2,Lightning,1,NE,31
+NE,12,Lightning,1,NE,31
+WV,3,Debris Burning,391,WV,54
+WV,4,Debris Burning,368,WV,54
+WV,4,Arson,260,WV,54
+WV,11,Arson,258,WV,54
+WV,11,Debris Burning,174,WV,54
+WV,2,Debris Burning,157,WV,54
+WV,3,Arson,149,WV,54
+WV,4,Equipment Use,145,WV,54
+WV,11,Equipment Use,120,WV,54
+WV,3,Equipment Use,80,WV,54
+WV,4,Powerline,80,WV,54
+WV,11,Fireworks,71,WV,54
+WV,3,Powerline,50,WV,54
+WV,2,Arson,50,WV,54
+WV,5,Debris Burning,47,WV,54
+WV,10,Arson,39,WV,54
+WV,11,Powerline,36,WV,54
+WV,4,Campfire,36,WV,54
+WV,4,Children,35,WV,54
+WV,4,Fireworks,33,WV,54
+WV,10,Debris Burning,33,WV,54
+WV,12,Arson,32,WV,54
+WV,3,Children,31,WV,54
+WV,10,Equipment Use,29,WV,54
+WV,5,Equipment Use,29,WV,54
+WV,1,Debris Burning,28,WV,54
+WV,12,Debris Burning,27,WV,54
+WV,2,Equipment Use,25,WV,54
+WV,3,Structure,24,WV,54
+WV,4,Structure,22,WV,54
+WV,5,Arson,22,WV,54
+WV,1,Arson,21,WV,54
+WV,11,Children,20,WV,54
+WV,5,Powerline,19,WV,54
+WV,2,Powerline,17,WV,54
+WV,3,Fireworks,17,WV,54
+WV,4,Smoking,16,WV,54
+WV,11,Structure,16,WV,54
+WV,3,Campfire,15,WV,54
+WV,4,Railroad,15,WV,54
+WV,11,Campfire,14,WV,54
+WV,10,Powerline,13,WV,54
+WV,5,Railroad,13,WV,54
+WV,1,Equipment Use,13,WV,54
+WV,3,Smoking,12,WV,54
+WV,8,Debris Burning,10,WV,54
+WV,7,Equipment Use,10,WV,54
+WV,10,Fireworks,10,WV,54
+WV,2,Fireworks,10,WV,54
+WV,7,Debris Burning,9,WV,54
+WV,7,Lightning,9,WV,54
+WV,3,Railroad,8,WV,54
+WV,3,Lightning,8,WV,54
+WV,11,Smoking,8,WV,54
+WV,7,Fireworks,8,WV,54
+WV,9,Debris Burning,8,WV,54
+WV,6,Equipment Use,7,WV,54
+WV,5,Fireworks,7,WV,54
+WV,5,Children,7,WV,54
+WV,4,Lightning,7,WV,54
+WV,10,Structure,7,WV,54
+WV,5,Campfire,6,WV,54
+WV,2,Structure,6,WV,54
+WV,9,Equipment Use,6,WV,54
+WV,8,Lightning,6,WV,54
+WV,6,Debris Burning,6,WV,54
+WV,9,Arson,6,WV,54
+WV,8,Arson,5,WV,54
+WV,6,Railroad,5,WV,54
+WV,5,Lightning,5,WV,54
+WV,6,Powerline,5,WV,54
+WV,1,Fireworks,4,WV,54
+WV,10,Railroad,4,WV,54
+WV,12,Fireworks,4,WV,54
+WV,2,Smoking,4,WV,54
+WV,2,Children,4,WV,54
+WV,3,Miscellaneous,4,WV,54
+WV,2,Campfire,3,WV,54
+WV,2,Railroad,3,WV,54
+WV,9,Powerline,3,WV,54
+WV,8,Equipment Use,3,WV,54
+WV,12,Miscellaneous,3,WV,54
+WV,5,Miscellaneous,3,WV,54
+WV,12,Powerline,3,WV,54
+WV,12,Campfire,3,WV,54
+WV,6,Fireworks,3,WV,54
+WV,1,Powerline,2,WV,54
+WV,1,Children,2,WV,54
+WV,10,Children,2,WV,54
+WV,9,Fireworks,2,WV,54
+WV,9,Children,2,WV,54
+WV,8,Smoking,2,WV,54
+WV,8,Miscellaneous,2,WV,54
+WV,11,Railroad,2,WV,54
+WV,12,Structure,2,WV,54
+WV,12,Equipment Use,2,WV,54
+WV,8,Campfire,2,WV,54
+WV,7,Structure,2,WV,54
+WV,7,Powerline,2,WV,54
+WV,6,Structure,2,WV,54
+WV,6,Lightning,2,WV,54
+WV,5,Structure,2,WV,54
+WV,4,Miscellaneous,1,WV,54
+WV,5,Smoking,1,WV,54
+WV,6,Arson,1,WV,54
+WV,6,Campfire,1,WV,54
+WV,2,Miscellaneous,1,WV,54
+WV,6,Smoking,1,WV,54
+WV,7,Arson,1,WV,54
+WV,10,Lightning,1,WV,54
+WV,10,Smoking,1,WV,54
+WV,11,Miscellaneous,1,WV,54
+WV,10,Campfire,1,WV,54
+WV,7,Campfire,1,WV,54
+WV,8,Fireworks,1,WV,54
+WV,7,Miscellaneous,1,WV,54
+WV,8,Powerline,1,WV,54
+WV,8,Structure,1,WV,54
+WV,9,Lightning,1,WV,54
+WV,9,Structure,1,WV,54
+MO,3,Debris Burning,391,MO,29
+MO,3,Miscellaneous,334,MO,29
+MO,4,Debris Burning,221,MO,29
+MO,1,Debris Burning,211,MO,29
+MO,4,Miscellaneous,184,MO,29
+MO,1,Miscellaneous,164,MO,29
+MO,3,Arson,157,MO,29
+MO,2,Debris Burning,149,MO,29
+MO,2,Miscellaneous,132,MO,29
+MO,11,Miscellaneous,99,MO,29
+MO,4,Arson,97,MO,29
+MO,10,Miscellaneous,89,MO,29
+MO,11,Debris Burning,74,MO,29
+MO,7,Miscellaneous,68,MO,29
+MO,2,Arson,50,MO,29
+MO,11,Arson,46,MO,29
+MO,1,Arson,43,MO,29
+MO,10,Debris Burning,41,MO,29
+MO,5,Miscellaneous,40,MO,29
+MO,9,Debris Burning,39,MO,29
+MO,5,Debris Burning,39,MO,29
+MO,7,Debris Burning,38,MO,29
+MO,12,Debris Burning,35,MO,29
+MO,9,Miscellaneous,34,MO,29
+MO,8,Debris Burning,31,MO,29
+MO,8,Miscellaneous,31,MO,29
+MO,1,Equipment Use,29,MO,29
+MO,4,Equipment Use,28,MO,29
+MO,7,Arson,27,MO,29
+MO,3,Equipment Use,26,MO,29
+MO,11,Equipment Use,24,MO,29
+MO,6,Miscellaneous,23,MO,29
+MO,7,Equipment Use,22,MO,29
+MO,10,Arson,22,MO,29
+MO,2,Equipment Use,20,MO,29
+MO,5,Arson,18,MO,29
+MO,12,Miscellaneous,16,MO,29
+MO,8,Equipment Use,16,MO,29
+MO,10,Equipment Use,13,MO,29
+MO,6,Equipment Use,13,MO,29
+MO,9,Equipment Use,12,MO,29
+MO,8,Arson,12,MO,29
+MO,7,Lightning,11,MO,29
+MO,6,Arson,10,MO,29
+MO,3,Smoking,9,MO,29
+MO,10,Campfire,8,MO,29
+MO,5,Equipment Use,8,MO,29
+MO,4,Campfire,8,MO,29
+MO,6,Debris Burning,7,MO,29
+MO,8,Lightning,7,MO,29
+MO,3,Campfire,7,MO,29
+MO,1,Smoking,6,MO,29
+MO,3,Children,6,MO,29
+MO,11,Campfire,6,MO,29
+MO,4,Smoking,6,MO,29
+MO,9,Arson,5,MO,29
+MO,7,Campfire,5,MO,29
+MO,2,Campfire,5,MO,29
+MO,1,Campfire,5,MO,29
+MO,3,Lightning,4,MO,29
+MO,2,Smoking,4,MO,29
+MO,4,Lightning,4,MO,29
+MO,5,Railroad,4,MO,29
+MO,5,Smoking,4,MO,29
+MO,7,Children,4,MO,29
+MO,11,Smoking,4,MO,29
+MO,12,Arson,4,MO,29
+MO,6,Lightning,3,MO,29
+MO,8,Smoking,3,MO,29
+MO,9,Campfire,3,MO,29
+MO,10,Smoking,3,MO,29
+MO,12,Equipment Use,3,MO,29
+MO,1,Children,3,MO,29
+MO,10,Children,2,MO,29
+MO,9,Smoking,2,MO,29
+MO,8,Campfire,2,MO,29
+MO,5,Lightning,2,MO,29
+MO,5,Campfire,2,MO,29
+MO,4,Railroad,2,MO,29
+MO,2,Children,1,MO,29
+MO,2,Lightning,1,MO,29
+MO,2,Powerline,1,MO,29
+MO,4,Children,1,MO,29
+MO,4,Powerline,1,MO,29
+MO,6,Children,1,MO,29
+MO,7,Smoking,1,MO,29
+MO,9,Lightning,1,MO,29
+MO,10,Lightning,1,MO,29
+MO,11,Railroad,1,MO,29
+MO,12,Smoking,1,MO,29
+NJ,4,Miscellaneous,336,NJ,34
+NJ,3,Miscellaneous,185,NJ,34
+NJ,4,Arson,178,NJ,34
+NJ,11,Miscellaneous,173,NJ,34
+NJ,4,Equipment Use,155,NJ,34
+NJ,4,Children,148,NJ,34
+NJ,4,Smoking,146,NJ,34
+NJ,5,Miscellaneous,112,NJ,34
+NJ,4,Campfire,101,NJ,34
+NJ,5,Arson,77,NJ,34
+NJ,5,Equipment Use,75,NJ,34
+NJ,4,Railroad,73,NJ,34
+NJ,11,Equipment Use,71,NJ,34
+NJ,4,Debris Burning,65,NJ,34
+NJ,7,Miscellaneous,64,NJ,34
+NJ,11,Arson,63,NJ,34
+NJ,5,Smoking,63,NJ,34
+NJ,2,Miscellaneous,62,NJ,34
+NJ,3,Equipment Use,61,NJ,34
+NJ,3,Children,59,NJ,34
+NJ,3,Arson,56,NJ,34
+NJ,5,Children,54,NJ,34
+NJ,3,Smoking,53,NJ,34
+NJ,10,Miscellaneous,52,NJ,34
+NJ,9,Miscellaneous,51,NJ,34
+NJ,3,Campfire,47,NJ,34
+NJ,1,Miscellaneous,46,NJ,34
+NJ,8,Miscellaneous,45,NJ,34
+NJ,7,Equipment Use,45,NJ,34
+NJ,11,Children,41,NJ,34
+NJ,2,Arson,37,NJ,34
+NJ,7,Arson,35,NJ,34
+NJ,9,Equipment Use,35,NJ,34
+NJ,6,Miscellaneous,34,NJ,34
+NJ,5,Campfire,31,NJ,34
+NJ,8,Equipment Use,28,NJ,34
+NJ,6,Equipment Use,28,NJ,34
+NJ,12,Miscellaneous,28,NJ,34
+NJ,3,Debris Burning,27,NJ,34
+NJ,8,Arson,27,NJ,34
+NJ,9,Campfire,26,NJ,34
+NJ,11,Smoking,26,NJ,34
+NJ,10,Arson,26,NJ,34
+NJ,2,Children,24,NJ,34
+NJ,11,Campfire,24,NJ,34
+NJ,2,Equipment Use,22,NJ,34
+NJ,6,Arson,22,NJ,34
+NJ,9,Children,22,NJ,34
+NJ,7,Smoking,21,NJ,34
+NJ,1,Arson,21,NJ,34
+NJ,7,Children,20,NJ,34
+NJ,10,Equipment Use,20,NJ,34
+NJ,6,Smoking,18,NJ,34
+NJ,9,Arson,17,NJ,34
+NJ,10,Smoking,17,NJ,34
+NJ,5,Debris Burning,15,NJ,34
+NJ,10,Campfire,15,NJ,34
+NJ,8,Children,15,NJ,34
+NJ,9,Smoking,15,NJ,34
+NJ,12,Equipment Use,15,NJ,34
+NJ,2,Smoking,15,NJ,34
+NJ,11,Debris Burning,13,NJ,34
+NJ,7,Campfire,12,NJ,34
+NJ,6,Children,12,NJ,34
+NJ,6,Lightning,11,NJ,34
+NJ,8,Campfire,11,NJ,34
+NJ,7,Railroad,11,NJ,34
+NJ,7,Lightning,11,NJ,34
+NJ,1,Equipment Use,11,NJ,34
+NJ,2,Campfire,11,NJ,34
+NJ,8,Smoking,9,NJ,34
+NJ,6,Campfire,8,NJ,34
+NJ,6,Railroad,8,NJ,34
+NJ,10,Children,8,NJ,34
+NJ,6,Debris Burning,8,NJ,34
+NJ,11,Railroad,7,NJ,34
+NJ,8,Lightning,6,NJ,34
+NJ,9,Debris Burning,6,NJ,34
+NJ,1,Smoking,6,NJ,34
+NJ,12,Arson,6,NJ,34
+NJ,8,Debris Burning,5,NJ,34
+NJ,7,Debris Burning,5,NJ,34
+NJ,10,Debris Burning,5,NJ,34
+NJ,12,Campfire,5,NJ,34
+NJ,12,Debris Burning,5,NJ,34
+NJ,1,Debris Burning,5,NJ,34
+NJ,1,Campfire,4,NJ,34
+NJ,1,Children,4,NJ,34
+NJ,3,Railroad,4,NJ,34
+NJ,12,Smoking,3,NJ,34
+NJ,5,Railroad,3,NJ,34
+NJ,12,Children,3,NJ,34
+NJ,2,Debris Burning,3,NJ,34
+NJ,8,Railroad,2,NJ,34
+NJ,4,Lightning,2,NJ,34
+NJ,3,Structure,1,NJ,34
+NJ,12,Railroad,1,NJ,34
+NJ,9,Lightning,1,NJ,34
+NJ,9,Railroad,1,NJ,34
+NJ,10,Lightning,1,NJ,34
+NJ,10,Railroad,1,NJ,34
+NJ,3,Lightning,1,NJ,34
+NJ,2,Railroad,1,NJ,34
+CT,4,Miscellaneous,323,CT,9
+CT,5,Miscellaneous,195,CT,9
+CT,3,Miscellaneous,116,CT,9
+CT,6,Miscellaneous,94,CT,9
+CT,8,Miscellaneous,48,CT,9
+CT,7,Miscellaneous,41,CT,9
+CT,9,Miscellaneous,39,CT,9
+CT,2,Miscellaneous,37,CT,9
+CT,4,Campfire,35,CT,9
+CT,1,Miscellaneous,30,CT,9
+CT,4,Debris Burning,19,CT,9
+CT,10,Miscellaneous,15,CT,9
+CT,3,Campfire,14,CT,9
+CT,11,Miscellaneous,14,CT,9
+CT,3,Debris Burning,12,CT,9
+CT,4,Smoking,11,CT,9
+CT,5,Campfire,10,CT,9
+CT,6,Debris Burning,10,CT,9
+CT,2,Debris Burning,7,CT,9
+CT,8,Debris Burning,6,CT,9
+CT,12,Miscellaneous,5,CT,9
+CT,5,Debris Burning,5,CT,9
+CT,4,Children,5,CT,9
+CT,4,Arson,5,CT,9
+CT,3,Smoking,4,CT,9
+CT,2,Campfire,4,CT,9
+CT,5,Smoking,4,CT,9
+CT,7,Debris Burning,4,CT,9
+CT,7,Smoking,4,CT,9
+CT,9,Debris Burning,3,CT,9
+CT,6,Campfire,3,CT,9
+CT,5,Powerline,3,CT,9
+CT,1,Debris Burning,3,CT,9
+CT,5,Equipment Use,2,CT,9
+CT,10,Campfire,2,CT,9
+CT,9,Campfire,2,CT,9
+CT,9,Arson,2,CT,9
+CT,8,Smoking,2,CT,9
+CT,8,Campfire,2,CT,9
+CT,1,Campfire,2,CT,9
+CT,7,Campfire,2,CT,9
+CT,2,Smoking,2,CT,9
+CT,3,Children,2,CT,9
+CT,3,Equipment Use,2,CT,9
+CT,3,Railroad,2,CT,9
+CT,4,Powerline,2,CT,9
+CT,5,Arson,2,CT,9
+CT,9,Smoking,1,CT,9
+CT,8,Structure,1,CT,9
+CT,8,Equipment Use,1,CT,9
+CT,6,Children,1,CT,9
+CT,6,Arson,1,CT,9
+CT,10,Smoking,1,CT,9
+CT,11,Campfire,1,CT,9
+CT,11,Debris Burning,1,CT,9
+CT,12,Arson,1,CT,9
+CT,1,Smoking,1,CT,9
+CT,1,Arson,1,CT,9
+CT,2,Children,1,CT,9
+CT,4,Railroad,1,CT,9
+OH,3,Debris Burning,321,OH,39
+OH,4,Debris Burning,306,OH,39
+OH,4,Miscellaneous,197,OH,39
+OH,3,Miscellaneous,146,OH,39
+OH,11,Debris Burning,101,OH,39
+OH,2,Debris Burning,65,OH,39
+OH,11,Miscellaneous,64,OH,39
+OH,10,Debris Burning,37,OH,39
+OH,10,Miscellaneous,33,OH,39
+OH,5,Debris Burning,31,OH,39
+OH,3,Arson,29,OH,39
+OH,11,Arson,28,OH,39
+OH,4,Equipment Use,26,OH,39
+OH,5,Miscellaneous,25,OH,39
+OH,4,Arson,25,OH,39
+OH,2,Miscellaneous,23,OH,39
+OH,3,Campfire,18,OH,39
+OH,4,Campfire,15,OH,39
+OH,3,Powerline,14,OH,39
+OH,11,Equipment Use,12,OH,39
+OH,3,Equipment Use,11,OH,39
+OH,1,Debris Burning,11,OH,39
+OH,4,Smoking,10,OH,39
+OH,10,Arson,10,OH,39
+OH,11,Powerline,10,OH,39
+OH,3,Smoking,10,OH,39
+OH,8,Debris Burning,9,OH,39
+OH,4,Powerline,9,OH,39
+OH,2,Arson,8,OH,39
+OH,11,Campfire,8,OH,39
+OH,8,Miscellaneous,8,OH,39
+OH,9,Debris Burning,8,OH,39
+OH,7,Debris Burning,7,OH,39
+OH,6,Debris Burning,7,OH,39
+OH,1,Miscellaneous,7,OH,39
+OH,5,Arson,6,OH,39
+OH,7,Miscellaneous,6,OH,39
+OH,9,Miscellaneous,6,OH,39
+OH,12,Miscellaneous,6,OH,39
+OH,6,Equipment Use,5,OH,39
+OH,11,Smoking,5,OH,39
+OH,12,Debris Burning,4,OH,39
+OH,6,Miscellaneous,3,OH,39
+OH,10,Smoking,3,OH,39
+OH,9,Powerline,3,OH,39
+OH,3,Children,3,OH,39
+OH,4,Children,3,OH,39
+OH,1,Equipment Use,3,OH,39
+OH,1,Arson,3,OH,39
+OH,5,Campfire,3,OH,39
+OH,5,Equipment Use,3,OH,39
+OH,5,Smoking,3,OH,39
+OH,5,Powerline,3,OH,39
+OH,5,Children,2,OH,39
+OH,5,Lightning,2,OH,39
+OH,9,Equipment Use,2,OH,39
+OH,10,Powerline,2,OH,39
+OH,10,Equipment Use,2,OH,39
+OH,7,Equipment Use,2,OH,39
+OH,7,Lightning,2,OH,39
+OH,2,Equipment Use,2,OH,39
+OH,10,Campfire,1,OH,39
+OH,10,Children,1,OH,39
+OH,12,Equipment Use,1,OH,39
+OH,12,Smoking,1,OH,39
+OH,2,Railroad,1,OH,39
+OH,2,Children,1,OH,39
+OH,4,Railroad,1,OH,39
+OH,3,Railroad,1,OH,39
+OH,3,Structure,1,OH,39
+OH,8,Lightning,1,OH,39
+OH,9,Arson,1,OH,39
+OH,8,Arson,1,OH,39
+OH,7,Campfire,1,OH,39
+OH,6,Arson,1,OH,39
+VA,3,Debris Burning,314,VA,51
+VA,4,Debris Burning,307,VA,51
+VA,2,Debris Burning,267,VA,51
+VA,4,Miscellaneous,136,VA,51
+VA,2,Miscellaneous,126,VA,51
+VA,3,Miscellaneous,124,VA,51
+VA,4,Arson,119,VA,51
+VA,2,Powerline,111,VA,51
+VA,11,Miscellaneous,96,VA,51
+VA,3,Arson,94,VA,51
+VA,4,Powerline,91,VA,51
+VA,11,Debris Burning,91,VA,51
+VA,4,Equipment Use,85,VA,51
+VA,7,Lightning,75,VA,51
+VA,2,Arson,68,VA,51
+VA,3,Equipment Use,67,VA,51
+VA,1,Debris Burning,64,VA,51
+VA,3,Powerline,62,VA,51
+VA,11,Arson,54,VA,51
+VA,2,Equipment Use,53,VA,51
+VA,6,Lightning,46,VA,51
+VA,4,Children,46,VA,51
+VA,11,Equipment Use,35,VA,51
+VA,2,Smoking,32,VA,51
+VA,4,Smoking,27,VA,51
+VA,3,Children,27,VA,51
+VA,11,Powerline,26,VA,51
+VA,7,Arson,24,VA,51
+VA,6,Debris Burning,24,VA,51
+VA,5,Debris Burning,24,VA,51
+VA,10,Arson,22,VA,51
+VA,4,Lightning,22,VA,51
+VA,4,Structure,22,VA,51
+VA,4,Campfire,21,VA,51
+VA,1,Miscellaneous,21,VA,51
+VA,1,Arson,21,VA,51
+VA,5,Arson,20,VA,51
+VA,3,Structure,20,VA,51
+VA,2,Children,20,VA,51
+VA,8,Lightning,18,VA,51
+VA,6,Equipment Use,18,VA,51
+VA,2,Structure,17,VA,51
+VA,3,Lightning,16,VA,51
+VA,4,Railroad,16,VA,51
+VA,5,Lightning,16,VA,51
+VA,5,Miscellaneous,16,VA,51
+VA,6,Arson,16,VA,51
+VA,7,Equipment Use,16,VA,51
+VA,9,Equipment Use,16,VA,51
+VA,10,Miscellaneous,15,VA,51
+VA,5,Equipment Use,14,VA,51
+VA,7,Miscellaneous,14,VA,51
+VA,1,Equipment Use,13,VA,51
+VA,12,Arson,13,VA,51
+VA,8,Miscellaneous,13,VA,51
+VA,6,Miscellaneous,13,VA,51
+VA,9,Debris Burning,12,VA,51
+VA,3,Smoking,12,VA,51
+VA,10,Debris Burning,12,VA,51
+VA,12,Equipment Use,12,VA,51
+VA,12,Miscellaneous,11,VA,51
+VA,11,Campfire,11,VA,51
+VA,11,Structure,11,VA,51
+VA,12,Debris Burning,10,VA,51
+VA,3,Campfire,10,VA,51
+VA,8,Debris Burning,10,VA,51
+VA,7,Debris Burning,10,VA,51
+VA,3,Railroad,9,VA,51
+VA,10,Equipment Use,8,VA,51
+VA,11,Children,8,VA,51
+VA,9,Arson,8,VA,51
+VA,5,Powerline,7,VA,51
+VA,1,Powerline,7,VA,51
+VA,11,Smoking,7,VA,51
+VA,2,Campfire,7,VA,51
+VA,8,Powerline,6,VA,51
+VA,8,Equipment Use,6,VA,51
+VA,7,Powerline,6,VA,51
+VA,5,Children,6,VA,51
+VA,9,Lightning,6,VA,51
+VA,9,Miscellaneous,6,VA,51
+VA,5,Campfire,5,VA,51
+VA,8,Campfire,5,VA,51
+VA,8,Arson,5,VA,51
+VA,12,Structure,4,VA,51
+VA,10,Powerline,3,VA,51
+VA,10,Structure,3,VA,51
+VA,11,Railroad,3,VA,51
+VA,12,Campfire,3,VA,51
+VA,12,Powerline,3,VA,51
+VA,10,Campfire,3,VA,51
+VA,6,Powerline,3,VA,51
+VA,7,Children,3,VA,51
+VA,8,Children,3,VA,51
+VA,6,Children,3,VA,51
+VA,8,Smoking,3,VA,51
+VA,9,Campfire,3,VA,51
+VA,1,Smoking,3,VA,51
+VA,1,Structure,3,VA,51
+VA,3,Fireworks,2,VA,51
+VA,2,Fireworks,2,VA,51
+VA,4,Fireworks,2,VA,51
+VA,5,Structure,2,VA,51
+VA,6,Railroad,2,VA,51
+VA,1,Campfire,2,VA,51
+VA,1,Children,2,VA,51
+VA,1,Fireworks,2,VA,51
+VA,12,Children,2,VA,51
+VA,10,Children,2,VA,51
+VA,9,Railroad,2,VA,51
+VA,9,Powerline,2,VA,51
+VA,7,Fireworks,2,VA,51
+VA,8,Railroad,2,VA,51
+VA,5,Railroad,1,VA,51
+VA,1,Railroad,1,VA,51
+VA,2,Railroad,1,VA,51
+VA,6,Smoking,1,VA,51
+VA,9,Smoking,1,VA,51
+VA,10,Lightning,1,VA,51
+VA,10,Railroad,1,VA,51
+VA,11,Fireworks,1,VA,51
+VA,7,Campfire,1,VA,51
+VA,7,Railroad,1,VA,51
+VA,9,Children,1,VA,51
+MA,5,Miscellaneous,313,MA,25
+MA,5,Campfire,267,MA,25
+MA,5,Debris Burning,216,MA,25
+MA,4,Debris Burning,143,MA,25
+MA,4,Miscellaneous,114,MA,25
+MA,4,Campfire,107,MA,25
+MA,5,Equipment Use,85,MA,25
+MA,9,Miscellaneous,67,MA,25
+MA,4,Equipment Use,65,MA,25
+MA,8,Miscellaneous,60,MA,25
+MA,9,Campfire,49,MA,25
+MA,6,Campfire,48,MA,25
+MA,6,Miscellaneous,41,MA,25
+MA,5,Smoking,37,MA,25
+MA,7,Miscellaneous,33,MA,25
+MA,8,Campfire,32,MA,25
+MA,6,Debris Burning,30,MA,25
+MA,8,Debris Burning,24,MA,25
+MA,7,Campfire,23,MA,25
+MA,5,Lightning,22,MA,25
+MA,7,Debris Burning,22,MA,25
+MA,8,Equipment Use,21,MA,25
+MA,9,Debris Burning,20,MA,25
+MA,11,Debris Burning,16,MA,25
+MA,5,Arson,16,MA,25
+MA,4,Lightning,16,MA,25
+MA,10,Miscellaneous,15,MA,25
+MA,11,Miscellaneous,15,MA,25
+MA,7,Equipment Use,15,MA,25
+MA,4,Smoking,14,MA,25
+MA,4,Arson,13,MA,25
+MA,11,Equipment Use,11,MA,25
+MA,1,Campfire,11,MA,25
+MA,9,Equipment Use,11,MA,25
+MA,6,Equipment Use,10,MA,25
+MA,10,Debris Burning,9,MA,25
+MA,10,Campfire,9,MA,25
+MA,11,Campfire,9,MA,25
+MA,8,Lightning,9,MA,25
+MA,1,Miscellaneous,8,MA,25
+MA,5,Children,8,MA,25
+MA,5,Railroad,8,MA,25
+MA,8,Arson,8,MA,25
+MA,4,Children,7,MA,25
+MA,4,Railroad,7,MA,25
+MA,6,Lightning,7,MA,25
+MA,11,Arson,4,MA,25
+MA,11,Smoking,4,MA,25
+MA,12,Arson,4,MA,25
+MA,11,Lightning,4,MA,25
+MA,10,Equipment Use,4,MA,25
+MA,9,Smoking,4,MA,25
+MA,7,Lightning,4,MA,25
+MA,9,Lightning,4,MA,25
+MA,7,Arson,3,MA,25
+MA,12,Debris Burning,3,MA,25
+MA,11,Railroad,3,MA,25
+MA,10,Smoking,3,MA,25
+MA,10,Arson,3,MA,25
+MA,8,Smoking,3,MA,25
+MA,1,Debris Burning,3,MA,25
+MA,1,Equipment Use,2,MA,25
+MA,12,Campfire,2,MA,25
+MA,9,Arson,2,MA,25
+MA,7,Children,2,MA,25
+MA,6,Arson,2,MA,25
+MA,5,Powerline,2,MA,25
+MA,3,Miscellaneous,2,MA,25
+MA,3,Campfire,2,MA,25
+MA,6,Children,1,MA,25
+MA,5,Structure,1,MA,25
+MA,4,Powerline,1,MA,25
+MA,3,Debris Burning,1,MA,25
+MA,2,Miscellaneous,1,MA,25
+MA,1,Smoking,1,MA,25
+MA,6,Smoking,1,MA,25
+MA,7,Powerline,1,MA,25
+MA,12,Miscellaneous,1,MA,25
+MA,12,Equipment Use,1,MA,25
+MA,11,Fireworks,1,MA,25
+MA,10,Railroad,1,MA,25
+MA,10,Lightning,1,MA,25
+MA,9,Railroad,1,MA,25
+MA,9,Powerline,1,MA,25
+MA,7,Smoking,1,MA,25
+MA,7,Railroad,1,MA,25
+LA,3,Debris Burning,286,LA,22
+LA,1,Debris Burning,188,LA,22
+LA,3,Arson,176,LA,22
+LA,3,Miscellaneous,124,LA,22
+LA,2,Debris Burning,96,LA,22
+LA,8,Debris Burning,94,LA,22
+LA,9,Debris Burning,94,LA,22
+LA,11,Debris Burning,89,LA,22
+LA,1,Arson,82,LA,22
+LA,5,Debris Burning,79,LA,22
+LA,8,Miscellaneous,79,LA,22
+LA,6,Debris Burning,69,LA,22
+LA,4,Arson,68,LA,22
+LA,5,Arson,65,LA,22
+LA,9,Arson,65,LA,22
+LA,8,Arson,64,LA,22
+LA,1,Miscellaneous,64,LA,22
+LA,11,Arson,61,LA,22
+LA,7,Debris Burning,56,LA,22
+LA,7,Arson,56,LA,22
+LA,4,Debris Burning,50,LA,22
+LA,7,Lightning,47,LA,22
+LA,9,Miscellaneous,47,LA,22
+LA,10,Debris Burning,47,LA,22
+LA,2,Arson,46,LA,22
+LA,12,Debris Burning,42,LA,22
+LA,8,Lightning,41,LA,22
+LA,6,Miscellaneous,41,LA,22
+LA,6,Arson,38,LA,22
+LA,5,Miscellaneous,37,LA,22
+LA,11,Miscellaneous,37,LA,22
+LA,7,Miscellaneous,36,LA,22
+LA,10,Arson,35,LA,22
+LA,2,Miscellaneous,32,LA,22
+LA,12,Arson,32,LA,22
+LA,10,Miscellaneous,29,LA,22
+LA,3,Powerline,27,LA,22
+LA,4,Miscellaneous,27,LA,22
+LA,9,Lightning,24,LA,22
+LA,9,Powerline,23,LA,22
+LA,12,Miscellaneous,21,LA,22
+LA,8,Powerline,19,LA,22
+LA,8,Equipment Use,17,LA,22
+LA,6,Lightning,15,LA,22
+LA,4,Lightning,15,LA,22
+LA,7,Fireworks,10,LA,22
+LA,5,Equipment Use,9,LA,22
+LA,3,Equipment Use,8,LA,22
+LA,4,Powerline,8,LA,22
+LA,11,Equipment Use,8,LA,22
+LA,6,Equipment Use,7,LA,22
+LA,5,Lightning,7,LA,22
+LA,3,Structure,7,LA,22
+LA,3,Lightning,7,LA,22
+LA,1,Powerline,7,LA,22
+LA,3,Campfire,6,LA,22
+LA,3,Children,6,LA,22
+LA,3,Railroad,6,LA,22
+LA,10,Equipment Use,6,LA,22
+LA,10,Powerline,5,LA,22
+LA,11,Powerline,5,LA,22
+LA,9,Smoking,5,LA,22
+LA,9,Structure,5,LA,22
+LA,2,Equipment Use,5,LA,22
+LA,5,Powerline,5,LA,22
+LA,1,Structure,5,LA,22
+LA,2,Powerline,4,LA,22
+LA,2,Structure,4,LA,22
+LA,5,Railroad,4,LA,22
+LA,7,Structure,4,LA,22
+LA,9,Campfire,4,LA,22
+LA,9,Children,4,LA,22
+LA,9,Equipment Use,4,LA,22
+LA,10,Campfire,4,LA,22
+LA,11,Campfire,4,LA,22
+LA,7,Equipment Use,4,LA,22
+LA,1,Campfire,3,LA,22
+LA,7,Powerline,3,LA,22
+LA,5,Structure,3,LA,22
+LA,5,Campfire,3,LA,22
+LA,4,Children,3,LA,22
+LA,3,Smoking,3,LA,22
+LA,1,Railroad,3,LA,22
+LA,1,Fireworks,3,LA,22
+LA,7,Railroad,3,LA,22
+LA,7,Smoking,3,LA,22
+LA,12,Fireworks,3,LA,22
+LA,12,Campfire,3,LA,22
+LA,11,Lightning,3,LA,22
+LA,8,Campfire,3,LA,22
+LA,10,Lightning,2,LA,22
+LA,12,Equipment Use,2,LA,22
+LA,11,Structure,2,LA,22
+LA,11,Children,2,LA,22
+LA,10,Structure,2,LA,22
+LA,9,Railroad,2,LA,22
+LA,8,Structure,2,LA,22
+LA,8,Railroad,2,LA,22
+LA,8,Children,2,LA,22
+LA,12,Structure,2,LA,22
+LA,7,Children,2,LA,22
+LA,1,Children,2,LA,22
+LA,7,Campfire,2,LA,22
+LA,6,Structure,2,LA,22
+LA,6,Smoking,2,LA,22
+LA,5,Smoking,2,LA,22
+LA,4,Structure,2,LA,22
+LA,4,Fireworks,2,LA,22
+LA,4,Campfire,2,LA,22
+LA,2,Smoking,2,LA,22
+LA,1,Smoking,2,LA,22
+LA,1,Equipment Use,2,LA,22
+LA,12,Lightning,1,LA,22
+LA,11,Smoking,1,LA,22
+LA,11,Railroad,1,LA,22
+LA,10,Smoking,1,LA,22
+LA,10,Children,1,LA,22
+LA,8,Smoking,1,LA,22
+LA,2,Railroad,1,LA,22
+LA,2,Lightning,1,LA,22
+LA,2,Campfire,1,LA,22
+LA,3,Fireworks,1,LA,22
+LA,4,Railroad,1,LA,22
+LA,6,Powerline,1,LA,22
+LA,6,Fireworks,1,LA,22
+LA,5,Fireworks,1,LA,22
+LA,5,Children,1,LA,22
+MI,4,Debris Burning,240,MI,26
+MI,5,Debris Burning,139,MI,26
+MI,4,Miscellaneous,121,MI,26
+MI,5,Miscellaneous,120,MI,26
+MI,4,Campfire,77,MI,26
+MI,5,Campfire,67,MI,26
+MI,7,Miscellaneous,59,MI,26
+MI,3,Debris Burning,58,MI,26
+MI,4,Equipment Use,46,MI,26
+MI,5,Equipment Use,41,MI,26
+MI,8,Miscellaneous,40,MI,26
+MI,6,Miscellaneous,38,MI,26
+MI,6,Debris Burning,33,MI,26
+MI,4,Arson,32,MI,26
+MI,3,Campfire,30,MI,26
+MI,5,Arson,29,MI,26
+MI,7,Equipment Use,28,MI,26
+MI,8,Lightning,26,MI,26
+MI,7,Campfire,25,MI,26
+MI,5,Lightning,25,MI,26
+MI,4,Children,25,MI,26
+MI,8,Campfire,24,MI,26
+MI,3,Miscellaneous,24,MI,26
+MI,6,Equipment Use,19,MI,26
+MI,7,Debris Burning,19,MI,26
+MI,4,Powerline,18,MI,26
+MI,7,Lightning,18,MI,26
+MI,9,Miscellaneous,17,MI,26
+MI,6,Campfire,17,MI,26
+MI,9,Campfire,16,MI,26
+MI,5,Powerline,16,MI,26
+MI,7,Arson,15,MI,26
+MI,8,Debris Burning,14,MI,26
+MI,3,Arson,14,MI,26
+MI,7,Powerline,14,MI,26
+MI,5,Children,14,MI,26
+MI,10,Miscellaneous,13,MI,26
+MI,8,Powerline,13,MI,26
+MI,10,Debris Burning,12,MI,26
+MI,4,Smoking,12,MI,26
+MI,9,Powerline,11,MI,26
+MI,10,Campfire,11,MI,26
+MI,6,Arson,10,MI,26
+MI,7,Fireworks,10,MI,26
+MI,6,Powerline,10,MI,26
+MI,9,Debris Burning,10,MI,26
+MI,6,Lightning,10,MI,26
+MI,5,Smoking,9,MI,26
+MI,5,Structure,8,MI,26
+MI,11,Debris Burning,8,MI,26
+MI,3,Equipment Use,7,MI,26
+MI,10,Equipment Use,7,MI,26
+MI,7,Smoking,6,MI,26
+MI,11,Miscellaneous,6,MI,26
+MI,10,Powerline,6,MI,26
+MI,9,Lightning,6,MI,26
+MI,9,Fireworks,6,MI,26
+MI,9,Equipment Use,6,MI,26
+MI,3,Smoking,5,MI,26
+MI,4,Structure,5,MI,26
+MI,10,Lightning,5,MI,26
+MI,6,Smoking,5,MI,26
+MI,6,Structure,5,MI,26
+MI,8,Equipment Use,5,MI,26
+MI,8,Arson,5,MI,26
+MI,10,Smoking,4,MI,26
+MI,9,Arson,4,MI,26
+MI,7,Children,4,MI,26
+MI,3,Children,3,MI,26
+MI,4,Fireworks,3,MI,26
+MI,6,Children,3,MI,26
+MI,3,Structure,2,MI,26
+MI,4,Railroad,2,MI,26
+MI,5,Railroad,2,MI,26
+MI,7,Railroad,2,MI,26
+MI,7,Structure,2,MI,26
+MI,8,Fireworks,2,MI,26
+MI,9,Children,2,MI,26
+MI,11,Campfire,2,MI,26
+MI,2,Arson,1,MI,26
+MI,2,Debris Burning,1,MI,26
+MI,3,Railroad,1,MI,26
+MI,4,Lightning,1,MI,26
+MI,5,Fireworks,1,MI,26
+MI,6,Fireworks,1,MI,26
+MI,8,Children,1,MI,26
+MI,8,Railroad,1,MI,26
+MI,8,Smoking,1,MI,26
+MI,1,Miscellaneous,1,MI,26
+MI,12,Miscellaneous,1,MI,26
+MI,9,Smoking,1,MI,26
+MI,9,Structure,1,MI,26
+MI,10,Children,1,MI,26
+MI,11,Arson,1,MI,26
+MI,11,Lightning,1,MI,26
+MI,11,Powerline,1,MI,26
+MI,11,Smoking,1,MI,26
+MI,11,Structure,1,MI,26
+MI,12,Debris Burning,1,MI,26
+ME,4,Debris Burning,239,ME,23
+ME,5,Debris Burning,143,ME,23
+ME,4,Equipment Use,105,ME,23
+ME,5,Equipment Use,98,ME,23
+ME,4,Miscellaneous,94,ME,23
+ME,7,Equipment Use,87,ME,23
+ME,5,Railroad,64,ME,23
+ME,5,Miscellaneous,58,ME,23
+ME,5,Arson,56,ME,23
+ME,4,Arson,53,ME,23
+ME,8,Equipment Use,48,ME,23
+ME,3,Debris Burning,47,ME,23
+ME,4,Campfire,47,ME,23
+ME,4,Railroad,40,ME,23
+ME,4,Children,36,ME,23
+ME,11,Miscellaneous,33,ME,23
+ME,4,Smoking,33,ME,23
+ME,5,Campfire,32,ME,23
+ME,7,Campfire,31,ME,23
+ME,8,Arson,30,ME,23
+ME,6,Equipment Use,28,ME,23
+ME,9,Campfire,28,ME,23
+ME,5,Children,28,ME,23
+ME,7,Debris Burning,28,ME,23
+ME,7,Arson,28,ME,23
+ME,5,Smoking,27,ME,23
+ME,3,Equipment Use,26,ME,23
+ME,8,Lightning,24,ME,23
+ME,7,Miscellaneous,24,ME,23
+ME,10,Equipment Use,24,ME,23
+ME,11,Equipment Use,24,ME,23
+ME,7,Lightning,23,ME,23
+ME,3,Miscellaneous,20,ME,23
+ME,9,Arson,20,ME,23
+ME,8,Campfire,19,ME,23
+ME,9,Equipment Use,19,ME,23
+ME,5,Powerline,15,ME,23
+ME,3,Arson,15,ME,23
+ME,6,Miscellaneous,14,ME,23
+ME,6,Lightning,14,ME,23
+ME,9,Debris Burning,13,ME,23
+ME,6,Debris Burning,12,ME,23
+ME,6,Arson,12,ME,23
+ME,10,Miscellaneous,11,ME,23
+ME,11,Debris Burning,11,ME,23
+ME,5,Lightning,11,ME,23
+ME,10,Arson,11,ME,23
+ME,8,Miscellaneous,10,ME,23
+ME,10,Campfire,10,ME,23
+ME,8,Debris Burning,10,ME,23
+ME,7,Smoking,9,ME,23
+ME,7,Children,9,ME,23
+ME,11,Arson,9,ME,23
+ME,7,Railroad,8,ME,23
+ME,5,Structure,7,ME,23
+ME,6,Campfire,7,ME,23
+ME,9,Miscellaneous,6,ME,23
+ME,3,Railroad,6,ME,23
+ME,8,Powerline,6,ME,23
+ME,10,Debris Burning,6,ME,23
+ME,11,Campfire,6,ME,23
+ME,9,Children,5,ME,23
+ME,6,Railroad,5,ME,23
+ME,2,Arson,5,ME,23
+ME,2,Equipment Use,5,ME,23
+ME,3,Children,5,ME,23
+ME,3,Smoking,5,ME,23
+ME,11,Smoking,4,ME,23
+ME,11,Children,4,ME,23
+ME,8,Children,4,ME,23
+ME,8,Smoking,4,ME,23
+ME,1,Equipment Use,3,ME,23
+ME,9,Lightning,3,ME,23
+ME,10,Structure,3,ME,23
+ME,8,Fireworks,2,ME,23
+ME,8,Railroad,2,ME,23
+ME,10,Children,2,ME,23
+ME,10,Smoking,2,ME,23
+ME,12,Arson,2,ME,23
+ME,12,Equipment Use,2,ME,23
+ME,1,Campfire,2,ME,23
+ME,7,Fireworks,2,ME,23
+ME,3,Campfire,2,ME,23
+ME,12,Miscellaneous,1,ME,23
+ME,9,Structure,1,ME,23
+ME,10,Powerline,1,ME,23
+ME,10,Railroad,1,ME,23
+ME,11,Powerline,1,ME,23
+ME,11,Structure,1,ME,23
+ME,9,Railroad,1,ME,23
+ME,8,Structure,1,ME,23
+ME,2,Campfire,1,ME,23
+ME,2,Debris Burning,1,ME,23
+ME,4,Powerline,1,ME,23
+ME,4,Structure,1,ME,23
+ME,6,Children,1,ME,23
+ME,6,Powerline,1,ME,23
+ME,7,Powerline,1,ME,23
+ME,7,Structure,1,ME,23
+ME,1,Miscellaneous,1,ME,23
+ME,1,Arson,1,ME,23
+IL,3,Debris Burning,110,IL,17
+IL,4,Debris Burning,99,IL,17
+IL,3,Miscellaneous,71,IL,17
+IL,4,Miscellaneous,51,IL,17
+IL,7,Miscellaneous,22,IL,17
+IL,2,Miscellaneous,17,IL,17
+IL,2,Debris Burning,16,IL,17
+IL,8,Miscellaneous,16,IL,17
+IL,1,Debris Burning,15,IL,17
+IL,7,Debris Burning,13,IL,17
+IL,5,Debris Burning,13,IL,17
+IL,6,Miscellaneous,13,IL,17
+IL,5,Miscellaneous,12,IL,17
+IL,6,Debris Burning,10,IL,17
+IL,10,Debris Burning,9,IL,17
+IL,1,Miscellaneous,9,IL,17
+IL,8,Debris Burning,8,IL,17
+IL,9,Miscellaneous,8,IL,17
+IL,10,Miscellaneous,8,IL,17
+IL,11,Debris Burning,8,IL,17
+IL,4,Campfire,7,IL,17
+IL,3,Smoking,7,IL,17
+IL,11,Miscellaneous,7,IL,17
+IL,4,Arson,6,IL,17
+IL,4,Powerline,6,IL,17
+IL,6,Arson,5,IL,17
+IL,3,Arson,5,IL,17
+IL,10,Equipment Use,5,IL,17
+IL,7,Fireworks,5,IL,17
+IL,9,Equipment Use,5,IL,17
+IL,3,Equipment Use,5,IL,17
+IL,4,Smoking,5,IL,17
+IL,7,Arson,4,IL,17
+IL,8,Equipment Use,4,IL,17
+IL,7,Lightning,3,IL,17
+IL,7,Equipment Use,3,IL,17
+IL,4,Railroad,3,IL,17
+IL,6,Equipment Use,3,IL,17
+IL,3,Campfire,3,IL,17
+IL,8,Lightning,3,IL,17
+IL,9,Debris Burning,3,IL,17
+IL,12,Miscellaneous,3,IL,17
+IL,10,Campfire,3,IL,17
+IL,8,Campfire,2,IL,17
+IL,6,Powerline,2,IL,17
+IL,5,Campfire,2,IL,17
+IL,4,Lightning,2,IL,17
+IL,4,Equipment Use,2,IL,17
+IL,3,Powerline,2,IL,17
+IL,1,Equipment Use,2,IL,17
+IL,5,Children,1,IL,17
+IL,9,Powerline,1,IL,17
+IL,9,Campfire,1,IL,17
+IL,8,Smoking,1,IL,17
+IL,7,Smoking,1,IL,17
+IL,7,Children,1,IL,17
+IL,7,Campfire,1,IL,17
+IL,6,Smoking,1,IL,17
+IL,6,Railroad,1,IL,17
+IL,6,Lightning,1,IL,17
+IL,6,Campfire,1,IL,17
+IL,5,Smoking,1,IL,17
+IL,9,Smoking,1,IL,17
+IL,10,Arson,1,IL,17
+IL,10,Structure,1,IL,17
+IL,11,Arson,1,IL,17
+IL,12,Arson,1,IL,17
+IL,11,Equipment Use,1,IL,17
+IL,5,Equipment Use,1,IL,17
+IL,3,Children,1,IL,17
+IL,4,Fireworks,1,IL,17
+IL,4,Children,1,IL,17
+IL,3,Railroad,1,IL,17
+IL,2,Smoking,1,IL,17
+IL,2,Arson,1,IL,17
+IL,1,Smoking,1,IL,17
+NH,4,Miscellaneous,86,NH,33
+NH,4,Debris Burning,74,NH,33
+NH,5,Miscellaneous,72,NH,33
+NH,5,Debris Burning,42,NH,33
+NH,4,Smoking,18,NH,33
+NH,5,Campfire,18,NH,33
+NH,5,Smoking,16,NH,33
+NH,4,Campfire,11,NH,33
+NH,7,Miscellaneous,11,NH,33
+NH,5,Powerline,10,NH,33
+NH,6,Debris Burning,10,NH,33
+NH,5,Equipment Use,9,NH,33
+NH,4,Powerline,9,NH,33
+NH,10,Debris Burning,8,NH,33
+NH,7,Debris Burning,8,NH,33
+NH,4,Arson,7,NH,33
+NH,3,Debris Burning,7,NH,33
+NH,6,Miscellaneous,6,NH,33
+NH,4,Children,6,NH,33
+NH,4,Equipment Use,6,NH,33
+NH,10,Miscellaneous,5,NH,33
+NH,9,Campfire,5,NH,33
+NH,1,Debris Burning,4,NH,33
+NH,7,Lightning,4,NH,33
+NH,8,Debris Burning,4,NH,33
+NH,8,Miscellaneous,4,NH,33
+NH,10,Campfire,3,NH,33
+NH,9,Debris Burning,3,NH,33
+NH,3,Miscellaneous,3,NH,33
+NH,3,Smoking,3,NH,33
+NH,8,Arson,3,NH,33
+NH,7,Campfire,3,NH,33
+NH,5,Children,3,NH,33
+NH,5,Lightning,3,NH,33
+NH,11,Debris Burning,2,NH,33
+NH,9,Miscellaneous,2,NH,33
+NH,9,Lightning,2,NH,33
+NH,11,Miscellaneous,2,NH,33
+NH,2,Miscellaneous,2,NH,33
+NH,2,Debris Burning,2,NH,33
+NH,8,Campfire,2,NH,33
+NH,7,Equipment Use,2,NH,33
+NH,5,Fireworks,2,NH,33
+NH,4,Structure,1,NH,33
+NH,6,Campfire,1,NH,33
+NH,6,Fireworks,1,NH,33
+NH,7,Arson,1,NH,33
+NH,2,Campfire,1,NH,33
+NH,2,Smoking,1,NH,33
+NH,3,Campfire,1,NH,33
+NH,11,Arson,1,NH,33
+NH,11,Campfire,1,NH,33
+NH,11,Smoking,1,NH,33
+NH,7,Children,1,NH,33
+NH,7,Powerline,1,NH,33
+NH,7,Railroad,1,NH,33
+NH,8,Lightning,1,NH,33
+VT,4,Debris Burning,83,VT,50
+VT,4,Miscellaneous,52,VT,50
+VT,5,Debris Burning,42,VT,50
+VT,5,Miscellaneous,30,VT,50
+VT,3,Debris Burning,19,VT,50
+VT,4,Equipment Use,14,VT,50
+VT,5,Equipment Use,13,VT,50
+VT,3,Miscellaneous,12,VT,50
+VT,5,Powerline,8,VT,50
+VT,11,Miscellaneous,6,VT,50
+VT,11,Debris Burning,6,VT,50
+VT,2,Debris Burning,5,VT,50
+VT,4,Campfire,5,VT,50
+VT,4,Smoking,5,VT,50
+VT,9,Campfire,5,VT,50
+VT,5,Campfire,5,VT,50
+VT,10,Miscellaneous,4,VT,50
+VT,5,Smoking,4,VT,50
+VT,4,Children,4,VT,50
+VT,4,Arson,4,VT,50
+VT,4,Powerline,3,VT,50
+VT,9,Miscellaneous,3,VT,50
+VT,6,Debris Burning,2,VT,50
+VT,11,Campfire,2,VT,50
+VT,3,Smoking,2,VT,50
+VT,3,Equipment Use,2,VT,50
+VT,1,Debris Burning,2,VT,50
+VT,2,Miscellaneous,2,VT,50
+VT,8,Equipment Use,1,VT,50
+VT,9,Debris Burning,1,VT,50
+VT,9,Lightning,1,VT,50
+VT,10,Arson,1,VT,50
+VT,10,Debris Burning,1,VT,50
+VT,11,Structure,1,VT,50
+VT,12,Miscellaneous,1,VT,50
+VT,8,Lightning,1,VT,50
+VT,7,Miscellaneous,1,VT,50
+VT,7,Equipment Use,1,VT,50
+VT,4,Fireworks,1,VT,50
+VT,4,Lightning,1,VT,50
+VT,4,Railroad,1,VT,50
+VT,5,Arson,1,VT,50
+VT,5,Children,1,VT,50
+VT,5,Lightning,1,VT,50
+VT,5,Railroad,1,VT,50
+VT,6,Campfire,1,VT,50
+VT,7,Campfire,1,VT,50
+VT,7,Debris Burning,1,VT,50
+VT,3,Campfire,1,VT,50
+MD,4,Debris Burning,50,MD,24
+MD,3,Debris Burning,39,MD,24
+MD,2,Miscellaneous,27,MD,24
+MD,4,Arson,26,MD,24
+MD,3,Arson,25,MD,24
+MD,2,Arson,25,MD,24
+MD,4,Miscellaneous,22,MD,24
+MD,2,Debris Burning,20,MD,24
+MD,4,Children,20,MD,24
+MD,9,Arson,19,MD,24
+MD,7,Lightning,15,MD,24
+MD,11,Arson,14,MD,24
+MD,11,Debris Burning,14,MD,24
+MD,4,Campfire,14,MD,24
+MD,3,Equipment Use,12,MD,24
+MD,5,Arson,12,MD,24
+MD,7,Arson,11,MD,24
+MD,7,Miscellaneous,11,MD,24
+MD,4,Equipment Use,11,MD,24
+MD,3,Campfire,10,MD,24
+MD,8,Arson,10,MD,24
+MD,6,Equipment Use,10,MD,24
+MD,4,Smoking,9,MD,24
+MD,3,Children,9,MD,24
+MD,11,Campfire,8,MD,24
+MD,11,Equipment Use,8,MD,24
+MD,11,Smoking,8,MD,24
+MD,10,Arson,8,MD,24
+MD,3,Miscellaneous,8,MD,24
+MD,7,Debris Burning,8,MD,24
+MD,6,Debris Burning,7,MD,24
+MD,6,Arson,7,MD,24
+MD,9,Debris Burning,7,MD,24
+MD,11,Miscellaneous,6,MD,24
+MD,8,Debris Burning,6,MD,24
+MD,1,Arson,6,MD,24
+MD,1,Debris Burning,6,MD,24
+MD,2,Children,6,MD,24
+MD,5,Debris Burning,6,MD,24
+MD,6,Miscellaneous,6,MD,24
+MD,7,Equipment Use,6,MD,24
+MD,5,Campfire,5,MD,24
+MD,5,Equipment Use,5,MD,24
+MD,5,Miscellaneous,5,MD,24
+MD,6,Lightning,5,MD,24
+MD,9,Children,5,MD,24
+MD,12,Miscellaneous,5,MD,24
+MD,2,Equipment Use,4,MD,24
+MD,2,Smoking,4,MD,24
+MD,3,Powerline,4,MD,24
+MD,6,Smoking,4,MD,24
+MD,7,Smoking,4,MD,24
+MD,8,Lightning,4,MD,24
+MD,9,Equipment Use,4,MD,24
+MD,10,Debris Burning,4,MD,24
+MD,11,Children,4,MD,24
+MD,12,Arson,4,MD,24
+MD,12,Debris Burning,4,MD,24
+MD,2,Campfire,3,MD,24
+MD,10,Miscellaneous,3,MD,24
+MD,3,Smoking,3,MD,24
+MD,4,Powerline,3,MD,24
+MD,4,Railroad,3,MD,24
+MD,7,Children,3,MD,24
+MD,1,Equipment Use,2,MD,24
+MD,1,Miscellaneous,2,MD,24
+MD,5,Powerline,2,MD,24
+MD,9,Railroad,2,MD,24
+MD,5,Smoking,2,MD,24
+MD,5,Lightning,2,MD,24
+MD,9,Lightning,2,MD,24
+MD,8,Children,2,MD,24
+MD,8,Miscellaneous,2,MD,24
+MD,8,Smoking,2,MD,24
+MD,12,Smoking,2,MD,24
+MD,5,Structure,1,MD,24
+MD,6,Campfire,1,MD,24
+MD,6,Powerline,1,MD,24
+MD,7,Campfire,1,MD,24
+MD,7,Fireworks,1,MD,24
+MD,8,Campfire,1,MD,24
+MD,8,Equipment Use,1,MD,24
+MD,9,Campfire,1,MD,24
+MD,1,Children,1,MD,24
+MD,1,Campfire,1,MD,24
+MD,3,Lightning,1,MD,24
+MD,4,Fireworks,1,MD,24
+MD,5,Children,1,MD,24
+MD,9,Powerline,1,MD,24
+MD,10,Children,1,MD,24
+MD,10,Equipment Use,1,MD,24
+MD,10,Smoking,1,MD,24
+MD,10,Structure,1,MD,24
+MD,11,Powerline,1,MD,24
+MD,11,Railroad,1,MD,24
+MD,11,Structure,1,MD,24
+MD,12,Children,1,MD,24
+RI,4,Arson,29,RI,44
+RI,5,Miscellaneous,28,RI,44
+RI,3,Arson,19,RI,44
+RI,4,Debris Burning,15,RI,44
+RI,4,Miscellaneous,13,RI,44
+RI,3,Debris Burning,11,RI,44
+RI,9,Miscellaneous,10,RI,44
+RI,5,Arson,6,RI,44
+RI,4,Campfire,6,RI,44
+RI,11,Arson,6,RI,44
+RI,6,Miscellaneous,6,RI,44
+RI,8,Miscellaneous,5,RI,44
+RI,7,Arson,5,RI,44
+RI,6,Arson,5,RI,44
+RI,3,Miscellaneous,5,RI,44
+RI,11,Smoking,4,RI,44
+RI,11,Miscellaneous,4,RI,44
+RI,9,Campfire,4,RI,44
+RI,7,Miscellaneous,3,RI,44
+RI,9,Arson,3,RI,44
+RI,9,Debris Burning,3,RI,44
+RI,5,Debris Burning,3,RI,44
+RI,4,Children,3,RI,44
+RI,11,Debris Burning,3,RI,44
+RI,5,Campfire,2,RI,44
+RI,5,Structure,2,RI,44
+RI,6,Debris Burning,2,RI,44
+RI,8,Arson,2,RI,44
+RI,8,Campfire,2,RI,44
+RI,10,Children,2,RI,44
+RI,4,Equipment Use,2,RI,44
+RI,2,Arson,2,RI,44
+RI,10,Campfire,1,RI,44
+RI,10,Structure,1,RI,44
+RI,10,Smoking,1,RI,44
+RI,12,Arson,1,RI,44
+RI,12,Debris Burning,1,RI,44
+RI,10,Debris Burning,1,RI,44
+RI,12,Smoking,1,RI,44
+RI,9,Smoking,1,RI,44
+RI,3,Powerline,1,RI,44
+RI,3,Fireworks,1,RI,44
+RI,2,Debris Burning,1,RI,44
+RI,1,Arson,1,RI,44
+RI,8,Equipment Use,1,RI,44
+RI,8,Debris Burning,1,RI,44
+RI,6,Structure,1,RI,44
+RI,6,Children,1,RI,44
+RI,5,Powerline,1,RI,44
+RI,5,Equipment Use,1,RI,44
+IN,3,Debris Burning,16,IN,18
+IN,4,Railroad,7,IN,18
+IN,3,Miscellaneous,7,IN,18
+IN,4,Debris Burning,6,IN,18
+IN,7,Miscellaneous,6,IN,18
+IN,7,Lightning,5,IN,18
+IN,3,Railroad,4,IN,18
+IN,4,Arson,4,IN,18
+IN,4,Miscellaneous,4,IN,18
+IN,6,Arson,4,IN,18
+IN,7,Campfire,4,IN,18
+IN,6,Miscellaneous,3,IN,18
+IN,4,Campfire,3,IN,18
+IN,3,Arson,3,IN,18
+IN,2,Debris Burning,3,IN,18
+IN,8,Campfire,3,IN,18
+IN,11,Debris Burning,3,IN,18
+IN,8,Miscellaneous,3,IN,18
+IN,8,Equipment Use,2,IN,18
+IN,9,Arson,2,IN,18
+IN,10,Arson,2,IN,18
+IN,11,Arson,2,IN,18
+IN,7,Powerline,2,IN,18
+IN,7,Smoking,2,IN,18
+IN,3,Equipment Use,2,IN,18
+IN,3,Campfire,2,IN,18
+IN,2,Miscellaneous,2,IN,18
+IN,2,Arson,2,IN,18
+IN,3,Powerline,2,IN,18
+IN,7,Fireworks,2,IN,18
+IN,6,Equipment Use,2,IN,18
+IN,6,Campfire,2,IN,18
+IN,5,Campfire,2,IN,18
+IN,7,Equipment Use,1,IN,18
+IN,6,Smoking,1,IN,18
+IN,6,Fireworks,1,IN,18
+IN,6,Debris Burning,1,IN,18
+IN,7,Railroad,1,IN,18
+IN,10,Debris Burning,1,IN,18
+IN,12,Miscellaneous,1,IN,18
+IN,11,Smoking,1,IN,18
+IN,10,Miscellaneous,1,IN,18
+IN,10,Children,1,IN,18
+IN,8,Lightning,1,IN,18
+IN,10,Campfire,1,IN,18
+IN,9,Powerline,1,IN,18
+IN,9,Miscellaneous,1,IN,18
+IN,9,Campfire,1,IN,18
+IN,5,Powerline,1,IN,18
+IN,5,Miscellaneous,1,IN,18
+IN,5,Lightning,1,IN,18
+IN,5,Arson,1,IN,18
+IN,3,Structure,1,IN,18
+IN,1,Children,1,IN,18
+DE,4,Debris Burning,8,DE,10
+DE,4,Equipment Use,4,DE,10
+DE,6,Equipment Use,3,DE,10
+DE,7,Smoking,3,DE,10
+DE,4,Smoking,2,DE,10
+DE,4,Miscellaneous,2,DE,10
+DE,9,Smoking,2,DE,10
+DE,7,Lightning,2,DE,10
+DE,9,Equipment Use,1,DE,10
+DE,12,Campfire,1,DE,10
+DE,10,Smoking,1,DE,10
+DE,9,Debris Burning,1,DE,10
+DE,9,Campfire,1,DE,10
+DE,5,Campfire,1,DE,10
+DE,5,Smoking,1,DE,10
+DE,6,Miscellaneous,1,DE,10
+DE,5,Arson,1,DE,10
+DE,3,Debris Burning,1,DE,10
+DE,3,Miscellaneous,1,DE,10
+DE,4,Campfire,1,DE,10
+DE,4,Children,1,DE,10
+DE,4,Railroad,1,DE,10
+DE,4,Structure,1,DE,10
+DE,6,Smoking,1,DE,10
+DE,6,Structure,1,DE,10
+DE,8,Debris Burning,1,DE,10
+DE,8,Smoking,1,DE,10
+DE,7,Fireworks,1,DE,10
+DE,7,Miscellaneous,1,DE,10
+DC,4,Miscellaneous,3,DC,11
+DC,9,Smoking,1,DC,11
+DC,5,Miscellaneous,1,DC,11
+DC,6,Miscellaneous,1,DC,11
+DC,6,Arson,1,DC,11
+DC,5,Debris Burning,1,DC,11
+DC,4,Children,1,DC,11
+DC,2,Miscellaneous,1,DC,11
+DC,11,Arson,1,DC,11
+HI,10,Miscellaneous,3,HI,15
+HI,12,Debris Burning,2,HI,15
+HI,11,Miscellaneous,2,HI,15
+HI,7,Miscellaneous,2,HI,15
+HI,6,Miscellaneous,1,HI,15
+HI,5,Lightning,1,HI,15
+HI,5,Equipment Use,1,HI,15
+HI,3,Miscellaneous,1,HI,15
+HI,3,Arson,1,HI,15
+HI,2,Miscellaneous,1,HI,15
+HI,2,Equipment Use,1,HI,15
+HI,1,Lightning,1,HI,15
+HI,1,Campfire,1,HI,15
+HI,7,Campfire,1,HI,15
+HI,7,Fireworks,1,HI,15
+HI,8,Equipment Use,1,HI,15
+HI,11,Lightning,1,HI,15
+HI,11,Debris Burning,1,HI,15
+HI,11,Arson,1,HI,15
+HI,8,Miscellaneous,1,HI,15

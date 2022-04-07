@@ -1,4 +1,5 @@
 import React, { useState } from "react";
+import axios from "axios";
 
 import Button from "react-bootstrap/Button";
 import Form from "react-bootstrap/Form";
@@ -6,6 +7,7 @@ import Alert from "react-bootstrap/Alert";
 import Row from "react-bootstrap/Row";
 import Col from "react-bootstrap/Col";
 import Table from "react-bootstrap/Table";
+import Spinner from "react-bootstrap/Spinner";
 
 const SizePredictionDemo = () => {
   const [sourceSystemType, setSourceSystemType] = useState(0); // 0
@@ -26,6 +28,7 @@ const SizePredictionDemo = () => {
   const [tavg, setTavg] = useState(null); //15
 
   const [prediction, setPrediction] = useState(null);
+  const [inProgress, setInProgress] = useState(false);
 
   const isButtonDisabled = () => {
     return (
@@ -134,11 +137,52 @@ const SizePredictionDemo = () => {
     }
   };
 
-  const onClickPredict = (e) => {
+  const onClickPredict = async (e) => {
+    e.preventDefault();
+    setInProgress(true);
+    // try {
+    //   let url =
+    //     "http://127.0.0.1:5000//fire-size-predict";
+    //   console.log(url);
+    //   let response = await axios({
+    //     method: "post",
+    //     url: url,
+    //     data: {
+    //       SOURCE_SYSTEM_TYPE: [sourceSystemType],
+    //       FIRE_YEAR: [fireYear],
+    //       STAT_CAUSE_CODE: [statCauseCode],
+    //       OWNER_CODE: [ownerDescr],
+    //       STATE: [state],
+    //       population_density: [populationDensity],
+    //       ELEVATION: [elevation],
+    //       AWND: [awnd],
+    //       PRCP: [prcp],
+    //       distance: [distance],
+    //       hour_diff: [hourDiff],
+    //       month: [month],
+    //       time: [time],
+    //       LATITUDE: [latitude],
+    //       LONGITUDE: [longtitude],
+    //       temp_average: [tavg]
+    //     },
+    //   });
+    //   console.log(response);
+    //   console.log(response["data"]["class"]);
+    //   setPrediction(getPredictionClass(parseInt(response["data"]["class"])));
+    //   setInProgress(false);
+    // } catch {
+    //   alert("Something wrong");
+    //   setInProgress(false);
+    // }
     setPrediction(treeOne);
+    setInProgress(false);
     e.preventDefault();
     e.target.reset();
   };
+
+  // const getPredictionClass = () => {
+
+  // }
 
   const handleClose = (e) => {
     setStatCauseCode(null);
@@ -153,6 +197,10 @@ const SizePredictionDemo = () => {
     setPrcp(null);
     setTavg(null);
     setPrediction(null);
+  };
+
+  const showSpinner = () => {
+    return inProgress ? <Spinner animation="border"/> : null;
   };
 
   const renderResults = () => {
@@ -438,6 +486,7 @@ const SizePredictionDemo = () => {
         </Button>
       </Form>
 
+      {showSpinner()}
       {renderResults()}
     </div>
   );
