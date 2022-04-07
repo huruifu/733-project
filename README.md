@@ -32,3 +32,30 @@
 ## Impact of this project
 
 The forest fires come at a huge financial and ecological cost. With the prediction of the worldwide forest fires, this disaster can either be prevented or reponded in a timely manner. As a result, we wish our model or statistical findings could help governments and communities sustainably manage the fires. And then improving the biodiversity and reducing the negative impacts of economic development. 
+
+## Build Application
+Need to download node js, npm and conda in order to run the application.
+
+### Download model files
+
+Download folder from https://drive.google.com/drive/folders/1fYc3QAgeyv9YObTFwgOR4DrwT7LAchBE?usp=sharing
+
+Unzipping all zip files inside the folder.
+
+### Run frontend application
+
+In the terminal, use the following commands:
+
+* cd fireforest-app
+
+* npm install
+
+* npm start
+
+### Run backend application
+
+Open another terminal, make sure current directory is at the root of the project directory. Then use the following commands:
+
+* conda create --name project --file requirements.txt
+
+* python app.py
