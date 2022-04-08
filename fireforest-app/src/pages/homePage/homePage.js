@@ -5,6 +5,7 @@ import "./homePage.css";
 
 const images = {
   wildfires_counts: "/images/home/wildfires_counts.png",
+  fire1: "/images/home/fire1.jpg",
 };
 function HomePage() {
   const [index, setIndex] = useState(0);
@@ -23,8 +24,15 @@ function HomePage() {
       <Carousel.Item>
         <img
           className="d-block img-format-v2"
-          src={images.wildfires_counts}
+          src={images.fire1}
           alt="First slide"
+        />
+      </Carousel.Item>
+      <Carousel.Item>
+        <img
+          className="d-block img-format-v2"
+          src={images.wildfires_counts}
+          alt="Fourth slide"
         />
         <br />
         <br />

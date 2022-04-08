@@ -12,6 +12,7 @@ import FireReasonDemo from "../../components/fireReasonDemo";
 
 const images = {
   fire_reason: "/images/wildfire_reason/fire_reason.png",
+  fire_reason_group: "/images/wildfire_reason/fire_reason_group.jpeg",
   correlation_plot_one: "/images/wildfire_reason/correlation_plot_one.png",
   correlation_plot_two: "/images/wildfire_reason/correlation_plot_two.png",
   feature_importance: "/images/wildfire_reason/feature_importance.jpeg",
@@ -83,12 +84,12 @@ function ForestfireReasonPage() {
             </Nav.Item>
             <Nav.Item>
               <Nav.Link eventKey="fourth" className="clickable">
-                Prediction Demo with group
+                Prediction Demo (grouped reasons)
               </Nav.Link>
             </Nav.Item>
             <Nav.Item>
               <Nav.Link eventKey="fifth" className="clickable">
-                Prediction Demo without group
+                Prediction Demo (detailed reasons)
               </Nav.Link>
             </Nav.Item>
           </Nav>
@@ -99,6 +100,12 @@ function ForestfireReasonPage() {
               <img
                 className="d-block img-format"
                 src={images.fire_reason}
+                alt="fire reason plot"
+                width="50"
+              />
+              <img
+                className="d-block img-format"
+                src={images.fire_reason_group}
                 alt="fire reason plot"
                 width="50"
               />
@@ -167,10 +174,10 @@ function ForestfireReasonPage() {
               </Row>
             </Tab.Pane>
             <Tab.Pane eventKey="fourth">
-              <FireReasonDemo isGrouped={false}/>
+              <FireReasonDemo isGrouped={true}/>
             </Tab.Pane>
             <Tab.Pane eventKey="fifth">
-              <FireReasonDemo isGrouped={true}/>
+              <FireReasonDemo isGrouped={false}/>
             </Tab.Pane>
           </Tab.Content>
         </Col>

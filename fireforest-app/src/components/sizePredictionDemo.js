@@ -53,136 +53,156 @@ const SizePredictionDemo = () => {
   //E 4
   //F 5
   //G 6
-  const treeOne = () => {
-    if (ownerDescr <= 8.0) {
-      if (month <= 4.5) {
-        if (ownerDescr <= 2.0) {
-          if (latitude <= 42.7) {
-            if (populationDensity <= 6.95) {
-              return "A";
-            } else return "F";
-          } else {
-            if (hourDiff <= 2.22) {
-              return "B";
-            } else return "C";
-          }
-        } else {
-          if (sourceSystemType <= 1.5) {
-            if (longtitude <= -96.03) {
-              return "F";
-            } else return "E";
-          } else {
-            if (distance <= 0) {
-              return "A";
-            } else return "D";
-          }
-        }
-      } else {
-        if (month <= 8.5) {
-          if (latitude <= 48.9) {
-            if (tavg <= 68.0) {
-              return "F";
-            } else return "G";
-          } else return "G";
-        } else {
-          if (statCauseCode <= 4.0) {
-            return "A";
-          } else {
-            if (statCauseCode <= 9.0) {
-              return "A";
-            } else return "F";
-          }
-        }
-      }
-    } else {
-      if (hourDiff <= 2) {
-        if (month <= 3.5) {
-          if (elevation <= 178.05) {
-            if (longtitude <= -76.09) {
-              return "B";
-            } else return "A";
-          } else {
-            if (longtitude <= -91.42) {
-              return "C";
-            } else return "B";
-          }
-        } else {
-          if (hourDiff <= 0.8) {
-            return "A";
-          } else return "B";
-        }
-      } else {
-        if (sourceSystemType <= 1.5) {
-          if (hourDiff <= 149.68) {
-            if (ownerDescr <= 14.0) {
-              return "E";
-            } else return "A";
-          } else {
-            if (elevation <= 1036.23) {
-              return "F";
-            } else return "G";
-          }
-        } else {
-          if (latitude <= 38.5) {
-            if (distance <= 0) {
-              return "B";
-            } else return "C";
-          } else {
-            if (longtitude <= -79.45) {
-              return "D";
-            } else return "A";
-          }
-        }
-      }
-    }
-  };
+  // const treeOne = () => {
+  //   if (ownerDescr <= 8.0) {
+  //     if (month <= 4.5) {
+  //       if (ownerDescr <= 2.0) {
+  //         if (latitude <= 42.7) {
+  //           if (populationDensity <= 6.95) {
+  //             return "A";
+  //           } else return "F";
+  //         } else {
+  //           if (hourDiff <= 2.22) {
+  //             return "B";
+  //           } else return "C";
+  //         }
+  //       } else {
+  //         if (sourceSystemType <= 1.5) {
+  //           if (longtitude <= -96.03) {
+  //             return "F";
+  //           } else return "E";
+  //         } else {
+  //           if (distance <= 0) {
+  //             return "A";
+  //           } else return "D";
+  //         }
+  //       }
+  //     } else {
+  //       if (month <= 8.5) {
+  //         if (latitude <= 48.9) {
+  //           if (tavg <= 68.0) {
+  //             return "F";
+  //           } else return "G";
+  //         } else return "G";
+  //       } else {
+  //         if (statCauseCode <= 4.0) {
+  //           return "A";
+  //         } else {
+  //           if (statCauseCode <= 9.0) {
+  //             return "A";
+  //           } else return "F";
+  //         }
+  //       }
+  //     }
+  //   } else {
+  //     if (hourDiff <= 2) {
+  //       if (month <= 3.5) {
+  //         if (elevation <= 178.05) {
+  //           if (longtitude <= -76.09) {
+  //             return "B";
+  //           } else return "A";
+  //         } else {
+  //           if (longtitude <= -91.42) {
+  //             return "C";
+  //           } else return "B";
+  //         }
+  //       } else {
+  //         if (hourDiff <= 0.8) {
+  //           return "A";
+  //         } else return "B";
+  //       }
+  //     } else {
+  //       if (sourceSystemType <= 1.5) {
+  //         if (hourDiff <= 149.68) {
+  //           if (ownerDescr <= 14.0) {
+  //             return "E";
+  //           } else return "A";
+  //         } else {
+  //           if (elevation <= 1036.23) {
+  //             return "F";
+  //           } else return "G";
+  //         }
+  //       } else {
+  //         if (latitude <= 38.5) {
+  //           if (distance <= 0) {
+  //             return "B";
+  //           } else return "C";
+  //         } else {
+  //           if (longtitude <= -79.45) {
+  //             return "D";
+  //           } else return "A";
+  //         }
+  //       }
+  //     }
+  //   }
+  // };
 
   const onClickPredict = async (e) => {
     e.preventDefault();
     setInProgress(true);
-    // try {
-    //   let url =
-    //     "http://127.0.0.1:5000//fire-size-predict";
-    //   console.log(url);
-    //   let response = await axios({
-    //     method: "post",
-    //     url: url,
-    //     data: {
-    //       SOURCE_SYSTEM_TYPE: [sourceSystemType],
-    //       FIRE_YEAR: [fireYear],
-    //       STAT_CAUSE_CODE: [statCauseCode],
-    //       OWNER_CODE: [ownerDescr],
-    //       STATE: [state],
-    //       population_density: [populationDensity],
-    //       ELEVATION: [elevation],
-    //       AWND: [awnd],
-    //       PRCP: [prcp],
-    //       distance: [distance],
-    //       hour_diff: [hourDiff],
-    //       month: [month],
-    //       time: [time],
-    //       LATITUDE: [latitude],
-    //       LONGITUDE: [longtitude],
-    //       temp_average: [tavg]
-    //     },
-    //   });
-    //   console.log(response);
-    //   console.log(response["data"]["class"]);
-    //   setPrediction(getPredictionClass(parseInt(response["data"]["class"])));
-    //   setInProgress(false);
-    // } catch {
-    //   alert("Something wrong");
-    //   setInProgress(false);
-    // }
-    setPrediction(treeOne);
-    setInProgress(false);
+    try {
+      let url = "/fire-size-predict";
+      console.log(url);
+      let response = await axios({
+        method: "post",
+        url: url,
+        data: {
+          SOURCE_SYSTEM_TYPE: [sourceSystemType],
+          FIRE_YEAR: [fireYear],
+          STAT_CAUSE_CODE: [statCauseCode],
+          OWNER_CODE: [ownerDescr],
+          STATE: [state],
+          population_density: [populationDensity],
+          ELEVATION: [elevation],
+          AWND: [awnd],
+          PRCP: [prcp],
+          distance: [distance],
+          hour_diff: [hourDiff],
+          month: [month],
+          time: [time],
+          LATITUDE: [latitude],
+          LONGITUDE: [longtitude],
+          temp_average: [tavg],
+        },
+      });
+      console.log(response);
+      console.log(response["data"]["class"]);
+      setPrediction(getPredictionClass(parseInt(response["data"]["class"])));
+      setInProgress(false);
+    } catch {
+      alert("Something wrong");
+      setInProgress(false);
+    }
+    // setPrediction(treeOne);
     e.preventDefault();
     e.target.reset();
   };
 
-  // const getPredictionClass = () => {
-
-  // }
+  //A 0
+  // B 1
+  //C 2
+  // D 3
+  //E 4
+  //F 5
+  //G 6
+  const getPredictionClass = (classNum) => {
+    switch (classNum) {
+      case 0:
+        return "A";
+      case 1:
+        return "B";
+      case 2:
+        return "C";
+      case 3:
+        return "D";
+      case 4:
+        return "E";
+      case 5:
+        return "F";
+      case 6:
+        return "G";
+    }
+  };
 
   const handleClose = (e) => {
     setStatCauseCode(null);
@@ -200,7 +220,7 @@ const SizePredictionDemo = () => {
   };
 
   const showSpinner = () => {
-    return inProgress ? <Spinner animation="border"/> : null;
+    return inProgress ? <Spinner animation="border" /> : null;
   };
 
   const renderResults = () => {
@@ -476,6 +496,9 @@ const SizePredictionDemo = () => {
           </Form.Group>
         </Row>
 
+        {showSpinner()}
+        {renderResults()}
+
         <Button
           type="submit"
           style={{ marginRight: "90%" }}
@@ -485,9 +508,6 @@ const SizePredictionDemo = () => {
           Submit
         </Button>
       </Form>
-
-      {showSpinner()}
-      {renderResults()}
     </div>
   );
 };
