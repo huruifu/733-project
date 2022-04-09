@@ -29,6 +29,8 @@
 
 * https://www.statcan.gc.ca/search/results/site-search?q=forest%20fire&fq=stclac:2&wb-srch-sub=search
 
+* https://sedac.ciesin.columbia.edu/data/collection/gpw-v4
+
 ## Impact of this project
 
 The forest fires come at a huge financial and ecological cost. With the prediction of the worldwide forest fires, this disaster can either be prevented or reponded in a timely manner. As a result, we wish our model or statistical findings could help governments and communities sustainably manage the fires. And then improving the biodiversity and reducing the negative impacts of economic development. 
