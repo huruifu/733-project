@@ -384,7 +384,7 @@ const FireReasonDemo = (props) => {
     setInProgress(true);
     try {
       let url =
-        "/fire-reason-predict" +
+        "https://project-733-backend.herokuapp.com/fire-reason-predict" +
         (props.isGrouped ? "/group" : "/non-group");
       console.log(url);
       let response = await axios({

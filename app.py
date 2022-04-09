@@ -26,7 +26,17 @@ def predict_reason_group():
     s3_object = "model_grouped_rf.joblib"
     obj = s3.get_object(Bucket=bucket_name, Key=s3_object)
     json_data = request.get_json()
-    model = load(io.BytesIO(obj['Body'].read()))
+    buf = bytearray(obj['ContentLength'])
+    view = memoryview(buf)
+    pos = 0
+    while True:
+        chunk = obj['Body'].read(67108864)
+        if len(chunk) == 0:
+            break
+        view[pos:pos+len(chunk)] = chunk
+        pos += len(chunk)
+    
+    model = load(io.BytesIO(view))    
     df = pd.DataFrame(data=json_data)
     prediction = model.predict(df)
     return Response(json.dumps({"class": f"{prediction[0]}"}),
@@ -45,7 +55,17 @@ def predict_reason_non_group():
     s3_object = "model_nongrouped_rf.joblib"
     obj = s3.get_object(Bucket=bucket_name, Key=s3_object)
     json_data = request.get_json()
-    model = load(io.BytesIO(obj['Body'].read()))
+    buf = bytearray(obj['ContentLength'])
+    view = memoryview(buf)
+    pos = 0
+    while True:
+        chunk = obj['Body'].read(67108864)
+        if len(chunk) == 0:
+            break
+        view[pos:pos+len(chunk)] = chunk
+        pos += len(chunk)
+    
+    model = load(io.BytesIO(view))    
     df = pd.DataFrame(data=json_data)
     prediction = model.predict(df)
     return Response(json.dumps({"class": f"{prediction[0]}"}),

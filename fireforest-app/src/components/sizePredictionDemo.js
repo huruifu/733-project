@@ -141,7 +141,7 @@ const SizePredictionDemo = () => {
     e.preventDefault();
     setInProgress(true);
     try {
-      let url = "/fire-size-predict";
+      let url = "https://project-733-backend.herokuapp.com/fire-size-predict";
       console.log(url);
       let response = await axios({
         method: "post",
