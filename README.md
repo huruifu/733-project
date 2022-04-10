@@ -6,7 +6,7 @@
 
 * Which regions are most likely to have forest fires in each month? 
 
-* What factors determine the burning time of the forest fires or the spread of the forest fires?
+* How to predict the fire size class given the geographic information and daily climate records?
 
 
 ## Data sources
