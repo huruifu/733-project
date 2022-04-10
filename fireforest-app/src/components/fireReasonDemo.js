@@ -384,7 +384,7 @@ const FireReasonDemo = (props) => {
     setInProgress(true);
     try {
       let url =
-        "https://project-733-backend.herokuapp.com/fire-reason-predict" +
+        "http://127.0.0.1:5000/fire-reason-predict" +
         (props.isGrouped ? "/group" : "/non-group");
       console.log(url);
       let response = await axios({
@@ -409,6 +409,13 @@ const FireReasonDemo = (props) => {
       console.log(response);
       console.log(response["data"]["class"]);
       setPrediction(getPredictionClass(parseInt(response["data"]["class"])));
+      // if (props.isGrouped) {
+      //   setPrediction(response["data"]["class"]);
+      // }
+      // else {
+      //   setPrediction(getPredictionClass(parseInt(response["data"]["class"])));
+      // }
+      // // setPrediction(response["data"]["class"]);
       setInProgress(false);
     } catch {
       alert("Something wrong");
