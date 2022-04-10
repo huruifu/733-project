@@ -27,6 +27,7 @@ const FireOccurrencesByState = () => {
       </option>
     )
   }
+  years.push(<option key={2022} value={2022}>{2022}</option>)
 
   const handleMonthChange = (e) => {
     setMonth(e.target.value)
