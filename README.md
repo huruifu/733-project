@@ -33,9 +33,8 @@ The forest fires come at a huge financial and ecological cost. With the predicti
 
 ## File Guide 
 
-* fire.ipynb (fire data EDA)
-* fire_reason_predict.ipynb (What will be the reasons for recent fires if occurred?)
-* fire 
+* fire.ipynb: fire data EDA (input dataset: download fromhttps://www.fs.usda.gov/rds/archive/Catalog/RDS-2013-0009.5 RDS-2013-0009.5_SQLITE.zip)
+* fire_reason_predict.ipynb: fire reason prediction EDA and model constructions (input dataset：etl_filtered_v1.zip)
 
 * firesize_model.ipynb: fire size class prediction EDA and model constructions. (input dataset: etl_filtered_v1.zip)
 * firesize_addition.ipynb: fire size class prediction density plots and other rebalanced techniques implemented. (input dataset: etl_filtered_v1.zip)
