@@ -37,5 +37,7 @@ The forest fires come at a huge financial and ecological cost. With the predicti
 * firesize_model.ipynb: fire size class prediction EDA and model constructions. (input dataset: etl_filtered_v1.zip)
 * firesize_addition.ipynb: fire size class prediction density plots and other rebalanced techniques implemented. (input dataset: etl_filtered_v1.zip)
 
-* monthly.ipynb : monthly fire frequency prediction model constructions. (input dataset: etl_filtered_v1.zip)
+* monthly.ipynb: monthly fire frequency prediction model constructions. (input dataset: etl_filtered_v1.zip)
 * monthly_autosklearn.ipynb: monthly fire frequency prediction model constructions using auto-sklearn, need to run on Colab. (input dataset: etl_filtered_v1.zip)
+
+* population.ipynb: Add population density as a new feature to dataset (input dataset: gpw_v4_population_density_rev11_2010_30_min .asc, gpw_v4_population_density_rev11_2015_30_min .asc)
