@@ -28,16 +28,14 @@ The forest fires come at a huge financial and ecological cost. With the predicti
 
 * url: https://fireforest-app.herokuapp.com/
 
-## Dataset
-* url: https://1sfu-my.sharepoint.com/:f:/g/personal/yca432_sfu_ca/Enl8hA9-srRKhYWOTltd7y4BzyL8VOQ_2bPEf38X2gsdWw?e=5Jb3I0 (Need SFU office 365 account)
 
 ## File Guide 
 
-* fire.ipynb: fire data EDA (input dataset: download fromhttps://www.fs.usda.gov/rds/archive/Catalog/RDS-2013-0009.5 RDS-2013-0009.5_SQLITE.zip)
+* fire.ipynb: fire data EDA (input dataset: download from https://www.fs.usda.gov/rds/archive/products/RDS-2013-0009.5/RDS-2013-0009.5_SQLITE.zip)
 * fire_reason_predict.ipynb: fire reason prediction EDA and model constructions (input dataset：etl_filtered_v1.zip)
 
 * firesize_model.ipynb: fire size class prediction EDA and model constructions. (input dataset: etl_filtered_v1.zip)
 * firesize_addition.ipynb: fire size class prediction density plots and other rebalanced techniques implemented. (input dataset: etl_filtered_v1.zip)
 
-* monthly.ipynb : monthly fire frequency prediction model constructions. (input dataset: etl_filtered_v1.csv)
-* monthly_autosklearn.ipynb: monthly fire frequency prediction model constructions using auto-sklearn, need to run on Colab. (input dataset: etl_filtered_v1.csv)
+* monthly.ipynb : monthly fire frequency prediction model constructions. (input dataset: etl_filtered_v1.zip)
+* monthly_autosklearn.ipynb: monthly fire frequency prediction model constructions using auto-sklearn, need to run on Colab. (input dataset: etl_filtered_v1.zip)
