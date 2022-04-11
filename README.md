@@ -2,11 +2,11 @@
 
 ## Questions to be answered
 
-* What factors are most likely to cause forest fires?
+* How to predict the fire size class? (classification)
 
-* Which regions are most likely to have forest fires in each month? 
+* What will be the reasons for recent fires if occurred? (classification)
 
-* How to predict the fire size class given the geographic information and daily climate records?
+* What will be the most likely monthly frequency of fires for each state? (regression)
 
 
 ## Data sources
@@ -19,6 +19,7 @@
 
 * https://www.weatherbit.io/account/dashboard
 
+
 ## Impact of this project
 
 The forest fires come at a huge financial and ecological cost. With the prediction of the worldwide forest fires, this disaster can either be prevented or reponded in a timely manner. As a result, we wish our model or statistical findings could help governments and communities sustainably manage the fires. And then improving the biodiversity and reducing the negative impacts of economic development. 
@@ -26,3 +27,10 @@ The forest fires come at a huge financial and ecological cost. With the predicti
 ## Application
 
 * url: https://fireforest-app.herokuapp.com/
+
+
+## File Guide 
+
+* fire.ipynb (fire data EDA)
+* fire_reason_predict.ipynb (What will be the reasons for recent fires if occurred?)
+* fire 
