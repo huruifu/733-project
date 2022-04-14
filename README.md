@@ -24,14 +24,15 @@
 
 The forest fires come at a huge financial and ecological cost. With the prediction of the worldwide forest fires, this disaster can either be prevented or reponded in a timely manner. As a result, we wish our model or statistical findings could help governments and communities sustainably manage the fires. And then improving the biodiversity and reducing the negative impacts of economic development. 
 
-## Application
-
-* url: https://fireforest-app.herokuapp.com/
-
 
 ## Summary
 
   This project aims to predict wildfire reasons, fire sizes, and monthly frequency of wildfires in different states or counties in the U.S. Compared with other existing studies, we have added new features about climate information and human activities which may play a decisive factor in analyzing and predicting wildfires. After dealing with the imbalanced multiclass classification problems, the Random Forest models were selected and stored in AWS s3 since they were explainable and had a higher accuracy score. In addition, we built an interactive web application using React and Flask to present the analysis result and use the model in s3 to predict the reason and fire size in the future based on the user's inputs and deployed the application using Heroku.
+
+
+## Application
+
+* url: https://fireforest-app.herokuapp.com/
 
 
 ## File Guide 
