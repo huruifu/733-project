@@ -41,3 +41,8 @@ The forest fires come at a huge financial and ecological cost. With the predicti
 * monthly_autosklearn.ipynb: monthly fire frequency prediction model constructions using auto-sklearn, need to run on Colab. (input dataset: etl_filtered_v1.zip)
 
 * population.ipynb: Add population density as a new feature to dataset (input dataset: gpw_v4_population_density_rev11_2010_30_min .asc, gpw_v4_population_density_rev11_2015_30_min .asc)
+
+
+## Summary
+
+This project aims to predict wildfire reasons, fire sizes, and monthly frequency of wildfires in different states or counties in the U.S. Compared with other existing studies, we have added new features about climate information and human activities which may play a decisive factor in analyzing and predicting wildfires. After dealing with the imbalanced multiclass classification problems, the Random Forest models were selected and stored in AWS s3 since they were explainable and had a higher accuracy score. In addition, we built an interactive web application using React and Flask to present the analysis result and use the model in s3 to predict the reason and fire size in the future based on the user's inputs and deployed the application using Heroku.
